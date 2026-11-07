@@ -22,7 +22,6 @@ Satu episode per hari ("Day N"). Tayang di Instagram dan TikTok **@warungkomen**
 | `characters/mang-juned.md` | Panduan karakter dan gaya bicara (gw/elu, Betawi-Sunda, nyablak). **Wajib dibaca.** |
 | `episodes/KONSEP.md` | Konsep seri yang sudah disetujui (menu bertambah, cabang 1/100). |
 | `episodes/dayN/` | Hasil voting, serah terima, catatan produksi per episode. |
-| `episodes/pengikut.md` | Daftar pengikut IG + TikTok (per 7 Nov 2026) untuk menampilkan nama penonton. |
 | `remotion/warung-netizen/` | Proyek video (Remotion). Komposisi `WarungDay1`, `WarungDay2`, versi `…TikTok`. |
 | `pieces/warung-dayN/` | Naskah suara, take ElevenLabs, timing per kata (`voice.json`), skrip mix audio. |
 | `instagram/`, `tiktok/` | File final yang diposting, cover, paket akun, panduan posting. |

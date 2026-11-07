@@ -37,7 +37,7 @@ Diambil dari screenshot user (7 Nov 2026). IG pakai @username, TikTok pakai nama
 | Kubu MIE AYAM | @febyy243, nazz, @isnn05, azell?, Faxzzz., _Faniiii_ |
 
 Versi TikTok menampilkan @username TikTok untuk penonton TikTok (lihat `handles` di `DAY2_TIKTOK`,
-`src/episode.ts`; daftar lengkap di `episodes/pengikut.md`). `instagram/day2-reel.mp4` adalah file yang sudah tayang di IG.
+`src/episode.ts`; daftar pengikut tidak disimpan di repo publik). `instagram/day2-reel.mp4` adalah file yang sudah tayang di IG.
 
 Di keramaian, nama muncul bergiliran (±1 detik per orang) supaya label besar dan tidak bertumpuk.
 

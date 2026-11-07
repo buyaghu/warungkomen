@@ -25,7 +25,7 @@ Ditulis Sabtu 7 Nov 2026 malam, setelah Day 2 tayang. Baca `CLAUDE.md` dulu.
 
 - Menu pemenang masuk papan sebagai **menu #2** (menu #1 ayam geprek tetap ada).
 - Kalau pemenangnya nasgor atau mie ayam: payoff dari protes Day 2 ("kubu ___ menang!").
-- Pelanggan bertambah dari 5. Pakai nama pengikut baru / komentator dari `episodes/pengikut.md`.
+- Pelanggan bertambah dari 5. Pakai nama komentator (dari screenshot user). Daftar pengikut sengaja tidak disimpan di repo publik ini; minta screenshot daftar pengikut ke user kalau perlu.
 - Ide: papan "PELANGGAN SETIA" untuk yang komen di Day 1 dan Day 2.
 - Ajakan penutup: "ADU LIKE: MENU KE-3".
 
