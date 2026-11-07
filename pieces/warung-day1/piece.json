@@ -1,0 +1,31 @@
+{
+  "name": "warung-day1",
+  "title": "Warung Netizen \u2014 Day 1",
+  "format": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 24,
+    "bpm": 120,
+    "duration": 58.75,
+    "frames": 1410
+  },
+  "storyFormat": "F4 mission (goal + helper), flash-forward open; voice-clocked cuts snapped to the 120 BPM 8th grid",
+  "style": "cut-paper",
+  "voice": {
+    "file": "voice/voice.wav",
+    "music": -12
+  },
+  "review": {
+    "safe": {
+      "top": 240,
+      "bottom": 420,
+      "right": 140
+    },
+    "refs": {}
+  },
+  "scenes": [
+    "src/scenes.js",
+    "src/shots-a.js",
+    "src/shots-b.js"
+  ]
+}

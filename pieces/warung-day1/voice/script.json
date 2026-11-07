@@ -1,0 +1,19 @@
+{
+  "voice": { "provider": "elevenlabs", "voice_id": "401JBh3qavLxL2CJfqvZ", "name": "Wibowo - Friendly and Inviting", "model": "eleven_v4" },
+  "lead": 0.8,
+  "tail": 2.0,
+  "lines": [
+    { "id": "open",     "text": "Suatu hari nanti, warung ini punya seratus cabang.", "after": 0.5, "file": "open.mp3" },
+    { "id": "day1",     "text": "Tapi itu nanti. Ini... hari pertama.", "after": 0.6, "file": "day1.mp3" },
+    { "id": "phk",      "text": "Nama saya Juned. Minggu lalu... saya kena pe ha ka.", "after": 0.45, "file": "phk.mp3" },
+    { "id": "modal",    "text": "Pesangon tinggal lima ratus ribu. Cukup buat... satu gerobak.", "after": 0.5, "file": "modal.mp3" },
+    { "id": "gerobak",  "text": "Gerobaknya bekas. Rodanya miring. Namanya juga usaha.", "after": 0.9, "file": "gerobak.mp3" },
+    { "id": "papan",    "text": "Pelanggan: nol. Omzet: nol.", "after": 0.6, "file": "papan.mp3" },
+    { "id": "masalah",  "text": "Masalahnya... saya nggak tahu mau jualan apa.", "after": 2.6, "file": "masalah.mp3" },
+    { "id": "tentukan", "text": "Jadi... kalian yang tentukan.", "after": 0.6, "file": "tentukan.mp3" },
+    { "id": "aturan1",  "text": "Follow, jadi pelanggan. Komen, pesan menu.", "after": 0.4, "file": "aturan1.mp3" },
+    { "id": "aturan2",  "text": "Komen teratas, besok saya masak.", "after": 0.8, "file": "aturan2.mp3" },
+    { "id": "bon",      "text": "Buku bon saya masih kosong. Halaman pertama... buat kamu.", "after": 0.8, "file": "bon.mp3" },
+    { "id": "akhir",    "text": "Cabang pertama. Sembilan puluh sembilan lagi.", "after": 0.3, "file": "akhir.mp3" }
+  ]
+}

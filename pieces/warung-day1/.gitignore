@@ -1,0 +1,6 @@
+# regenerable render output (node tools/export.mjs / review.mjs); keep only the shareable MP4
+frames/
+review/
+renders/*
+!renders/share.mp4
+voice/voice.wav

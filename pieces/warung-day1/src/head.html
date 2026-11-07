@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Warung Netizen — Day 1</title>
+<style>
+  html, body { margin: 0; height: 100%; background: #1b1714; overflow: hidden; }
+  body { display: flex; align-items: center; justify-content: center; }
+  canvas { height: min(100vh, calc(100vw * 16 / 9)); width: auto; aspect-ratio: 9 / 16; display: block; cursor: pointer; }
+</style>
+</head>
+<body>
+<canvas id="c" width="1080" height="1920"></canvas>
+<script>
+"use strict";
+// =====================================================================
+//  WARUNG NETIZEN — DAY 1. 9:16, 58.75s, 24fps, cut paper. Format F4 (mission) with a flash-forward open:
+//  the dream (a restaurant with 100 branches) -> rewind -> Day 1: laid off, Rp500k, one second-hand cart,
+//  no customers, no menu -> silence -> STAMP "KOMEN = PESAN MENU" (the loudest hit) -> the rules -> the empty
+//  credit book -> the cart at dusk, "CABANG 1/100" (the dream's sign, small and honest).
+//  The voice is the clock: every cut sits just before a sentence, snapped to the 120 BPM 8th grid.
+//  Colour: orange = Mas Juned's apron and his warung, nothing else.
+// =====================================================================
+const FPS = 24, W = 1080, H = 1920;
+const BPM = 120, BEAT = 60 / BPM, E8 = BEAT / 2, E16 = BEAT / 4;
+const DURATION = 58.75;
+const NFRAMES = Math.round(DURATION * FPS);   // 1410
+const LOOP_T = NFRAMES / FPS;
+const SAFE = { top: 240, bottom: 420, right: 140 };
+const HAND = '"Ink Free", "Segoe Print", "Bradley Hand", "Chalkboard SE", "Comic Sans MS", "Comic Neue", cursive';
+const CX = 470;
+
+// ---- the voice: VL(id) = a line {t0, t1, words}, VW(id, word, n) = when the n-th match of word starts
+const VL = (id) => VOICE.lines.find((l) => l.id === id);
+function VW(id, word, n = 0) {
+  const L = VL(id), clean = (s) => s.toLowerCase().replace(/[^a-z0-9]/g, '');
+  const hits = L.words.filter((w) => clean(w.w) === clean(word));
+  return (hits[n] || hits[0] || { t0: L.t0 }).t0;
+}
+
+// the shot list: [t0, scene, camera]  (every boundary is a hard cut on the 8th grid, just before a sentence)
+const SHOT_LIST = [
+  [0.0,   'dream',  'wide'],    // "Suatu hari nanti, warung ini punya seratus cabang."
+  [4.75,  'lot',    'wide'],    // "Tapi itu nanti. Ini... hari pertama."
+  [9.25,  'office', 'wide'],    // "Nama saya Juned. Minggu lalu... saya kena PHK."
+  [15.0,  'modal',  'wide'],    // "Pesangon tinggal lima ratus ribu. Cukup buat... satu gerobak."
+  [20.25, 'build',  'wide'],    // "Gerobaknya bekas. Rodanya miring. Namanya juga usaha."
+  [26.75, 'papan',  'wide'],    // "Pelanggan: nol. Omzet: nol."
+  [30.75, 'menu',   'wide'],    // "Masalahnya..." — silence — STAMP — "Jadi... kalian yang tentukan."
+  [40.0,  'rules',  'wide'],    // "Follow, jadi pelanggan. Komen, pesan menu. Komen teratas, besok saya masak."
+  [47.75, 'bon',    'wide'],    // "Buku bon saya masih kosong. Halaman pertama... buat kamu."
+  [52.75, 'end',    'wide'],    // "Cabang pertama. Sembilan puluh sembilan lagi."
+];
+const SCENE = {
+  dream: () => sDream(), lot: () => sLot(), office: () => sOffice(), modal: () => sModal(), build: () => sBuild(),
+  papan: () => sPapan(), menu: () => sMenu(), rules: () => sRules(), bon: () => sBon(), end: () => sEnd(),
+};
+const ERA_LIST = SHOT_LIST.map(([t0, sc], i) => [t0, i + 1 < SHOT_LIST.length ? SHOT_LIST[i + 1][0] : DURATION, SCENE[sc]]);
+const SHOTS = SHOT_LIST.map(([t0, sc, cam], i) => [sc, i, t0, ERA_LIST[i][1], sc]);
+const STAMP_T = 36.25;   // the loudest hit, in the pause before "Jadi..."
+const TIMELINE = {
+  width: W, height: H, fps: FPS, bpm: BPM, duration: DURATION, frames: NFRAMES, loop: LOOP_T, safe: SAFE,
+  format: 'F4',
+  shots: SHOTS.map(([key, era, t0, t1, title], i) => ({ id: i + 1, key, era, t0, t1, title })),
+  cuts: SHOT_LIST.slice(1).map(([t0]) => t0),
+  morphs: [],
+  cues: { rewind: 4.2, walkIn: 6.4, stamp: STAMP_T, one: 53.5 },
+  acts: [
+    { name: '1 Mimpi',      role: 'build',   t0: 0.0,   t1: 4.75 },
+    { name: '2 Day 1',      role: 'journey', t0: 4.75,  t1: 30.75 },
+    { name: '3 Masalah',    role: 'peak',    t0: 30.75, t1: 34.75 },
+    { name: '4 Hening',     role: 'silence', t0: 34.75, t1: STAMP_T },
+    { name: '5 Stempel',    role: 'gift',    t0: STAMP_T, t1: 47.75 },
+    { name: '6 Buku bon',   role: 'goodbye', t0: 47.75, t1: DURATION },
+  ],
+  board: [
+    { t: 3.0,  title: 'mimpi: 100 cabang', sound: 'musik meriah', next: 'pita diputar balik' },
+    { t: 7.6,  title: 'Day 1: lahan kosong', sound: 'jangkrik', next: 'potong ke kantor' },
+    { t: 13.0, title: 'kena PHK', sound: 'pad sedih', next: 'amplop' },
+    { t: 19.6, title: 'Rp500rb = satu gerobak', sound: 'kring', next: 'merakit' },
+    { t: 24.5, title: 'gerobak bekas, roda miring', sound: 'palu + bel', next: 'papan' },
+    { t: 30.0, title: 'pelanggan 0, omzet 0', sound: 'kapur', next: 'papan menu' },
+    { t: 35.6, title: 'menu kosong (hening)', sound: 'hampir sunyi', next: 'BRAK' },
+    { t: 38.5, title: 'STEMPEL: komen = pesan menu', sound: 'paling keras', next: 'aturan' },
+    { t: 46.5, title: 'tiga aturan main', sound: 'groove riang', next: 'buku bon' },
+    { t: 52.2, title: 'buku bon: halaman pertama', sound: 'pensil', next: 'senja' },
+    { t: 56.5, title: 'CABANG 1/100', sound: 'akor hangat', next: 'kembali ke mimpi' },
+  ],
+  narration: VOICE.lines.map((l) => ({ t0: l.t0, t1: l.t1, text: l.text })),
+};
+window.TIMELINE = TIMELINE;

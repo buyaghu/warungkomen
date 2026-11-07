@@ -1,0 +1,25 @@
+{
+  "voice": { "provider": "elevenlabs", "voice_id": "bwyCvXbDGcE93hF4UWld", "name": "Mang Juned (Warung Komen)", "model": "eleven_v4", "flow": "https://elevenlabs.io/app/flows/RdjxYZdss7VKC4RgyzNA" },
+  "lead": 0.6,
+  "tail": 2.2,
+  "lines": [
+    { "id": "buka",    "text": "Hari kedua, cuy! Gue udeh baca semua komen elu.", "after": 0.3, "file": "buka.mp3" },
+    { "id": "pelit",   "text": "Elu pada pelit like, sumpah.", "after": 0.35, "file": "pelit.mp3" },
+    { "id": "menang",  "text": "Nyang menang... AYAM GEPREK!", "after": 0.8, "file": "menang.mp3" },
+    { "id": "sawit",   "text": "Ada nyang nyuruh jualan sawit. Sawit, cuy!", "after": 0.3, "file": "sawit.mp3" },
+    { "id": "bakso",   "text": "Bakso tanpa tepung? Itu mah rendang bunder.", "after": 0.3, "file": "bakso.mp3" },
+    { "id": "borong",  "text": "Nyang mau borong semua... bayar dulu, ye!", "after": 0.25, "file": "borong.mp3" },
+    { "id": "ayaaya",  "text": "Aya-aya wae elu pada.", "after": 0.5, "file": "ayaaya.mp3" },
+    { "id": "belanja", "text": "Oke. Sisa modal, gue belanja ayam.", "after": 0.25, "file": "belanja.mp3" },
+    { "id": "goreng",  "text": "Goreng sampe kriuk. Ulek sambel, cabe sekilo.", "after": 0.3, "file": "goreng.mp3" },
+    { "id": "pedes",   "text": "Waduh! Pedesnya nyampe ke idung!", "after": 0.35, "file": "pedes.mp3" },
+    { "id": "geprek",  "text": "Geprek! Geprek! Nah... jadi dah.", "after": 0.6, "file": "geprek.mp3" },
+    { "id": "dateng",  "text": "Terus... ada nyang dateng. Beneran dateng!", "after": 0.3, "file": "dateng.mp3" },
+    { "id": "bon",     "text": "Pelanggan pertama. Namanya gue tulis di bon.", "after": 0.3, "file": "bon.mp3" },
+    { "id": "terharu", "text": "Hatur nuhun... gue terharu, sumpah.", "after": 0.6, "file": "terharu.mp3" },
+    { "id": "protes",  "text": "Lah? Kubu nasgor ama mie ayam protes!", "after": 0.25, "file": "protes.mp3" },
+    { "id": "disebut", "text": "Katanye paling banyak disebut. Iye, iye!", "after": 0.4, "file": "disebut.mp3" },
+    { "id": "cta1",    "text": "Ya udah, adu like aje. Komen menu besok!", "after": 0.25, "file": "cta1.mp3" },
+    { "id": "cta2",    "text": "Like paling banyak, gue masak. Buruan, elah!", "after": 0.3, "file": "cta2.mp3" }
+  ]
+}
