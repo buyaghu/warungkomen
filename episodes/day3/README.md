@@ -75,3 +75,7 @@ User menolak pengecilan adegan untuk memberi ruang subtitle. Perbaikan terbaru m
 - Contoh frame dan MP4 akhir diperiksa pada seluruh rangkaian adegan. Video gambar penuh selesai, kedua file lolos decode utuh; durasi 95,019 detik, 1080×1920, 24 fps, audio −14,02 LUFS.
 
 Hasil akhir aktif: `instagram/day3-reel.mp4` dan `tiktok/day3-tiktok.mp4`. Cuplikan versi gambar penuh: `preview-full-frame-v3.png`. Subtitle SRT tetap arsip terpisah dan tidak dibakar ke video. Belum diposting.
+
+## Publikasi terjadwal
+
+Atas instruksi user, Instagram dijadwalkan Senin 9 November 2026 pukul 11.00 WIB melalui tugas otomatis sekali jalan, container terverifikasi FINISHED. Belum dipublikasikan saat persiapan. TikTok tetap manual; paket lengkap `tiktok/day3-paket-manual.zip` dan panduan siap untuk jam yang sama. Batas voting 10 November pukul 17.00 WIB. Detail di publish-plan.json.

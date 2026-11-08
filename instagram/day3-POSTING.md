@@ -28,3 +28,10 @@ Follow, jadi pelanggan gw. Hatur nuhun! 📒
 ```
 
 Pin komentar manual bila API tidak mendukung. TikTok tetap unggah manual oleh user.
+
+## Jadwal terpasang
+
+- Senin, 9 November 2026 pukul 11.00 WIB (04.00 UTC).
+- Akun @warungkomen terverifikasi. Container `17892292569506392` terverifikasi FINISHED, belum dipublikasikan.
+- Tugas otomatis sekali jalan aktif untuk menerbitkan container tersebut pada jadwal, memverifikasi permalink, lalu menambahkan komentar aturan. Ini bukan penjadwalan native Instagram.
+- Belum ada media_id/permalink karena belum waktunya tayang. Pin komentar manual bila API tidak mendukung.

@@ -105,3 +105,13 @@ User meminta kembali ke gambar penuh seperti episode awal, dengan teks sesekali 
 ## Penyerahan versi gambar penuh selesai
 
 Kedua MP4 sudah diganti dengan versi full frame tanpa layer subtitle narasi. Karakter tidak diperkecil untuk membuat ruang teks. Teks hanya penekanan adegan, kartu komentar/nama akun, papan menu dan CTA. Frame dari MP4 final diperiksa; file bisa didekode utuh, durasi 95,019 detik, 1080×1920, 24 fps, audio −14,02 LUFS. Cuplikan: `preview-full-frame-v3.png`; hash MP4 terbaru pada `validation.json`. Naskah/suara tetap, belum diposting. Arahan ini juga dicatat di CLAUDE.md untuk kelanjutan seri.
+
+## Jadwal publikasi disahkan user — 9 November 2026, 11.00 WIB
+
+User meminta posting Instagram jam 11 pagi dan paket TikTok manual pada jam yang sama. Waktu permintaan terverifikasi 9 November pagi WIB; jadwal dipilih Senin 9 November 2026 pukul 11.00 WIB (04.00 UTC).
+
+- IG @warungkomen: container `17892292569506392`, status FINISHED. Tugas sekali jalan aktif untuk publish pada jadwal, verifikasi media/permalink, dan komentar aturan. Belum terbit saat persiapan. Jangan publish atau membuat tugas kedua secara manual.
+- Manifest: `publish-plan.json`; caption dan komentar final di folder instagram. Cover JPEG telah disiapkan.
+- TikTok manual: `tiktok/day3-paket-manual.zip` berisi MP4, cover PNG/JPEG, caption, komentar pin, dan panduan HP. Paket unduhan: https://backend.composio.dev/api/v3/sl/DrEb36niUz . User yang menekan Posting pada jam 11.
+- Batas voting Day 4: Selasa 10 November 2026 pukul 17.00 WIB.
+- Setelah run jadwal, catat bukti media_id/permalink/comment_id/published_at di publish-result.json. Container FINISHED dan tugas enabled belum berarti published.
