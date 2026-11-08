@@ -18,9 +18,9 @@
     44,
     52,
     70,
-    71.329,
-    74,
+    71.3,
     92
   ],
-  "notes": "Full-size scene artwork restored. Only scene labels, comic emphasis, viewer comment cards, and CTA text are rendered. No transcript subtitle layer."
+  "notes": "Full-size scene artwork restored. Only scene labels, comic emphasis, viewer comment cards, and CTA text are rendered. No transcript subtitle layer.",
+  "final_video_frame_review": "pass"
 }

@@ -72,4 +72,6 @@ User menolak pengecilan adegan untuk memberi ruang subtitle. Perbaikan terbaru m
 - Komponen aktif sekarang `src/scenes/Day3Full.tsx`; root tidak memakai clipPath, Captions3 atau Footer3. Tata letak panel v2 di atas hanya riwayat, bukan hasil akhir.
 - Kartu akun besar tetap dipakai, ditempatkan di ruang kosong di atas karakter. Pemenang dan runner-up tetap terlihat jelas.
 - Naskah, audio dan durasi 95 detik tidak berubah.
-- Contoh frame diperiksa pada seluruh rangkaian adegan; render pengganti berlangsung.
+- Contoh frame dan MP4 akhir diperiksa pada seluruh rangkaian adegan. Video gambar penuh selesai, kedua file lolos decode utuh; durasi 95,019 detik, 1080×1920, 24 fps, audio −14,02 LUFS.
+
+Hasil akhir aktif: `instagram/day3-reel.mp4` dan `tiktok/day3-tiktok.mp4`. Cuplikan versi gambar penuh: `preview-full-frame-v3.png`. Subtitle SRT tetap arsip terpisah dan tidak dibakar ke video. Belum diposting.

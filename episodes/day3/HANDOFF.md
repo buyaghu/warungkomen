@@ -1,4 +1,4 @@
-<!-- ARAHAN TERBARU: gambar penuh, karakter besar, tanpa subtitle narasi terus-menerus/panel bawah. Implementasi aktif Day3Full.tsx. Bagian tata letak panel sebelumnya hanya riwayat. -->
+<!-- HASIL AKHIR TERBARU: gambar penuh, karakter besar, tanpa subtitle narasi terus-menerus/panel bawah. MP4 final tervalidasi. Implementasi aktif Day3Full.tsx. Tata letak panel sebelumnya hanya riwayat. -->
 <!-- Status terkini: revisi subtitle dan kredit akun selesai, kedua video pengganti sudah divalidasi. Lihat bagian paling bawah. -->
 # Serah terima: Day 3 Warung Komen
 
@@ -101,3 +101,7 @@ User meminta subtitle, karakter dan label tidak saling menutupi, serta nama akun
 ## Gambar penuh tanpa subtitle berjalan — arahan user terbaru
 
 User meminta kembali ke gambar penuh seperti episode awal, dengan teks sesekali untuk penekanan. Layer subtitle dan panel footer dihapus; root menampilkan Day3Full.tsx tanpa pemotongan/pengecilan panggung. Kartu komentar dengan nama akun besar tetap dipertahankan di ruang kosong, tidak pada tubuh karakter. Naskah/audio/durasi 95 detik tetap. Render pengganti sedang berjalan; kedua jalur MP4 akan diperbarui.
+
+## Penyerahan versi gambar penuh selesai
+
+Kedua MP4 sudah diganti dengan versi full frame tanpa layer subtitle narasi. Karakter tidak diperkecil untuk membuat ruang teks. Teks hanya penekanan adegan, kartu komentar/nama akun, papan menu dan CTA. Frame dari MP4 final diperiksa; file bisa didekode utuh, durasi 95,019 detik, 1080×1920, 24 fps, audio −14,02 LUFS. Cuplikan: `preview-full-frame-v3.png`; hash MP4 terbaru pada `validation.json`. Naskah/suara tetap, belum diposting. Arahan ini juga dicatat di CLAUDE.md untuk kelanjutan seri.
