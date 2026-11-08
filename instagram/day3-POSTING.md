@@ -1,8 +1,8 @@
-# Day 3 — paket Instagram (belum diposting)
+# Day 3 — Instagram, 9 November 2026 pukul 11.00 WIB
 
-Video: `day3-reel.mp4`. Cover: `day3-cover.png`. Durasi target 95 detik, 1080×1920, 24 fps.
+User mengizinkan publikasi Day 3 pada jam tersebut. Tujuan @warungkomen; video full frame final sesuai revisi terakhir, source commit 4224058aaeb3bac5b8e59516496301b277eb980c. Cover JPEG day3-cover.jpg. Status dan container akan dicatat dalam manifest. Belum dipublikasikan saat persiapan.
 
-## Caption
+## Caption final
 
 ```text
 Day 3 🍜 Kubu mie ayam, berhenti demo! Elu menang! 😭
@@ -14,14 +14,17 @@ Menu gw sekarang:
 2. Mie ayam
 
 Menu ke-3 elu mau ape? Komen sekarang! Satu komen dengan like terbanyak di antara IG dan TikTok, gw masak berikutnya.
+Voting ditutup Selasa, 10 November 2026 jam 17.00 WIB.
+
+Nongol di video: @arcvival_2 @_.szsbillaa @nshyilla 👀
 Follow, jadi pelanggan gw. Hatur nuhun! 📒
 #warungkomen #day3 #mieayam
 ```
 
-## Komentar untuk dipin
+## Komentar aturan setelah terbit
 
 ```text
-📌 Aturan Day 4: komen menu ke-3 elu di sini! Satu komen dengan like terbanyak di antara IG dan TikTok sampai besok jam 17.00 WIB, gw masak di Day 4. Like antar komen kagak dijumlahin. Boleh komen lebih dari sekali 😄
+📌 Day 4: komen menu ke-3 elu! Satu komen dengan like terbanyak di antara IG + TikTok sampai Selasa, 10 Nov 2026 jam 17.00 WIB, gw masak. Like antar komen kagak dijumlahin. Boleh komen lebih dari sekali 😄
 ```
 
-Sebelum posting, pastikan "besok" sesuai hari publikasi aktual dan jadwal produksi berikutnya. Gunakan cover terlampir dan label konten AI bila diminta platform. Pin komentar secara manual. Belum ada media/container yang dibuat; posting menunggu permintaan user.
+Pin komentar manual bila API tidak mendukung. TikTok tetap unggah manual oleh user.
