@@ -13,7 +13,7 @@ Satu episode per hari ("Day N"). Tayang di Instagram dan TikTok **@warungkomen**
 |---|---|---|
 | Day 1 | (papan menu kosong) | Tayang 6 Nov 2026 (IG + TikTok) |
 | Day 2 | 1. Ayam geprek | IG tayang 7 Nov 2026 21.07 WIB: https://www.instagram.com/reel/DfcW6oGlycE/ · TikTok diunggah manual oleh user |
-| Day 3 | 2. (pemenang voting Day 2) | Belum. Mulai dari `episodes/day3/HANDOFF.md` |
+| Day 3 | 2. Mie ayam (ayam geprek tetap ada) | Naskah 95 detik disetujui; produksi berlangsung. Lihat `episodes/day3/HANDOFF.md`. |
 
 ## Isi repo
 

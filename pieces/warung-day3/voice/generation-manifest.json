@@ -1,0 +1,637 @@
+{
+  "flow_id": "RyXyKWvX95kdd6wGFgiT",
+  "voice_id": "bwyCvXbDGcE93hF4UWld",
+  "model_id": "eleven_v4",
+  "lines": [
+    {
+      "id": "l01",
+      "text": "Kubu mie ayam, berhenti demo! Elu menang!",
+      "node_id": "pVX3uHwWcYo6xntzRKzI",
+      "session_ids": [
+        "1q0csyex6E3d7wp9vzYj",
+        "YIuCmfx0mbxXaAztGLDa"
+      ],
+      "takes": [
+        {
+          "file": "takes/l01-a.mp3",
+          "duration": 3.28,
+          "generation_id": "UNWRP3fe6inYt7VpL4JF"
+        },
+        {
+          "file": "takes/l01-b.mp3",
+          "duration": 3.36,
+          "generation_id": "kArB9h6KFn1YwEY9289A"
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "text": "Day tiga! Gw masak mie ayam!",
+      "node_id": "6YzhzbC44Jw1AC3ReycN",
+      "session_ids": [
+        "vfqfZNLiG8vWEUPYf58W",
+        "kzRJRe5rAwK2QqHTswOA"
+      ],
+      "takes": [
+        {
+          "file": "takes/l02-a.mp3",
+          "duration": 2.56,
+          "generation_id": "KMfFiu3ZVfhGbJZBPPxs"
+        },
+        {
+          "file": "takes/l02-b.mp3",
+          "duration": 2.56,
+          "generation_id": "qTlXAHUaaA3C4iRRqclg"
+        }
+      ]
+    },
+    {
+      "id": "l03",
+      "text": "Empat puluh dua like! Buset, niat bener!",
+      "node_id": "p3dyuUQdRjbKDc6ufr4O",
+      "session_ids": [
+        "T6cWu8od1ZxqVA6sqWDb",
+        "EpxSW5XaIoKU4y9H37zG"
+      ],
+      "takes": [
+        {
+          "file": "takes/l03-a.mp3",
+          "duration": 3.6,
+          "generation_id": "5uKNcqtS3Z6ix5J3ljxC"
+        },
+        {
+          "file": "takes/l03-b.mp3",
+          "duration": 3.52,
+          "generation_id": "b3Mx7a1FarT5l4DgzHzh"
+        }
+      ]
+    },
+    {
+      "id": "l04",
+      "text": "Nasgor dua puluh delapan. Sabar ye, bos!",
+      "node_id": "BAttyygKtR64XbtBnLnx",
+      "session_ids": [
+        "HQHvatOp1KmCyDartUu9",
+        "bIHF3wsBi7f7ZBd3sis5"
+      ],
+      "takes": [
+        {
+          "file": "takes/l04-a.mp3",
+          "duration": 3.36,
+          "generation_id": "k1y1hXB5RAfBYF9lvjvy"
+        },
+        {
+          "file": "takes/l04-b.mp3",
+          "duration": 3.52,
+          "generation_id": "5iBNqvp4ywZ5qWeB8NGm"
+        }
+      ]
+    },
+    {
+      "id": "l05",
+      "text": "Jangan bakar gerobak! Cicilannya belom lunas!",
+      "node_id": "npqK7VuJX0XzibfoiVjn",
+      "session_ids": [
+        "5XTPaL7uQmxQYY6zMqlU",
+        "p81AqsIiD6AKZWoeT4op"
+      ],
+      "takes": [
+        {
+          "file": "takes/l05-a.mp3",
+          "duration": 3.12,
+          "generation_id": "uePdoElOEitd3DR2gaO8"
+        },
+        {
+          "file": "takes/l05-b.mp3",
+          "duration": 3.04,
+          "generation_id": "N6TL048eUi7xBkYz7juY"
+        }
+      ]
+    },
+    {
+      "id": "l06",
+      "text": "Lah, disuruh pake ayam sisa kemaren?",
+      "node_id": "hVmIAkjqgJZwuWfrmXa5",
+      "session_ids": [
+        "bUkQARbNSmgOZHZjwJQl",
+        "44aewZ8lCzyEzmQiFGVT"
+      ],
+      "takes": [
+        {
+          "file": "takes/l06-a.mp3",
+          "duration": 2.56,
+          "generation_id": "MynDE5TAyp5E5PO3ATIP"
+        },
+        {
+          "file": "takes/l06-b.mp3",
+          "duration": 2.96,
+          "generation_id": "FVZ0Jx5LMwDP2iSrqNOL"
+        }
+      ]
+    },
+    {
+      "id": "l07",
+      "text": "Ayam kemaren udeh ludes! Gw belanja lagi!",
+      "node_id": "tv8hGLhTo5ZxXkrnbSNT",
+      "session_ids": [
+        "qqCOw654xwQLrHUOitDB",
+        "Zg3JtEO9eCWQlycP7IDm"
+      ],
+      "takes": [
+        {
+          "file": "takes/l07-a.mp3",
+          "duration": 3.12,
+          "generation_id": "taWEoiAS7m6JpTs4LCd8"
+        },
+        {
+          "file": "takes/l07-b.mp3",
+          "duration": 2.96,
+          "generation_id": "Vq9EZ9uAZMfm7RSEsMtb"
+        }
+      ]
+    },
+    {
+      "id": "l08",
+      "text": "Ayam baru, mie, sawi. Duit gw melayang!",
+      "node_id": "kzwZdwRuFuC2w1OIZBdn",
+      "session_ids": [
+        "mF6praafk7WsTrA9ZdTp",
+        "DefrdxCLzDIYCGuXtGl1"
+      ],
+      "takes": [
+        {
+          "file": "takes/l08-a.mp3",
+          "duration": 4,
+          "generation_id": "2GMskjpGyWCJfTXCQiHU"
+        },
+        {
+          "file": "takes/l08-b.mp3",
+          "duration": 4.08,
+          "generation_id": "OuyfGEUBPdASoF1JWkrX"
+        }
+      ]
+    },
+    {
+      "id": "l09",
+      "text": "Bang, bawangnya bonus dong. Sesama pengusaha!",
+      "node_id": "WGi8cEst8MDvsEUnDDSq",
+      "session_ids": [
+        "hyFqcuTrZ4Q6GQVZyBtD",
+        "NN4luL6l3Glq4tUQ86wx"
+      ],
+      "takes": [
+        {
+          "file": "takes/l09-a.mp3",
+          "duration": 3.68,
+          "generation_id": "c3qPgC7JLuz1WawzTSk7"
+        },
+        {
+          "file": "takes/l09-b.mp3",
+          "duration": 3.44,
+          "generation_id": "UbhPARxw2NvEJFzs0hmr"
+        }
+      ]
+    },
+    {
+      "id": "l10",
+      "text": "Dikasih satu siung. Ya udeh, rezeki!",
+      "node_id": "CxelsF3BzEMgXX2RnxYL",
+      "session_ids": [
+        "ht34Hjq5W2Y0t1Cv7NNH",
+        "BfJ0ZlXKNVGiPoqNw1pD"
+      ],
+      "takes": [
+        {
+          "file": "takes/l10-a.mp3",
+          "duration": 3.68,
+          "generation_id": "S5QuJHvVeMvn6ShF19lt"
+        },
+        {
+          "file": "takes/l10-b.mp3",
+          "duration": 3.68,
+          "generation_id": "vdXLofe4ptAdVXQayNfA"
+        }
+      ]
+    },
+    {
+      "id": "l11",
+      "text": "Bawang masuk! Ayam masuk! Kecapnya secukupnya!",
+      "node_id": "KDmJX8vUVCHvkdGqAJ6o",
+      "session_ids": [
+        "Lq2R1WxT9p0KDTfnc1Hz",
+        "yT8fu5vtowL9EocWIvtF"
+      ],
+      "takes": [
+        {
+          "file": "takes/l11-a.mp3",
+          "duration": 3.92,
+          "generation_id": "8mmS4pFKGcet1ijvjer8"
+        },
+        {
+          "file": "takes/l11-b.mp3",
+          "duration": 3.92,
+          "generation_id": "9VZcTVaDm8hGSW45sJPp"
+        }
+      ]
+    },
+    {
+      "id": "l12",
+      "text": "Eh, kebanyakan! Ini ayam apa kolam kecap?!",
+      "node_id": "901c8yWOKilcYO1qddyf",
+      "session_ids": [
+        "zYzHbM2UmuemBWnL9fY8",
+        "Njfm3FcedSux1NfDViEE"
+      ],
+      "takes": [
+        {
+          "file": "takes/l12-a.mp3",
+          "duration": 3.68,
+          "generation_id": "DWjf0SB0LH5UXVM9uArX"
+        },
+        {
+          "file": "takes/l12-b.mp3",
+          "duration": 3.6,
+          "generation_id": "PzuRyT3z5wEGL3HBEDgL"
+        }
+      ]
+    },
+    {
+      "id": "l13",
+      "text": "Buset, wanginya! Kucing aje ikut ngantre!",
+      "node_id": "EduhvvVCrgOjjoQ5tcbz",
+      "session_ids": [
+        "pQy4Fm8o243uT48GOtVZ",
+        "a2CcdCgzGaHYT6zWXj7Q"
+      ],
+      "takes": [
+        {
+          "file": "takes/l13-a.mp3",
+          "duration": 3.76,
+          "generation_id": "80eg5Fi64cbsO0iecdXK"
+        },
+        {
+          "file": "takes/l13-b.mp3",
+          "duration": 3.6,
+          "generation_id": "L8AR1nMxIHnp3qSl6Na0"
+        }
+      ]
+    },
+    {
+      "id": "l14",
+      "text": "Elu bawa duit? Jangan bayar pake meong!",
+      "node_id": "NJtYgRHMJXPd5rjaah93",
+      "session_ids": [
+        "ZMgxvO1yfFzQtACSWPHd",
+        "ifaYbmsguzV0Frn9NeZk"
+      ],
+      "takes": [
+        {
+          "file": "takes/l14-a.mp3",
+          "duration": 2.96,
+          "generation_id": "8Hnss9ijjFDPbbvrkjPf"
+        },
+        {
+          "file": "takes/l14-b.mp3",
+          "duration": 3.2,
+          "generation_id": "N9UUIHzW3ptkxmt03QsB"
+        }
+      ]
+    },
+    {
+      "id": "l15",
+      "text": "Sekarang mienya. Rebus, angkat... eh, nyangkut!",
+      "node_id": "PTtcEfUZReyIBmZgQ5BY",
+      "session_ids": [
+        "BlCjqyzMr55t8E3gnKHD",
+        "1tr4li3gQLMlO9hRJnPN"
+      ],
+      "takes": [
+        {
+          "file": "takes/l15-a.mp3",
+          "duration": 4.56,
+          "generation_id": "c5oTiDYBSD3OPMUfJUeE"
+        },
+        {
+          "file": "takes/l15-b.mp3",
+          "duration": 4.56,
+          "generation_id": "iwZAC5m7l4L290nrVxEb"
+        }
+      ]
+    },
+    {
+      "id": "l16",
+      "text": "Ditarik dikit... lah, kagak abis-abis!",
+      "node_id": "zxrXwlbpkGtbeaqAvPZ1",
+      "session_ids": [
+        "naUm2HTY2lb6lNX11z5P",
+        "DkWCDmqxaCyDdsANFKKl"
+      ],
+      "takes": [
+        {
+          "file": "takes/l16-a.mp3",
+          "duration": 3.6,
+          "generation_id": "uQrlPEDwZjrvzHG9iFna"
+        },
+        {
+          "file": "takes/l16-b.mp3",
+          "duration": 3.68,
+          "generation_id": "MGciPFDJjgmgIDtfPPsT"
+        }
+      ]
+    },
+    {
+      "id": "l17",
+      "text": "Ini mie panjang amat! Apa kabel charger?!",
+      "node_id": "Lmxz6YKz5VS0KrGmlqVm",
+      "session_ids": [
+        "CQWXb1KS7xi4SKqeE5xq",
+        "Zbsl5dISWVlPZgzSSJ5p"
+      ],
+      "takes": [
+        {
+          "file": "takes/l17-a.mp3",
+          "duration": 3.92,
+          "generation_id": "T1cleDmldJjdSFEYyJcS"
+        },
+        {
+          "file": "takes/l17-b.mp3",
+          "duration": 3.68,
+          "generation_id": "NdMt3VeBFQXEOeMiPYls"
+        }
+      ]
+    },
+    {
+      "id": "l18",
+      "text": "Jangan ketawa! Elu bantuin pegang mangkok!",
+      "node_id": "HNRaCBXZniVsZeenMY7p",
+      "session_ids": [
+        "ugC6uHT2JEAqCKJvy8az",
+        "0RibAk53BYVXmCPHUuky"
+      ],
+      "takes": [
+        {
+          "file": "takes/l18-a.mp3",
+          "duration": 3.12,
+          "generation_id": "UZWEbWR9S0HCuGrUZeyv"
+        },
+        {
+          "file": "takes/l18-b.mp3",
+          "duration": 3.28,
+          "generation_id": "8V0rSnLSzjl5FHhMBU93"
+        }
+      ]
+    },
+    {
+      "id": "l19",
+      "text": "Nah! Ayam, sawi. Jadi juga mie ayam!",
+      "node_id": "aEaRlsckuwZ74RPiPAg7",
+      "session_ids": [
+        "Tk8KRYM2wMEOO99S27D5",
+        "cDXHwOG1HMr2CTFc9Y6z"
+      ],
+      "takes": [
+        {
+          "file": "takes/l19-a.mp3",
+          "duration": 4,
+          "generation_id": "uyChqbLeOlIlkhMXuAWY"
+        },
+        {
+          "file": "takes/l19-b.mp3",
+          "duration": 3.92,
+          "generation_id": "p5e6Bjw4NZsWCDvwOEg5"
+        }
+      ]
+    },
+    {
+      "id": "l20",
+      "text": "Mangga, pesenan elu. Mie ayam pertama gw!",
+      "node_id": "ipbrWLetY6TDo0Hc1ZbS",
+      "session_ids": [
+        "dI20maklnKxdb0jSUktR",
+        "0Mn6C3DZiM8ozPUffu1G"
+      ],
+      "takes": [
+        {
+          "file": "takes/l20-a.mp3",
+          "duration": 3.44,
+          "generation_id": "2bDHzYuUWFSzdG2qreAx"
+        },
+        {
+          "file": "takes/l20-b.mp3",
+          "duration": 3.2,
+          "generation_id": "y5H7aXDKgNSAcI29OltO"
+        }
+      ]
+    },
+    {
+      "id": "l21",
+      "text": "Lah, baru disuap, mangkoknya dibalikin?!",
+      "node_id": "5zSWorLe4f1qrXS5Q5Ai",
+      "session_ids": [
+        "Ta1kUMAhxJAWLmCWFxzf",
+        "5zSjoVL8k3qooG3tZulz"
+      ],
+      "takes": [
+        {
+          "file": "takes/l21-a.mp3",
+          "duration": 3.2,
+          "generation_id": "myn89o5l6LMIRa6ZYd3m"
+        },
+        {
+          "file": "takes/l21-b.mp3",
+          "duration": 3.2,
+          "generation_id": "rxUPtBBWqiindbBgUwRk"
+        }
+      ]
+    },
+    {
+      "id": "l22",
+      "text": "Kurang enak, ye? Jujur aje, gw kuat.",
+      "node_id": "X5jZwvnxTq237nMJceEN",
+      "session_ids": [
+        "2MEvILlLRdAIWFbG6n1m",
+        "grZi710iWr8QRMCdGAlM"
+      ],
+      "takes": [
+        {
+          "file": "takes/l22-a.mp3",
+          "duration": 3.44,
+          "generation_id": "bCJzRNFKLsEp2NjSUQ2m"
+        },
+        {
+          "file": "takes/l22-b.mp3",
+          "duration": 3.44,
+          "generation_id": "MGqlLBoyeoWRvbZL5hbV"
+        }
+      ]
+    },
+    {
+      "id": "l23",
+      "text": "Oh, nambah?! Bilang dong! Jantung gw copot!",
+      "node_id": "UnIwIsB1MSRQi9aDWQmY",
+      "session_ids": [
+        "kENFsgD7loSMK68pb46x",
+        "LY8DDb1ftATtBsKj7aYU"
+      ],
+      "takes": [
+        {
+          "file": "takes/l23-a.mp3",
+          "duration": 3.76,
+          "generation_id": "EelDp5cDX1Om7gL0aZJe"
+        },
+        {
+          "file": "takes/l23-b.mp3",
+          "duration": 3.84,
+          "generation_id": "wmvz9XZs1Uh75GXla5Q2"
+        }
+      ]
+    },
+    {
+      "id": "l24",
+      "text": "Nih, ayamnya gw tambahin. Jangan bilang-bilang!",
+      "node_id": "cc1PuMqXgbwCjhEKjHIk",
+      "session_ids": [
+        "z9RnhlMm8kHP4yj4w7wm",
+        "oQCOztPmyzuWK96iUCLe"
+      ],
+      "takes": [
+        {
+          "file": "takes/l24-a.mp3",
+          "duration": 3.12,
+          "generation_id": "UVqsNWGXcGhSPRJNviyW"
+        },
+        {
+          "file": "takes/l24-b.mp3",
+          "duration": 3.2,
+          "generation_id": "nf9DssCx8YqRJRdgeEAG"
+        }
+      ]
+    },
+    {
+      "id": "l25",
+      "text": "Lah, belakang elu denger! Semua minta tambah!",
+      "node_id": "W8EvfGiDNiJc2f2avpoA",
+      "session_ids": [
+        "V81o1Z2EiWfAYSwN7J67",
+        "qNG3h7cFxyAVCuB7vAuN"
+      ],
+      "takes": [
+        {
+          "file": "takes/l25-a.mp3",
+          "duration": 3.28,
+          "generation_id": "oUYy59Za2oAKt718VpjE"
+        },
+        {
+          "file": "takes/l25-b.mp3",
+          "duration": 3.52,
+          "generation_id": "j6plgnrt3yZPsUXmNQy9"
+        }
+      ]
+    },
+    {
+      "id": "l26",
+      "text": "Menu kedua resmi! Ayam geprek tetep ada!",
+      "node_id": "s1nmaZ3wFlwi6yMqcF2S",
+      "session_ids": [
+        "tppRNXsBZRtikYGTI9h9",
+        "4ioVu0T1qYorFTQGK7Ho"
+      ],
+      "takes": [
+        {
+          "file": "takes/l26-a.mp3",
+          "duration": 3.76,
+          "generation_id": "PPkIVFLrvxZ702KMBjQG"
+        },
+        {
+          "file": "takes/l26-b.mp3",
+          "duration": 3.68,
+          "generation_id": "cTul6atsvGbFckDzF1to"
+        }
+      ]
+    },
+    {
+      "id": "l27",
+      "text": "Kemaren lima pelanggan. Sekarang delapan! Hatur nuhun!",
+      "node_id": "b6vxqnmZDhjUtlFJN7QE",
+      "session_ids": [
+        "kqkXOhSYZ39C77cp19zA",
+        "7cyvsrxYX3QxHz0gPDT3"
+      ],
+      "takes": [
+        {
+          "file": "takes/l27-a.mp3",
+          "duration": 4.4,
+          "generation_id": "vDUHKfxO2EuzhXewBuaf"
+        },
+        {
+          "file": "takes/l27-b.mp3",
+          "duration": 4.24,
+          "generation_id": "sXeJX8UGN8VhtXmIaGHN"
+        }
+      ]
+    },
+    {
+      "id": "l28",
+      "text": "Dua menu, satu gerobak. Makin sempit, buset!",
+      "node_id": "D3vjW2KrQgywbBdx4f8F",
+      "session_ids": [
+        "KuAOGPHbpJzyRj680gzG",
+        "B81neSqsO64wXbEETUbY"
+      ],
+      "takes": [
+        {
+          "file": "takes/l28-a.mp3",
+          "duration": 4.32,
+          "generation_id": "E8VFHymX8TiqFmzRibLM"
+        },
+        {
+          "file": "takes/l28-b.mp3",
+          "duration": 4.24,
+          "generation_id": "M8IvRIwzQtlxNjCwiPes"
+        }
+      ]
+    },
+    {
+      "id": "l29",
+      "text": "Besok menu ketiga! Elu mau pesen ape?",
+      "node_id": "dx8o2pEeR9k2rwrwlyxb",
+      "session_ids": [
+        "xkPsyAHDUN87Tss8bCgk",
+        "pTRSetGgUDiX7VHqoCwC"
+      ],
+      "takes": [
+        {
+          "file": "takes/l29-a.mp3",
+          "duration": 2.56,
+          "generation_id": "2kxruOUeU8Rz0575zkuB"
+        },
+        {
+          "file": "takes/l29-b.mp3",
+          "duration": 2.64,
+          "generation_id": "pJw32J3UvzrCjdw6UnQC"
+        }
+      ]
+    },
+    {
+      "id": "l30",
+      "text": "Komen! Nyang paling banyak like, gw masak!",
+      "node_id": "mvp7y01AnueynTM0JSUc",
+      "session_ids": [
+        "C4lXdENdcDUQDk1iwgpU",
+        "KM8x20xBBWEBxNixS0zV"
+      ],
+      "takes": [
+        {
+          "file": "takes/l30-a.mp3",
+          "duration": 3.12,
+          "generation_id": "xaFZTBqIKhyzd4I1OdjK"
+        },
+        {
+          "file": "takes/l30-b.mp3",
+          "duration": 3.12,
+          "generation_id": "pIY3J122eMNKEhA3f747"
+        }
+      ]
+    }
+  ]
+}

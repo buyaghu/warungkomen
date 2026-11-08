@@ -80,7 +80,7 @@ export const NameTag: React.FC<{ x: number; y: number; text: string; size?: numb
   );
 };
 
-const Customer: React.FC<{ x: number; y: number; s?: number; t: number; body?: string; skin?: string; hair?: string; walk?: boolean; wave?: boolean; flip?: boolean; name?: string; tag?: "head" | "chest"; lift?: number; nk?: number }> =
+export const Customer: React.FC<{ x: number; y: number; s?: number; t: number; body?: string; skin?: string; hair?: string; walk?: boolean; wave?: boolean; flip?: boolean; name?: string; tag?: "head" | "chest"; lift?: number; nk?: number }> =
   ({ x, y, s = 1, t, body = C.purple, skin = "#efc19e", hair = "#3a2418", walk, wave, flip, name, tag = "head", lift = 0, nk = 1 }) => {
     const step = walk ? Math.sin(t * 12) * 16 : 0;
     const bob = walk ? Math.abs(Math.sin(t * 12)) * -8 : Math.sin(t * 4) * 3;

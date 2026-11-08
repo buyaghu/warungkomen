@@ -67,3 +67,12 @@ export const DAY2_TIKTOK: Episode = {
     "IJN DZEKI": "@ijnzeki0",
   },
 };
+
+export const DAY3: Episode = {
+  ...DAY2,
+  day: 3,
+  pelangganAkhir: "8",
+  menu: ["Ayam geprek", "Mie ayam"],
+  handles: { nazz: DAY2_TIKTOK.handles.nazz },
+};
+export const DAY3_TIKTOK: Episode = { ...DAY3, captionY: 1280 };

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "l01",
+    "source": "takes/l01-a.mp3",
+    "heard": "Kubu Miayam Berhenti Demo Lumenang",
+    "score": 0.944,
+    "speed": 1.062268,
+    "duration": 2.8155
+  },
+  {
+    "id": "l02",
+    "source": "takes/l02-a.mp3",
+    "heard": "Day 3! Gue masak mi ayam!",
+    "score": 0.88,
+    "speed": 1.062268,
+    "duration": 2.2591
+  },
+  {
+    "id": "l03",
+    "source": "takes/l03-b.mp3",
+    "heard": "40 dolar LIKE! Buu, sep! Miat bener!",
+    "score": 0.667,
+    "speed": 1.062268,
+    "duration": 3.2037
+  },
+  {
+    "id": "l04",
+    "source": "takes/l04-a.mp3",
+    "heard": "Nasgor 28 Sabar ya boss",
+    "score": 0.96,
+    "speed": 1.062268,
+    "duration": 3.0181
+  },
+  {
+    "id": "l05",
+    "source": "takes/l05-b.mp3",
+    "heard": "Jangan bakar grobak, cikilannya belum lunas.",
+    "score": 0.965,
+    "speed": 1.062268,
+    "duration": 2.7637
+  },
+  {
+    "id": "l06",
+    "source": "takes/l06-a.mp3",
+    "heard": "Lah, disuruh pake ayam sisa kemarin.",
+    "score": 1.0,
+    "speed": 1.136858,
+    "duration": 2.1153
+  },
+  {
+    "id": "l07",
+    "source": "takes/l07-b.mp3",
+    "heard": "Ayam kemarin udah ludes, gue belanja lagi!",
+    "score": 0.975,
+    "speed": 1.136858,
+    "duration": 2.4949
+  },
+  {
+    "id": "l08",
+    "source": "takes/l08-b.mp3",
+    "heard": "Ayam baru, mi, sawi, duit gue melayang!",
+    "score": 0.986,
+    "speed": 1.136858,
+    "duration": 3.4306
+  },
+  {
+    "id": "l09",
+    "source": "takes/l09-b.mp3",
+    "heard": "Bang! Bawangnya bonus dong! Sesama pengusaha!",
+    "score": 1.0,
+    "speed": 1.136858,
+    "duration": 2.8989
+  },
+  {
+    "id": "l10",
+    "source": "takes/l10-b.mp3",
+    "heard": "dikasih satu siyong, yaudah, renjaki!",
+    "score": 0.836,
+    "speed": 1.136858,
+    "duration": 3.0819
+  },
+  {
+    "id": "l11",
+    "source": "takes/l11-b.mp3",
+    "heard": "Bawang masuk, ayam masuk, kecapnya sejukupnya.",
+    "score": 0.977,
+    "speed": 1.231024,
+    "duration": 3.0528
+  },
+  {
+    "id": "l12",
+    "source": "takes/l12-b.mp3",
+    "heard": "Eh kebanyakan, ini ayam apa kolam kecap?",
+    "score": 1.0,
+    "speed": 1.231024,
+    "duration": 2.7243
+  },
+  {
+    "id": "l13",
+    "source": "takes/l13-b.mp3",
+    "heard": "Bu set wanginya ku cingga aja ikut ngantri",
+    "score": 0.9,
+    "speed": 1.231024,
+    "duration": 2.7921
+  },
+  {
+    "id": "l14",
+    "source": "takes/l14-a.mp3",
+    "heard": "Lu bawa duit! Jangan bayar pakai meyong!",
+    "score": 0.973,
+    "speed": 1.231024,
+    "duration": 2.2997
+  },
+  {
+    "id": "l15",
+    "source": "takes/l15-a.mp3",
+    "heard": "Sekarang minya, rebus, angkat, nyangkut",
+    "score": 0.947,
+    "speed": 1.231024,
+    "duration": 3.5012
+  },
+  {
+    "id": "l16",
+    "source": "takes/l16-a.mp3",
+    "heard": "Dia tarik sedikit, lah, kaga abis abis!",
+    "score": 0.912,
+    "speed": 1.231024,
+    "duration": 2.8071
+  },
+  {
+    "id": "l17",
+    "source": "takes/l17-b.mp3",
+    "heard": "Ini mimi panjang amat apa kabel charger?",
+    "score": 0.961,
+    "speed": 1.231024,
+    "duration": 2.8789
+  },
+  {
+    "id": "l18",
+    "source": "takes/l18-a.mp3",
+    "heard": "Jangan ketawa lu bantuin pegang mangkok.",
+    "score": 0.987,
+    "speed": 1.231024,
+    "duration": 2.3761
+  },
+  {
+    "id": "l19",
+    "source": "takes/l19-b.mp3",
+    "heard": "Nah, ayam, saui, jadi juga mi ayam.",
+    "score": 0.952,
+    "speed": 1.231024,
+    "duration": 3.0638
+  },
+  {
+    "id": "l20",
+    "source": "takes/l20-a.mp3",
+    "heard": "Mangga, pesanan lu, mi ayam pertama gue!",
+    "score": 0.947,
+    "speed": 1.118645,
+    "duration": 2.9315
+  },
+  {
+    "id": "l21",
+    "source": "takes/l21-b.mp3",
+    "heard": "lah baru disuap, mangkoknya dibalikin.",
+    "score": 1.0,
+    "speed": 1.118645,
+    "duration": 2.6934
+  },
+  {
+    "id": "l22",
+    "source": "takes/l22-b.mp3",
+    "heard": "kurang enak ya, jujur aja, gue kuat",
+    "score": 0.939,
+    "speed": 1.118645,
+    "duration": 2.7663
+  },
+  {
+    "id": "l23",
+    "source": "takes/l23-b.mp3",
+    "heard": "Oh, nambah! Bilang dong! Jatung gue topot!",
+    "score": 0.961,
+    "speed": 1.118645,
+    "duration": 3.2675
+  },
+  {
+    "id": "l24",
+    "source": "takes/l24-b.mp3",
+    "heard": "Ini ayamnya gue tambahin, jangan bilang bilang.",
+    "score": 0.966,
+    "speed": 1.118645,
+    "duration": 2.6807
+  },
+  {
+    "id": "l25",
+    "source": "takes/l25-b.mp3",
+    "heard": "Lah, belakang elu denger! Semua minta tambah!",
+    "score": 1.0,
+    "speed": 1.118645,
+    "duration": 2.9961
+  },
+  {
+    "id": "l26",
+    "source": "takes/l26-a.mp3",
+    "heard": "Menuh kedua, resmi, ayam geprek tetap ada.",
+    "score": 0.961,
+    "speed": 1.115153,
+    "duration": 3.2603
+  },
+  {
+    "id": "l27",
+    "source": "takes/l27-b.mp3",
+    "heard": "kemarin 5 pelanggan. Sekarang 8, hatur nuhun.",
+    "score": 0.86,
+    "speed": 1.115153,
+    "duration": 3.6444
+  },
+  {
+    "id": "l28",
+    "source": "takes/l28-a.mp3",
+    "heard": "Dua menun, satu grobak, makin sempit buset!",
+    "score": 0.975,
+    "speed": 1.115153,
+    "duration": 3.6706
+  },
+  {
+    "id": "l29",
+    "source": "takes/l29-b.mp3",
+    "heard": "Besok menurut ketiga, lu mau pesan apa ya?",
+    "score": 0.853,
+    "speed": 1.115153,
+    "duration": 2.2612
+  },
+  {
+    "id": "l30",
+    "source": "takes/l30-a.mp3",
+    "heard": "Comen yang paling banyak like gue masak!",
+    "score": 0.962,
+    "speed": 1.115153,
+    "duration": 2.5622
+  }
+]

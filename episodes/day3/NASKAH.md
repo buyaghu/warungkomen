@@ -1,6 +1,6 @@
-# Day 3 — Mie ayam (DRAF REVISI, target 95 detik)
+# Day 3 — Mie ayam (DISETUJUI, target 95 detik)
 
-User menyetujui arah episode 90–100 detik dan pembagian cerita 15 + 15 + 30 + 20 + 15 detik. Target utama 95 detik. Revisi berisi 30 baris; persetujuan arah/durasi belum berarti persetujuan kata-per-kata naskah baru. Tinjau naskah ini sebelum produksi suara dan video.
+User menyetujui arah episode 90–100 detik dan pembagian cerita 15 + 15 + 30 + 20 + 15 detik. Target utama 95 detik. Revisi 30 baris ini sudah disetujui user dalam percakapan: "Oke setuju em". Produksi suara dan video diizinkan; posting belum diminta.
 
 Rentang waktu di bawah adalah rencana penyuntingan, bukan hasil pengukuran take. Gunakan tempo Juned yang nyablak dan cepat; isi jeda dengan aksi, reaksi, dan SFX. Ukur setiap take dan sesuaikan agar hasil akhir 90–100 detik tanpa memperlambat narasi secara berlebihan.
 
@@ -68,4 +68,4 @@ Visual: MenuBoard berisi Ayam geprek + Mie ayam. PELANGGAN 5 → 8 (angka cerita
 - Papan gerobak WARUNG KOMEN, CABANG 1/100. Menu bertambah menjadi [Ayam geprek, Mie ayam].
 - IG dan TikTok tetap 1080×1920, 24 fps; captionY mengikuti varian platform. Audio −14 LUFS.
 - Target durasi khusus Day 3 menggantikan target umum 45–62 detik. Tanggal/jam voting berikutnya ditetapkan sesuai jadwal publikasi aktual.
-- Status: menunggu tinjauan naskah revisi. Belum produksi suara/video dan belum posting.
+- Status: naskah disetujui, produksi suara/video berlangsung. Belum posting.

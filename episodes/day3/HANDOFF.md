@@ -1,5 +1,10 @@
 # Serah terima: Day 3 Warung Komen
 
+## Status terkini — produksi disetujui
+
+User sudah menyetujui naskah revisi 30 baris dengan target 95 detik: "Oke setuju em". Produksi suara selesai, animasi Day 3 selesai dibuat, render IG dan TikTok berlangsung. Catatan produksi di `episodes/day3/README.md`. Belum posting. Bagian rencana lama di bawah dipertahankan sebagai riwayat; ikuti status terkini ini.
+
+
 Ditulis Sabtu 7 Nov 2026 malam, setelah Day 2 tayang. Baca `CLAUDE.md` dulu.
 
 ## Status Day 2
@@ -60,3 +65,12 @@ Ditulis Sabtu 7 Nov 2026 malam, setelah Day 2 tayang. Baca `CLAUDE.md` dulu.
 ## Revisi durasi — 8 November 2026
 
 User setuju arah 90–100 detik. NASKAH.md kini 30 baris dengan rencana lima bagian: pengumuman/protes 15 detik, komentar dan belanja 15, memasak 30, tambah porsi 20, penutup 15. Total target 95 detik, perlu diukur setelah take suara. Persetujuan arah/durasi sudah ada; naskah revisi konkret menunggu tinjauan sebelum produksi. Belum membuat suara, render final, atau posting.
+
+## Produksi setelah persetujuan naskah
+
+- Flow ElevenLabs Day 3: https://elevenlabs.io/app/flows/RyXyKWvX95kdd6wGFgiT . 30 baris, dua take per baris, model eleven_v4, suara Mang Juned yang sama.
+- Take terpilih, transkripsi, timing dan skrip audio di `pieces/warung-day3/`. Audio final WAV tepat 95 detik; −13,96 LUFS dan −1,90 dBTP sebelum enkode AAC.
+- Komposisi `WarungDay3`, `WarungDay3TikTok`, `CoverDay3` sudah ditambahkan. Menu [Ayam geprek, Mie ayam], pelanggan cerita 8, cabang 1/100.
+- Pengikut mentah dan screenshot tetap di luar repo publik. Handle pemenang diambil dari pemetaan nazz yang sudah ada di episode.ts Day 2.
+- Caption dan usulan komentar aturan di instagram/day3-POSTING.md dan tiktok/day3-POSTING.md. Sesuaikan tanggal voting dengan jadwal publikasi aktual.
+- Posting belum diminta dan belum dilakukan. TikTok tetap unggah manual.

@@ -1,0 +1,216 @@
+{
+  "duration": 95,
+  "assembly": "python3 pieces/warung-day3/build_voice.py",
+  "lines": [
+    {
+      "id": "l01",
+      "text": "Kubu mie ayam, berhenti demo! Elu menang!",
+      "file": "l01.mp3",
+      "start": 0.2,
+      "after": 0.16
+    },
+    {
+      "id": "l02",
+      "text": "Day tiga! Gw masak mie ayam!",
+      "file": "l02.mp3",
+      "start": 3.176,
+      "after": 0.16
+    },
+    {
+      "id": "l03",
+      "text": "Empat puluh dua like! Buset, niat bener!",
+      "file": "l03.mp3",
+      "start": 5.595,
+      "after": 0.16
+    },
+    {
+      "id": "l04",
+      "text": "Nasgor dua puluh delapan. Sabar ye, bos!",
+      "file": "l04.mp3",
+      "start": 8.958,
+      "after": 0.16
+    },
+    {
+      "id": "l05",
+      "text": "Jangan bakar gerobak! Cicilannya belom lunas!",
+      "file": "l05.mp3",
+      "start": 12.136,
+      "after": 0.16
+    },
+    {
+      "id": "l06",
+      "text": "Lah, disuruh pake ayam sisa kemaren?",
+      "file": "l06.mp3",
+      "start": 15.2,
+      "after": 0.16
+    },
+    {
+      "id": "l07",
+      "text": "Ayam kemaren udeh ludes! Gw belanja lagi!",
+      "file": "l07.mp3",
+      "start": 17.475,
+      "after": 0.16
+    },
+    {
+      "id": "l08",
+      "text": "Ayam baru, mie, sawi. Duit gue melayang!",
+      "file": "l08.mp3",
+      "start": 20.13,
+      "after": 0.16
+    },
+    {
+      "id": "l09",
+      "text": "Bang, bawangnya bonus dong. Sesama pengusaha!",
+      "file": "l09.mp3",
+      "start": 23.721,
+      "after": 0.16
+    },
+    {
+      "id": "l10",
+      "text": "Dikasih satu siung. Ya udeh, rezeki!",
+      "file": "l10.mp3",
+      "start": 26.78,
+      "after": 0.65
+    },
+    {
+      "id": "l11",
+      "text": "Bawang masuk! Ayam masuk! Kecapnya secukupnya!",
+      "file": "l11.mp3",
+      "start": 30.2,
+      "after": 0.16
+    },
+    {
+      "id": "l12",
+      "text": "Eh, kebanyakan! Ini ayam apa kolam kecap?!",
+      "file": "l12.mp3",
+      "start": 33.413,
+      "after": 0.16
+    },
+    {
+      "id": "l13",
+      "text": "Buset, wanginya! Kucing aje ikut ngantre!",
+      "file": "l13.mp3",
+      "start": 36.297,
+      "after": 0.16
+    },
+    {
+      "id": "l14",
+      "text": "Elu bawa duit? Jangan bayar pake meong!",
+      "file": "l14.mp3",
+      "start": 39.249,
+      "after": 0.16
+    },
+    {
+      "id": "l15",
+      "text": "Sekarang mienya. Rebus, angkat... eh, nyangkut!",
+      "file": "l15.mp3",
+      "start": 41.709,
+      "after": 0.16
+    },
+    {
+      "id": "l16",
+      "text": "Ditarik dikit... lah, kagak abis-abis!",
+      "file": "l16.mp3",
+      "start": 45.37,
+      "after": 0.38
+    },
+    {
+      "id": "l17",
+      "text": "Ini mie panjang amat! Apa kabel charger?!",
+      "file": "l17.mp3",
+      "start": 48.557,
+      "after": 0.6
+    },
+    {
+      "id": "l18",
+      "text": "Jangan ketawa! Elu bantuin pegang mangkok!",
+      "file": "l18.mp3",
+      "start": 52.036,
+      "after": 0.4
+    },
+    {
+      "id": "l19",
+      "text": "Nah! Ayam, sawi. Jadi juga mie ayam!",
+      "file": "l19.mp3",
+      "start": 54.812,
+      "after": 0.16
+    },
+    {
+      "id": "l20",
+      "text": "Mangga, pesenan elu. Mie ayam pertama gue!",
+      "file": "l20.mp3",
+      "start": 58.2,
+      "after": 0.16
+    },
+    {
+      "id": "l21",
+      "text": "Lah, baru disuap, mangkoknya dibalikin?!",
+      "file": "l21.mp3",
+      "start": 61.292,
+      "after": 0.16
+    },
+    {
+      "id": "l22",
+      "text": "Kurang enak, ye? Jujur aje, gue kuat.",
+      "file": "l22.mp3",
+      "start": 64.145,
+      "after": 0.5
+    },
+    {
+      "id": "l23",
+      "text": "Oh, nambah?! Bilang dong! Jantung gue copot!",
+      "file": "l23.mp3",
+      "start": 67.411,
+      "after": 0.35
+    },
+    {
+      "id": "l24",
+      "text": "Nih, ayamnya gue tambahin. Jangan bilang-bilang!",
+      "file": "l24.mp3",
+      "start": 71.029,
+      "after": 0.16
+    },
+    {
+      "id": "l25",
+      "text": "Lah, belakang elu denger! Semua minta tambah!",
+      "file": "l25.mp3",
+      "start": 73.869,
+      "after": 0.16
+    },
+    {
+      "id": "l26",
+      "text": "Menu kedua resmi! Ayam geprek tetep ada!",
+      "file": "l26.mp3",
+      "start": 77.2,
+      "after": 0.16
+    },
+    {
+      "id": "l27",
+      "text": "Kemaren lima pelanggan. Sekarang delapan! Hatur nuhun!",
+      "file": "l27.mp3",
+      "start": 80.62,
+      "after": 0.16
+    },
+    {
+      "id": "l28",
+      "text": "Dua menu, satu gerobak. Makin sempit, buset!",
+      "file": "l28.mp3",
+      "start": 84.425,
+      "after": 0.16
+    },
+    {
+      "id": "l29",
+      "text": "Besok menu ketiga! Elu mau pesen ape?",
+      "file": "l29.mp3",
+      "start": 88.255,
+      "after": 0.16
+    },
+    {
+      "id": "l30",
+      "text": "Komen! Nyang paling banyak like, gue masak!",
+      "file": "l30.mp3",
+      "start": 90.677,
+      "after": 0.16
+    }
+  ]
+}
