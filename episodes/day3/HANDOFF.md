@@ -46,3 +46,13 @@ Ditulis Sabtu 7 Nov 2026 malam, setelah Day 2 tayang. Baca `CLAUDE.md` dulu.
    `share_to_feed`) → `INSTAGRAM_POST_IG_USER_MEDIA_PUBLISH` → komentar aturan via `INSTAGRAM_POST_IG_MEDIA_COMMENTS`.
    Caption IG: mention @username IG penonton yang tampil.
 7. Paket TikTok: `tiktok/day3-POSTING.md` (video, cover, caption dengan @username TikTok, komentar pin, label AI).
+
+
+## Pembaruan 8 November 2026 — hasil dan draf
+
+- User menyetujui screenshot terakhir sekitar 20.57–21.01 WIB sebagai dasar voting khusus Day 3, menggantikan snapshot batas awal 17.00 WIB.
+- Menu pemenang **Mie ayam**, satu komentar TikTok 42 like; runner-up nasi goreng IG 28 like. Ringkasan di `episodes/day2/results.md`.
+- Draf 18 baris dan usulan adegan: `episodes/day3/NASKAH.md`. **Belum disetujui user; belum produksi suara/video dan belum posting.**
+- Usulan pelanggan cerita 5 → 8; tidak disamakan dengan angka pengikut.
+- Identitas pemenang dan komentar asli tersedia dalam percakapan kerja; cocokkan handles episode sebelumnya sebelum produksi. Jangan salin daftar pengikut atau folder screenshot ke repo publik.
+- Langkah berikutnya: minta tinjauan naskah konkret, revisi sesuai masukan, baru produksi setelah disetujui.
