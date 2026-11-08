@@ -15,7 +15,7 @@ Mie ayam menang dengan 42 like pada satu komentar TikTok, dibanding 28 like nasi
 - Angka kritis 42 diperiksa ulang dengan ElevenLabs Scribe. Take B baris 3 dipakai; take A baris 26 dipilih untuk kata geprek.
 - Hening tepi dipangkas. Tempo bagian sekitar 1,06–1,23×. Timeline akhir: pembukaan 0–15, belanja 15–30, masak 30–58, pelanggan 58–77, penutup 77–95 detik.
 - Lip-sync mengikuti waktu kata hasil pengenalan aktual, diskalakan mengikuti tempo take; teks caption mengikuti naskah yang disetujui.
-- Tata letak terbaru: panggung berakhir y1190, subtitle berada pada panel khusus berpusat y1300, maksimal dua baris. IG dan TikTok menggunakan framing aman yang sama. Lihat bagian revisi tata letak.
+- Tata letak aktif: gambar penuh, karakter besar, tanpa subtitle narasi terus-menerus atau panel bawah. Teks berupa penekanan sesekali dan kartu komentar. Lihat arahan terbaru user di bagian akhir.
 - Musik dan SFX disintesis lokal mengikuti pola Day 2; audio dinormalisasi dua pass. Pengukuran WAV: −13,96 LUFS, true peak −1,90 dBTP.
 - `Customer` Day 2 hanya ditambah export untuk dipakai ulang; komposisi Day 1/2 tidak diganti.
 
@@ -38,7 +38,7 @@ Python memerlukan numpy. Audit ulang take memerlukan faster-whisper dan model ba
 
 - `instagram/day3-reel.mp4`, `instagram/day3-cover.png`, `instagram/day3-POSTING.md`.
 - `tiktok/day3-tiktok.mp4`, `tiktok/day3-cover.png`, `tiktok/day3-POSTING.md`.
-- Subtitle tambahan: `pieces/warung-day3/captions.srt`.
+- Transkrip SRT arsip: `pieces/warung-day3/captions.srt` (tidak dirender ke video).
 - Spesifikasi: 1080×1920, 24 fps, H.264/AAC, 95 detik.
 
 Posting IG hanya saat user meminta; TikTok tetap manual. Tetapkan tanggal penutupan voting berdasarkan hari publikasi aktual, bukan tanggal pembuatan video.
@@ -64,3 +64,12 @@ User melaporkan subtitle menutupi karakter dan nama akun sulit terlihat. Perbaik
 - Frame tiap adegan dan detik 14 diperiksa. Batas subtitle untuk seluruh 30 baris dicatat pada `layout-validation.json`. Master pengganti selesai; kedua MP4 lolos decode utuh, durasi 95,019 detik, 1080×1920, 24 fps, audio −14,02 LUFS.
 
 Kartu label di pembuka dirapikan dengan render frame 0–359 lalu digabung pada detik 15. Audio AAC master dipertahankan. Master hasil akhir digunakan untuk kedua platform, karena tata letak dan properti tampilan keduanya identik.
+
+## Arahan terbaru user — gambar penuh, tanpa subtitle berjalan
+
+User menolak pengecilan adegan untuk memberi ruang subtitle. Perbaikan terbaru mengembalikan gambar penuh 1080×1920 dan karakter besar, menghapus seluruh layer subtitle narasi serta panel bawah. Teks hanya berupa penekanan adegan, kartu komentar, papan menu dan CTA.
+
+- Komponen aktif sekarang `src/scenes/Day3Full.tsx`; root tidak memakai clipPath, Captions3 atau Footer3. Tata letak panel v2 di atas hanya riwayat, bukan hasil akhir.
+- Kartu akun besar tetap dipakai, ditempatkan di ruang kosong di atas karakter. Pemenang dan runner-up tetap terlihat jelas.
+- Naskah, audio dan durasi 95 detik tidak berubah.
+- Contoh frame diperiksa pada seluruh rangkaian adegan; render pengganti berlangsung.

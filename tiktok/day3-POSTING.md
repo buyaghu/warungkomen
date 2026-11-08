@@ -1,6 +1,6 @@
 # Day 3 — paket TikTok (unggah manual)
 
-Video: `day3-tiktok.mp4`. Cover: `day3-cover.png`. Caption layar y1280 untuk menghindari area deskripsi TikTok. 95 detik, 1080×1920, 24 fps.
+Video: `day3-tiktok.mp4`. Cover: `day3-cover.png`. Gambar penuh tanpa subtitle narasi berjalan; teks layar hanya untuk penekanan dan kartu komentar. 95 detik, 1080×1920, 24 fps.
 
 ## Caption
 
@@ -21,7 +21,7 @@ Satu komen paling banyak like di antara IG + TikTok, gw masak berikutnya.
 ## Unggah
 
 1. Pilih video versi TikTok dan cover terlampir.
-2. Tempel caption, aktifkan label konten buatan AI, periksa tampilan layar penuh.
+2. Tempel caption, aktifkan label konten buatan AI, periksa tampilan layar penuh. Subtitle otomatis tidak diperlukan; video menggunakan teks penekanan saja.
 3. Pastikan "besok jam 17.00 WIB" sesuai hari unggah dan jadwal episode berikutnya.
 4. Unggah dari HP, kemudian tambahkan komentar aturan dan pin bila fitur tersedia.
 5. Simpan link unggahan untuk HANDOFF berikutnya.

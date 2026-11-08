@@ -1,3 +1,4 @@
+<!-- ARAHAN TERBARU: gambar penuh, karakter besar, tanpa subtitle narasi terus-menerus/panel bawah. Implementasi aktif Day3Full.tsx. Bagian tata letak panel sebelumnya hanya riwayat. -->
 <!-- Status terkini: revisi subtitle dan kredit akun selesai, kedua video pengganti sudah divalidasi. Lihat bagian paling bawah. -->
 # Serah terima: Day 3 Warung Komen
 
@@ -96,3 +97,7 @@ User meminta subtitle, karakter dan label tidak saling menutupi, serta nama akun
 - `layout-validation.json`: hasil pemeriksaan seluruh 30 blok subtitle. `validation.json`: detail MP4 akhir dan SHA-256 terbaru.
 - File IG/TikTok identik karena menggunakan framing aman yang sama. Narasi, suara, durasi dan hasil voting tidak berubah.
 - Belum diposting. User dapat meninjau video revisi.
+
+## Gambar penuh tanpa subtitle berjalan — arahan user terbaru
+
+User meminta kembali ke gambar penuh seperti episode awal, dengan teks sesekali untuk penekanan. Layer subtitle dan panel footer dihapus; root menampilkan Day3Full.tsx tanpa pemotongan/pengecilan panggung. Kartu komentar dengan nama akun besar tetap dipertahankan di ruang kosong, tidak pada tubuh karakter. Naskah/audio/durasi 95 detik tetap. Render pengganti sedang berjalan; kedua jalur MP4 akan diperbarui.

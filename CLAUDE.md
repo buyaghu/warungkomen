@@ -17,6 +17,7 @@ ingatan percakapan. Bahasa kerja dengan user: **Bahasa Indonesia**.
   **manual oleh user** dari HP (siapkan video versi TikTok, cover, caption, komentar pin).
 - Nama penonton boleh ditampilkan (sudah disetujui), pakai @username publik. Kalau ada yang minta dihapus, hapus.
 - Setelah tiap tahap: commit dan push ke repo ini, lalu perbarui HANDOFF/README episode.
+- **Arahan visual terbaru user (Day 3): gambar tetap full frame, karakter besar. Jangan pakai subtitle transkrip terus-menerus atau panel bawah yang mengecilkan adegan. Teks cukup sesekali untuk penekanan, kartu komentar/nama akun, menu dan CTA; jangan menutupi karakter.**
 - Jangan memakai Google Fonts di Remotion (render headless tidak bisa mengambilnya); font Fredoka sudah lokal.
 
 ## Alat dan ID

@@ -72,8 +72,8 @@ export const DAY3: Episode = {
   ...DAY2,
   day: 3,
   pelangganAkhir: "8",
-  // Day 3 uses a reserved subtitle band below the stage, shared by both platforms.
-  captionY: 1300,
+  // Day 3 is full frame with occasional emphasis text, without continuous subtitles.
+  captionY: 1450,
   menu: ["Ayam geprek", "Mie ayam"],
   handles: { nazz: DAY2_TIKTOK.handles.nazz },
 };

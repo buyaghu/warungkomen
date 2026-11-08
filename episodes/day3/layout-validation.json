@@ -1,234 +1,26 @@
 {
-  "revision": "subtitle-and-account-visibility-v2",
-  "stage_clip_bottom": 1190,
-  "subtitle_center_y": 1300,
-  "min_gap_px": 34.5,
-  "max_rows": 2,
+  "revision": "full-frame-v3",
+  "full_frame": true,
+  "continuous_subtitles": false,
+  "reserved_subtitle_panel": false,
+  "stage_clipping": false,
+  "render_scene": "Day3Full.tsx",
   "account_font_px": [
     40,
     56
   ],
   "platforms_share_safe_layout": true,
   "preview_seconds": [
-    10,
     14,
     17,
     28,
-    38,
+    40,
+    44,
     52,
     70,
+    71.329,
+    74,
     92
   ],
-  "lines": [
-    {
-      "line": "l01",
-      "rows": 2,
-      "top": 1224.5,
-      "bottom": 1375.5,
-      "gap_from_stage": 34.5
-    },
-    {
-      "line": "l02",
-      "rows": 1,
-      "top": 1253.5,
-      "bottom": 1346.5,
-      "gap_from_stage": 63.5
-    },
-    {
-      "line": "l03",
-      "rows": 2,
-      "top": 1224.5,
-      "bottom": 1375.5,
-      "gap_from_stage": 34.5
-    },
-    {
-      "line": "l04",
-      "rows": 2,
-      "top": 1224.5,
-      "bottom": 1375.5,
-      "gap_from_stage": 34.5
-    },
-    {
-      "line": "l05",
-      "rows": 2,
-      "top": 1224.5,
-      "bottom": 1375.5,
-      "gap_from_stage": 34.5
-    },
-    {
-      "line": "l06",
-      "rows": 2,
-      "top": 1224.5,
-      "bottom": 1375.5,
-      "gap_from_stage": 34.5
-    },
-    {
-      "line": "l07",
-      "rows": 2,
-      "top": 1224.5,
-      "bottom": 1375.5,
-      "gap_from_stage": 34.5
-    },
-    {
-      "line": "l08",
-      "rows": 2,
-      "top": 1224.5,
-      "bottom": 1375.5,
-      "gap_from_stage": 34.5
-    },
-    {
-      "line": "l09",
-      "rows": 2,
-      "top": 1224.5,
-      "bottom": 1375.5,
-      "gap_from_stage": 34.5
-    },
-    {
-      "line": "l10",
-      "rows": 2,
-      "top": 1224.5,
-      "bottom": 1375.5,
-      "gap_from_stage": 34.5
-    },
-    {
-      "line": "l11",
-      "rows": 2,
-      "top": 1224.5,
-      "bottom": 1375.5,
-      "gap_from_stage": 34.5
-    },
-    {
-      "line": "l12",
-      "rows": 2,
-      "top": 1224.5,
-      "bottom": 1375.5,
-      "gap_from_stage": 34.5
-    },
-    {
-      "line": "l13",
-      "rows": 2,
-      "top": 1224.5,
-      "bottom": 1375.5,
-      "gap_from_stage": 34.5
-    },
-    {
-      "line": "l14",
-      "rows": 2,
-      "top": 1224.5,
-      "bottom": 1375.5,
-      "gap_from_stage": 34.5
-    },
-    {
-      "line": "l15",
-      "rows": 2,
-      "top": 1224.5,
-      "bottom": 1375.5,
-      "gap_from_stage": 34.5
-    },
-    {
-      "line": "l16",
-      "rows": 2,
-      "top": 1224.5,
-      "bottom": 1375.5,
-      "gap_from_stage": 34.5
-    },
-    {
-      "line": "l17",
-      "rows": 2,
-      "top": 1224.5,
-      "bottom": 1375.5,
-      "gap_from_stage": 34.5
-    },
-    {
-      "line": "l18",
-      "rows": 2,
-      "top": 1224.5,
-      "bottom": 1375.5,
-      "gap_from_stage": 34.5
-    },
-    {
-      "line": "l19",
-      "rows": 2,
-      "top": 1224.5,
-      "bottom": 1375.5,
-      "gap_from_stage": 34.5
-    },
-    {
-      "line": "l20",
-      "rows": 2,
-      "top": 1224.5,
-      "bottom": 1375.5,
-      "gap_from_stage": 34.5
-    },
-    {
-      "line": "l21",
-      "rows": 2,
-      "top": 1224.5,
-      "bottom": 1375.5,
-      "gap_from_stage": 34.5
-    },
-    {
-      "line": "l22",
-      "rows": 2,
-      "top": 1224.5,
-      "bottom": 1375.5,
-      "gap_from_stage": 34.5
-    },
-    {
-      "line": "l23",
-      "rows": 2,
-      "top": 1224.5,
-      "bottom": 1375.5,
-      "gap_from_stage": 34.5
-    },
-    {
-      "line": "l24",
-      "rows": 2,
-      "top": 1224.5,
-      "bottom": 1375.5,
-      "gap_from_stage": 34.5
-    },
-    {
-      "line": "l25",
-      "rows": 2,
-      "top": 1224.5,
-      "bottom": 1375.5,
-      "gap_from_stage": 34.5
-    },
-    {
-      "line": "l26",
-      "rows": 2,
-      "top": 1224.5,
-      "bottom": 1375.5,
-      "gap_from_stage": 34.5
-    },
-    {
-      "line": "l27",
-      "rows": 2,
-      "top": 1224.5,
-      "bottom": 1375.5,
-      "gap_from_stage": 34.5
-    },
-    {
-      "line": "l28",
-      "rows": 2,
-      "top": 1224.5,
-      "bottom": 1375.5,
-      "gap_from_stage": 34.5
-    },
-    {
-      "line": "l29",
-      "rows": 2,
-      "top": 1224.5,
-      "bottom": 1375.5,
-      "gap_from_stage": 34.5
-    },
-    {
-      "line": "l30",
-      "rows": 2,
-      "top": 1224.5,
-      "bottom": 1375.5,
-      "gap_from_stage": 34.5
-    }
-  ]
+  "notes": "Full-size scene artwork restored. Only scene labels, comic emphasis, viewer comment cards, and CTA text are rendered. No transcript subtitle layer."
 }
