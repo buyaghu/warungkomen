@@ -31,7 +31,7 @@ Ditulis Sabtu 7 Nov 2026 malam, setelah Day 2 tayang. Baca `CLAUDE.md` dulu.
 
 ## Produksi Day 3
 
-1. Naskah ±16–18 baris (maks ±8 kata/baris), gaya `characters/mang-juned.md`. Minta persetujuan.
+1. Naskah Day 3 direvisi menjadi 30 baris, target 90–100 detik (utama 95 detik; arah/durasi disetujui user), gaya `characters/mang-juned.md`. Minta persetujuan.
 2. Suara: ElevenLabs (voice id di `CLAUDE.md`), satu node per baris dalam satu flow; unduh take ke
    `pieces/warung-day3/voice/takes/`, pilih take dengan transkripsi (faster-whisper), percepat `atempo` kalau
    terlalu panjang, lalu `voice.mjs`.
@@ -52,7 +52,11 @@ Ditulis Sabtu 7 Nov 2026 malam, setelah Day 2 tayang. Baca `CLAUDE.md` dulu.
 
 - User menyetujui screenshot terakhir sekitar 20.57–21.01 WIB sebagai dasar voting khusus Day 3, menggantikan snapshot batas awal 17.00 WIB.
 - Menu pemenang **Mie ayam**, satu komentar TikTok 42 like; runner-up nasi goreng IG 28 like. Ringkasan di `episodes/day2/results.md`.
-- Draf 18 baris dan usulan adegan: `episodes/day3/NASKAH.md`. **Belum disetujui user; belum produksi suara/video dan belum posting.**
+- Draf revisi 30 baris, target 95 detik, dan usulan adegan: `episodes/day3/NASKAH.md`. **Belum disetujui user; belum produksi suara/video dan belum posting.**
 - Usulan pelanggan cerita 5 → 8; tidak disamakan dengan angka pengikut.
 - Identitas pemenang dan komentar asli tersedia dalam percakapan kerja; cocokkan handles episode sebelumnya sebelum produksi. Jangan salin daftar pengikut atau folder screenshot ke repo publik.
 - Langkah berikutnya: minta tinjauan naskah konkret, revisi sesuai masukan, baru produksi setelah disetujui.
+
+## Revisi durasi — 8 November 2026
+
+User setuju arah 90–100 detik. NASKAH.md kini 30 baris dengan rencana lima bagian: pengumuman/protes 15 detik, komentar dan belanja 15, memasak 30, tambah porsi 20, penutup 15. Total target 95 detik, perlu diukur setelah take suara. Persetujuan arah/durasi sudah ada; naskah revisi konkret menunggu tinjauan sebelum produksi. Belum membuat suara, render final, atau posting.
