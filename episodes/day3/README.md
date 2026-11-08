@@ -50,3 +50,15 @@ Posting IG hanya saat user meminta; TikTok tetap manual. Tetapkan tanggal penutu
 - Frame tiap adegan IG dan TikTok diperiksa, termasuk koreksi posisi label penutup TikTok.
 - Detail decode, dimensi, durasi, FPS, audio, loudness dan SHA-256: lihat `validation.json`.
 - Penutup TikTok diperbaiki dengan render frame 1848–2279, lalu disambungkan pada detik 77; audio AAC asli dipertahankan. Video hasil sambungan diperiksa ulang.
+
+## Revisi tata letak atas koreksi user
+
+User melaporkan subtitle menutupi karakter dan nama akun sulit terlihat. Perbaikan visual ini tidak mengubah naskah, suara, hasil voting, atau durasi.
+
+- Komponen adegan baru: `src/scenes/Day3Layout.tsx`. Main `WarungDay3.tsx` menggunakan layout ini.
+- Adegan dibatasi pada y0–1190; aktor dan properti utama ditata ulang agar tetap utuh dalam area tersebut.
+- Subtitle ditempatkan pada panel terpisah di bawah panggung, pusat y1300, maksimal dua baris. Jarak minimum antara batas panggung dan tepi subtitle 34,5 px termasuk outline.
+- Nama akun tampil pada kartu komentar berukuran besar (40–56 px), dengan label platform, kutipan dan like yang relevan. Nama tidak ditempel pada tubuh/gerobak.
+- Kedua varian kini memakai framing aman yang sama, sehingga satu master render dapat digunakan untuk IG maupun TikTok tanpa render/enkode ulang atau perubahan suara.
+- Empat akun yang dikreditkan berasal dari komentar penonton yang sudah ditinjau; screenshot mentah dan daftar pengikut tidak ditambahkan ke repo.
+- Status revisi: frame tiap adegan sudah diperiksa; render MP4 pengganti berlangsung.

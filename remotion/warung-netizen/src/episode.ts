@@ -72,7 +72,9 @@ export const DAY3: Episode = {
   ...DAY2,
   day: 3,
   pelangganAkhir: "8",
+  // Day 3 uses a reserved subtitle band below the stage, shared by both platforms.
+  captionY: 1300,
   menu: ["Ayam geprek", "Mie ayam"],
   handles: { nazz: DAY2_TIKTOK.handles.nazz },
 };
-export const DAY3_TIKTOK: Episode = { ...DAY3, captionY: 1280 };
+export const DAY3_TIKTOK: Episode = { ...DAY3 };

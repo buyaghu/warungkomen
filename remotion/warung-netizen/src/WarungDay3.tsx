@@ -5,7 +5,8 @@ import { FPS, H, MouthCtx, W } from "./lib";
 import { CaptionY } from "./Props";
 import type { Episode } from "./episode";
 import { NamesCtx } from "./scenes/Day2";
-import { Captions3, Closing, Leftovers, Market, NoodleTrouble, SecondHelping, StirFry, V3, Victory, cue } from "./scenes/Day3";
+import { V3, cue } from "./scenes/Day3";
+import { Captions3, Closing, Footer3, Leftovers, Market, NoodleTrouble, SecondHelping, StirFry, STAGE_BOTTOM, Victory } from "./scenes/Day3Layout";
 
 export const DURATION3_S = 95;
 export const SHOTS3: [number, React.FC<{ t: number; ep: Episode }>][] = [
@@ -23,7 +24,9 @@ export const WarungDay3: React.FC<Episode> = (ep) => {
       <MouthCtx.Provider value={V3.mouthAt}>
         <CaptionY.Provider value={ep.captionY}>
           <NamesCtx.Provider value={ep.handles}>
-            <Scene t={t} ep={ep} /><Captions3 t={t} />
+            <defs><clipPath id="day3-stage"><rect width={W} height={STAGE_BOTTOM} /></clipPath></defs>
+            <g data-stage="true" clipPath="url(#day3-stage)"><Scene t={t} ep={ep} /></g>
+            <Footer3 ep={ep} /><Captions3 t={t} />
           </NamesCtx.Provider>
         </CaptionY.Provider>
       </MouthCtx.Provider>
