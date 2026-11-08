@@ -10,8 +10,8 @@
     "audio_codec": "aac",
     "loudness_lufs": -14.02,
     "true_peak_dbtp": -1.9,
-    "size_bytes": 26161370,
-    "sha256": "694bc4d7d23cf9c58ff77431a1078a7674ea9ba1cf18fde9889caedd1f8c0b58",
+    "size_bytes": 17906743,
+    "sha256": "e5891d12fded4db6842120b597387521be852b6c85c4eb38ad261b9709cf26dd",
     "full_decode": "pass"
   },
   "tiktok": {
@@ -25,8 +25,8 @@
     "audio_codec": "aac",
     "loudness_lufs": -14.02,
     "true_peak_dbtp": -1.9,
-    "size_bytes": 25313633,
-    "sha256": "5507d780cc8e1c9576380021669541fe4fbfcd73a6d8a08c964e1182b1b59f33",
+    "size_bytes": 17906743,
+    "sha256": "e5891d12fded4db6842120b597387521be852b6c85c4eb38ad261b9709cf26dd",
     "full_decode": "pass"
   }
 }

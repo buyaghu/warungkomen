@@ -15,7 +15,7 @@ Mie ayam menang dengan 42 like pada satu komentar TikTok, dibanding 28 like nasi
 - Angka kritis 42 diperiksa ulang dengan ElevenLabs Scribe. Take B baris 3 dipakai; take A baris 26 dipilih untuk kata geprek.
 - Hening tepi dipangkas. Tempo bagian sekitar 1,06–1,23×. Timeline akhir: pembukaan 0–15, belanja 15–30, masak 30–58, pelanggan 58–77, penutup 77–95 detik.
 - Lip-sync mengikuti waktu kata hasil pengenalan aktual, diskalakan mengikuti tempo take; teks caption mengikuti naskah yang disetujui.
-- Caption IG y1450, TikTok y1280, dibungkus maksimum sekitar 31 karakter per baris. Karakter foreground tertentu dinaikkan 180 px di TikTok agar wajah tidak tertutup caption; karakter di kartu penutup diperkecil ke skala 0,6 agar seluruh label tetap terbaca.
+- Tata letak terbaru: panggung berakhir y1190, subtitle berada pada panel khusus berpusat y1300, maksimal dua baris. IG dan TikTok menggunakan framing aman yang sama. Lihat bagian revisi tata letak.
 - Musik dan SFX disintesis lokal mengikuti pola Day 2; audio dinormalisasi dua pass. Pengukuran WAV: −13,96 LUFS, true peak −1,90 dBTP.
 - `Customer` Day 2 hanya ditambah export untuk dipakai ulang; komposisi Day 1/2 tidak diganti.
 
@@ -49,7 +49,7 @@ Posting IG hanya saat user meminta; TikTok tetap manual. Tetapkan tanggal penutu
 - Timing 30 baris dan seluruh waktu kata berada dalam rentang 0–95 detik: lolos.
 - Frame tiap adegan IG dan TikTok diperiksa, termasuk koreksi posisi label penutup TikTok.
 - Detail decode, dimensi, durasi, FPS, audio, loudness dan SHA-256: lihat `validation.json`.
-- Penutup TikTok diperbaiki dengan render frame 1848–2279, lalu disambungkan pada detik 77; audio AAC asli dipertahankan. Video hasil sambungan diperiksa ulang.
+- Riwayat: penutup TikTok versi pertama pernah diperbaiki terpisah. Revisi tata letak terbaru mengganti seluruh adegan dan berlaku pada kedua platform.
 
 ## Revisi tata letak atas koreksi user
 
@@ -61,4 +61,6 @@ User melaporkan subtitle menutupi karakter dan nama akun sulit terlihat. Perbaik
 - Nama akun tampil pada kartu komentar berukuran besar (40–56 px), dengan label platform, kutipan dan like yang relevan. Nama tidak ditempel pada tubuh/gerobak.
 - Kedua varian kini memakai framing aman yang sama, sehingga satu master render dapat digunakan untuk IG maupun TikTok tanpa render/enkode ulang atau perubahan suara.
 - Empat akun yang dikreditkan berasal dari komentar penonton yang sudah ditinjau; screenshot mentah dan daftar pengikut tidak ditambahkan ke repo.
-- Status revisi: frame tiap adegan sudah diperiksa; render MP4 pengganti berlangsung.
+- Frame tiap adegan dan detik 14 diperiksa. Batas subtitle untuk seluruh 30 baris dicatat pada `layout-validation.json`. Master pengganti selesai; kedua MP4 lolos decode utuh, durasi 95,019 detik, 1080×1920, 24 fps, audio −14,02 LUFS.
+
+Kartu label di pembuka dirapikan dengan render frame 0–359 lalu digabung pada detik 15. Audio AAC master dipertahankan. Master hasil akhir digunakan untuk kedua platform, karena tata letak dan properti tampilan keduanya identik.

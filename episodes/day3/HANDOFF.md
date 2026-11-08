@@ -1,4 +1,4 @@
-<!-- Status revisi terkini: user meminta perbaikan subtitle yang menutupi karakter dan nama akun yang tidak terbaca. Layout pengganti sedang dirender; lihat bagian paling bawah. -->
+<!-- Status terkini: revisi subtitle dan kredit akun selesai, kedua video pengganti sudah divalidasi. Lihat bagian paling bawah. -->
 # Serah terima: Day 3 Warung Komen
 
 ## Status terkini — produksi disetujui
@@ -87,3 +87,12 @@ User setuju arah 90–100 detik. NASKAH.md kini 30 baris dengan rencana lima bag
 ## Koreksi user: subtitle dan nama akun
 
 User meminta subtitle, karakter dan label tidak saling menutupi, serta nama akun terlihat jelas. `Day3Layout.tsx` mengganti tata letak adegan Day 3: panggung berakhir y1190, subtitle terpisah di y1300, kartu nama akun 40–56 px di atas aktor. IG dan TikTok menggunakan framing aman yang sama. Naskah dan audio 95 detik tetap. Frame tiap adegan diperiksa sebelum render ulang; hasil pengganti akan disimpan pada jalur MP4 yang sama. Cover dan naskah tetap berlaku.
+
+## Revisi visual selesai
+
+- Kedua MP4 telah diganti dengan master layout baru. Subtitle tidak berada pada area gambar: panggung y0–1190, subtitle pusat y1300, jarak minimum 34,5 px.
+- Nama akun terbaca di kartu komentar 40–56 px, lengkap dengan platform dan konteks komentar.
+- Frame per adegan, detik 14, serta sambungan detik 15 diperiksa. Cuplikan: `preview-layout-v2.png`.
+- `layout-validation.json`: hasil pemeriksaan seluruh 30 blok subtitle. `validation.json`: detail MP4 akhir dan SHA-256 terbaru.
+- File IG/TikTok identik karena menggunakan framing aman yang sama. Narasi, suara, durasi dan hasil voting tidak berubah.
+- Belum diposting. User dapat meninjau video revisi.

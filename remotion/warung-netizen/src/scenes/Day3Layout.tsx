@@ -50,7 +50,7 @@ export const Victory: React.FC<P> = ({ t, ep }) => <Outside>
   <Sticker x={175} y={650} text="AKHIRNYA!" size={33} fill={C.teal} t={t} />
   <Sticker x={880} y={650} text={t >= cue(5) ? "IYE, SABAR!" : "NASGOR KAPAN?"} size={31} t={t} />
   <Juned x={535} y={1140} s={0.62} t={t} pose={t>=cue(5)?"wave":"proud"} mood={t>=cue(5)?"wow":"happy"} />
-  {t>=cue(5) && <Sticker x={540} y={625} text="CICILAN BELOM LUNAS!" size={31} fill={C.white} t={t} />}
+  {t>=cue(5) && <Sticker x={540} y={625} text="BELOM LUNAS!" size={31} fill={C.white} t={t} />}
 </Outside>;
 
 export const Leftovers: React.FC<P> = ({t,ep}) => <Outside>
