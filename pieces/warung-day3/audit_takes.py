@@ -5,7 +5,7 @@ from faster_whisper import WhisperModel
 
 HERE=pathlib.Path(__file__).resolve().parent
 manifest=json.loads((HERE/'voice/generation-manifest.json').read_text())
-model=WhisperModel(os.environ.get('WHISPER_MODEL','small'),device='cpu',compute_type='int8',cpu_threads=4,download_root=str(HERE/'../../../.venv/models'))
+model=WhisperModel(os.environ.get('WHISPER_MODEL','base'),device='cpu',compute_type='int8',cpu_threads=3,download_root=str(HERE/'../../.venv/models'))
 out=[]
 def clean(s):
     s=s.lower().replace('gw','gue')

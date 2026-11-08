@@ -2,7 +2,7 @@
 
 ## Status terkini — produksi disetujui
 
-User sudah menyetujui naskah revisi 30 baris dengan target 95 detik: "Oke setuju em". Produksi suara selesai, animasi Day 3 selesai dibuat, render IG dan TikTok berlangsung. Catatan produksi di `episodes/day3/README.md`. Belum posting. Bagian rencana lama di bawah dipertahankan sebagai riwayat; ikuti status terkini ini.
+User sudah menyetujui naskah revisi 30 baris dengan target 95 detik: "Oke setuju em". Produksi suara, animasi, dan render IG/TikTok selesai. Kedua video 95 detik; paket final siap ditinjau. Catatan produksi di `episodes/day3/README.md`. Belum posting. Bagian rencana lama di bawah dipertahankan sebagai riwayat; ikuti status terkini ini.
 
 
 Ditulis Sabtu 7 Nov 2026 malam, setelah Day 2 tayang. Baca `CLAUDE.md` dulu.
@@ -74,3 +74,11 @@ User setuju arah 90–100 detik. NASKAH.md kini 30 baris dengan rencana lima bag
 - Pengikut mentah dan screenshot tetap di luar repo publik. Handle pemenang diambil dari pemetaan nazz yang sudah ada di episode.ts Day 2.
 - Caption dan usulan komentar aturan di instagram/day3-POSTING.md dan tiktok/day3-POSTING.md. Sesuaikan tanggal voting dengan jadwal publikasi aktual.
 - Posting belum diminta dan belum dilakukan. TikTok tetap unggah manual.
+
+## Penyerahan final
+
+- Video: `instagram/day3-reel.mp4` dan `tiktok/day3-tiktok.mp4`. Cover masing-masing `day3-cover.png`.
+- Subtitle, caption, komentar pin, naskah, take suara, dan skrip produksi disimpan.
+- Pemeriksaan mencakup TypeScript, ESLint pada file yang berubah, timing 30 baris, frame tiap adegan kedua platform, decode MP4 utuh, dimensi/FPS/durasi/audio dan loudness. Hasil teknis dan hash file di `validation.json`.
+- Penutup TikTok dirapikan dan diekspor ulang agar karakter tidak menutupi label.
+- Langkah berikutnya: user meninjau video. Posting hanya bila diminta; sesuaikan tanggal voting dengan publikasi aktual.

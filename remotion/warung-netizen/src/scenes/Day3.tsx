@@ -192,7 +192,7 @@ export const Closing: React.FC<P> = ({ t, ep }) => {
       {t >= cue(28) && <Sticker x={540} y={1130} text="GEROBAK MAKIN SEMPIT!" size={44} fill={C.white} t={t} t0={cue(28)} rot={-3} />}
     </>}
     <Gerobak x={270} y={1700} s={0.65} sign={ep.warung} />
-    <Juned x={790} y={heroY(ep, 1760)} s={0.78} t={t} pose="wave" mood="happy" />
+    <Juned x={790} y={1760} s={ep.captionY < 1400 ? 0.6 : 0.78} t={t} pose="wave" mood="happy" />
     <Sticker x={310} y={1820} text={`CABANG ${ep.cabang}`} size={35} fill={C.white} t={t} />
   </>;
 };
