@@ -1,0 +1,43 @@
+{
+  "project": "warungkomen",
+  "episode": 3,
+  "status": "published",
+  "account": "instagram_mumper-tickle",
+  "username": "warungkomen",
+  "ig_user_id": "39546597871650793",
+  "creation_id": "17892292569506392",
+  "media_id": "18393880069230303",
+  "permalink": "https://www.instagram.com/reel/Dff15saD4Ub/",
+  "published_at": "2026-11-09T04:00:33Z",
+  "published_at_wib": "2026-11-09T11:00:33+07:00",
+  "scheduled_at": "2026-11-09T11:00:00+07:00",
+  "video_sha256": "345c4d6d07c43bc23cb95107e84cdbac91df6d1b4c38e02b178b9d0a84e42375",
+  "video_source_commit": "4224058aaeb3bac5b8e59516496301b277eb980c",
+  "caption": "Day 3 🍜 Kubu mie ayam, berhenti demo! Elu menang! 😭\n42 like bikin gw masak MIE AYAM. Kubu nasgor: sabar ye, bos 😂\nMienya nyangkut, mangkoknya dibalikin… eh, ternyata minta nambah!\n\nMenu gw sekarang:\n1. Ayam geprek\n2. Mie ayam\n\nMenu ke-3 elu mau ape? Komen sekarang! Satu komen dengan like terbanyak di antara IG dan TikTok, gw masak berikutnya.\nVoting ditutup Selasa, 10 November 2026 jam 17.00 WIB.\n\nNongol di video: @arcvival_2 @_.szsbillaa @nshyilla 👀\nFollow, jadi pelanggan gw. Hatur nuhun! 📒\n#warungkomen #day3 #mieayam",
+  "comment_id": "18112435073217639",
+  "rule_comment": "📌 Day 4: komen menu ke-3 elu! Satu komen dengan like terbanyak di antara IG + TikTok sampai Selasa, 10 Nov 2026 jam 17.00 WIB, gw masak. Like antar komen kagak dijumlahin. Boleh komen lebih dari sekali 😄",
+  "comment_published_at": "2026-11-09T04:01:16Z",
+  "comment_verified": true,
+  "comment_pin_status": "manual_action_required",
+  "vote_deadline": "2026-11-10T17:00:00+07:00",
+  "voting_rule": "Single comment with highest like count across Instagram and TikTok; do not aggregate likes per menu or across comments.",
+  "verification": {
+    "account_verified": true,
+    "prepublish_container_status": "FINISHED",
+    "duplicate_check": "Recent account media checked before publication; no matching Day 3 found.",
+    "publish_call_count": 1,
+    "published_media_verified": true,
+    "caption_matches": true,
+    "permalink_verified": true,
+    "comment_match_count": 1,
+    "publish_log_id": "log_TCI8Cm4kZr5U",
+    "media_verification_log_id": "log_r0JCkJTCnsrz",
+    "comment_creation_log_id": "log_Y3p4TVunrO8t",
+    "comment_verification_log_id": "log_AAFM1LlWz0wN"
+  },
+  "tiktok": {
+    "status": "manual_package_ready_not_posted",
+    "package_url": "https://backend.composio.dev/api/v3/sl/DrEb36niUz",
+    "backup_url": "https://raw.githubusercontent.com/buyaghu/warungkomen/f9cf267bc6189d61a6ef10f520d28ddffa37cf1a/tiktok/day3-paket-manual.zip"
+  }
+}
