@@ -12,7 +12,7 @@
   "ig_caption": "Day 3 🍜 Kubu mie ayam, berhenti demo! Elu menang! 😭\n42 like bikin gw masak MIE AYAM. Kubu nasgor: sabar ye, bos 😂\nMienya nyangkut, mangkoknya dibalikin… eh, ternyata minta nambah!\n\nMenu gw sekarang:\n1. Ayam geprek\n2. Mie ayam\n\nMenu ke-3 elu mau ape? Komen sekarang! Satu komen dengan like terbanyak di antara IG dan TikTok, gw masak berikutnya.\nVoting ditutup Selasa, 10 November 2026 jam 17.00 WIB.\n\nNongol di video: @arcvival_2 @_.szsbillaa @nshyilla 👀\nFollow, jadi pelanggan gw. Hatur nuhun! 📒\n#warungkomen #day3 #mieayam",
   "rule_comment": "📌 Day 4: komen menu ke-3 elu! Satu komen dengan like terbanyak di antara IG + TikTok sampai Selasa, 10 Nov 2026 jam 17.00 WIB, gw masak. Like antar komen kagak dijumlahin. Boleh komen lebih dari sekali 😄",
   "tiktok_caption": "Day 3 🍜 MIE AYAM MENANG! 42 like, gw turutin 😭\nHatur nuhun @kmugppnasss! Mie nyangkut, pelanggan minta tambah. Nasgor sabar dulu ye 😂\nAyam geprek tetep ada. Sekarang komen MENU KE-3!\nSatu komen paling banyak like di antara IG + TikTok, gw masak berikutnya.\nVoting ditutup Selasa, 10 November 2026 jam 17.00 WIB.\n#warungkomen #day3 #mieayam",
-  "instagram_status": "scheduled_not_published",
+  "instagram_status": "published",
   "tiktok_status": "manual_package_ready",
   "tiktok_package": "tiktok/day3-paket-manual.zip",
   "creation_id": "17892292569506392",
@@ -28,9 +28,15 @@
   "automation_enabled": true,
   "automation_schedule": "BEGIN:VEVENT\nDTSTART;TZID=Asia/Jakarta:20261109T110000\nEND:VEVENT",
   "schedule_method": "One-time automation publishes the prepared Instagram container at the requested time; not an Instagram-native scheduled post.",
-  "media_id": null,
-  "permalink": null,
+  "media_id": "18393880069230303",
+  "permalink": "https://www.instagram.com/reel/Dff15saD4Ub/",
   "ig_comment_pin": "manual_after_publication_if_API_unavailable",
   "container_verified_date_utc": "2026-11-08",
-  "container_verification_log_id": "log_mygZOUjyB6Ow"
+  "container_verification_log_id": "log_mygZOUjyB6Ow",
+  "published_at": "2026-11-09T04:00:33Z",
+  "published_at_wib": "2026-11-09T11:00:33+07:00",
+  "comment_id": "18112435073217639",
+  "comment_verified": true,
+  "published_media_verified": true,
+  "publish_result": "episodes/day3/publish-result.json"
 }
