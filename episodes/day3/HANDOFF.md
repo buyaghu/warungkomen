@@ -1,3 +1,18 @@
+<!-- STATUS TERBARU: Instagram Day 3 SUDAH TAYANG; rincian persiapan di bawah adalah riwayat. -->
+## Instagram Day 3 terbit — 9 November 2026
+
+- Akun: @warungkomen, ig_user_id 39546597871650793, koneksi instagram_mumper-tickle.
+- Terbit aktual: **9 November 2026, 11:00:33 WIB** (2026-11-09T04:00:33Z).
+- Reel terverifikasi: https://www.instagram.com/reel/Dff15saD4Ub/
+- Media ID: 18393880069230303; container: 17892292569506392. Publish dipanggil tepat satu kali setelah pemeriksaan akun, waktu, status FINISHED, dan duplikat.
+- Caption final dan media published sudah dibaca ulang serta terverifikasi.
+- Komentar aturan sudah terbit tepat satu kali dan diverifikasi: 18112435073217639. **Pin komentar secara manual**; belum diklaim pinned.
+- Voting Day 4 ditutup **Selasa, 10 November 2026 pukul 17.00 WIB**. Pemenang adalah satu komentar dengan like tertinggi di antara IG dan TikTok, bukan total like per menu atau gabungan komentar.
+- Bukti lengkap: [publish-result.json](publish-result.json). Video final tetap gambar penuh, suara Mang Juned, 95.019 detik, tanpa subtitle berjalan; SHA256 345c4d6d07c43bc23cb95107e84cdbac91df6d1b4c38e02b178b9d0a84e42375.
+- TikTok **belum diposting otomatis**. Upload manual menggunakan [paket siap unggah](https://backend.composio.dev/api/v3/sl/DrEb36niUz) atau [cadangan GitHub](https://raw.githubusercontent.com/buyaghu/warungkomen/f9cf267bc6189d61a6ef10f520d28ddffa37cf1a/tiktok/day3-paket-manual.zip): video, cover, caption, komentar pin, panduan, dan label AI.
+
+---
+
 <!-- HASIL AKHIR TERBARU: gambar penuh, karakter besar, tanpa subtitle narasi terus-menerus/panel bawah. MP4 final tervalidasi. Implementasi aktif Day3Full.tsx. Tata letak panel sebelumnya hanya riwayat. -->
 <!-- Status terkini: revisi subtitle dan kredit akun selesai, kedua video pengganti sudah divalidasi. Lihat bagian paling bawah. -->
 # Serah terima: Day 3 Warung Komen
