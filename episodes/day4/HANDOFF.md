@@ -22,3 +22,8 @@ Ditulis Selasa 10 Nov 2026 malam. Baca `CLAUDE.md` dulu.
 ## Voting Day 5
 
 - Batas yang dipakai di caption/komentar pin: **Kamis 12 Nov 2026, 17.00 WIB** (asumsi tayang Rabu 11 Nov). Sesuaikan kalau jadwal tayang berubah.
+
+## Untuk Day 5
+
+- Konsep cabang 2 disetujui: target 1.000 pengikut gabungan IG + TikTok, lalu voting lokasi/nama. Lihat `episodes/KONSEP.md`.
+- Naskah Day 5 wajib memuat papan progres "MENUJU CABANG 2: n/1.000 PENGIKUT" (ambil angka nyata saat produksi) dan ajakan follow.
