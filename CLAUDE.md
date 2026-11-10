@@ -15,6 +15,7 @@ ingatan percakapan. Bahasa kerja dengan user: **Bahasa Indonesia**.
 - **Naskah dulu, minta persetujuan user**, baru produksi. Tanyakan pilihan dengan opsi singkat.
 - **Posting itu publik**: posting hanya kalau user minta. Instagram lewat Composio (lihat HANDOFF); TikTok
   lewat Higgsfield: Claude upload video (`media_upload`) lalu siapkan `tiktok_prepare_publish`; **user menekan posting di widget form Higgsfield dari chat claude.ai** (Claude Code tidak bisa menampilkan widget). Cadangan: unggah manual dari HP. Komentar pin TikTok tetap manual.
+- **Sampul TikTok (keputusan user, 10 Nov 2026):** dipilih di form Higgsfield sebelum menekan posting. Sampul tidak bisa diganti lewat API dan sulit diubah setelah tayang (Day 4 tayang tanpa sampul). Saat menyiapkan posting, ingatkan user memilih sampul di form; kalau form tidak punya pilihan sampul, unggah dari aplikasi TikTok di HP dan pakai **Edit sampul** dengan `tiktok/dayN-cover.jpg`.
 - Nama penonton boleh ditampilkan (sudah disetujui), pakai @username publik. Kalau ada yang minta dihapus, hapus.
 - Setelah tiap tahap: commit dan push ke repo ini, lalu perbarui HANDOFF/README episode.
 - **Arahan visual terbaru user (Day 3): gambar tetap full frame, karakter besar. Jangan pakai subtitle transkrip terus-menerus atau panel bawah yang mengecilkan adegan. Teks cukup sesekali untuk penekanan, kartu komentar/nama akun, menu dan CTA; jangan menutupi karakter.**
