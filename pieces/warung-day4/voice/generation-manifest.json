@@ -1,0 +1,301 @@
+{
+  "flow_id": "Eo36TVG9rhZUYdBZrspo",
+  "voice_id": "bwyCvXbDGcE93hF4UWld",
+  "model_id": "eleven_v4",
+  "lines": [
+    {
+      "id": "l01",
+      "text": "Daun jeruk?! Buat nasi?! Elu serius?!",
+      "takes": [
+        {
+          "file": "takes/l01-a.mp3",
+          "duration": 3.631
+        },
+        {
+          "file": "takes/l01-b.mp3",
+          "duration": 3.474
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "text": "Day empat! Gw masak nasi daun jeruk!",
+      "takes": [
+        {
+          "file": "takes/l02-a.mp3",
+          "duration": 2.847
+        },
+        {
+          "file": "takes/l02-b.mp3",
+          "duration": 2.847
+        }
+      ]
+    },
+    {
+      "id": "l03",
+      "text": "Empat like doang, tapi menang! Buset dah!",
+      "takes": [
+        {
+          "file": "takes/l03-a.mp3",
+          "duration": 3.709
+        },
+        {
+          "file": "takes/l03-b.mp3",
+          "duration": 3.709
+        }
+      ]
+    },
+    {
+      "id": "l04",
+      "text": "TikTok rame komen, like-nya pada mudik!",
+      "takes": [
+        {
+          "file": "takes/l04-a.mp3",
+          "duration": 3.161
+        },
+        {
+          "file": "takes/l04-b.mp3",
+          "duration": 3.161
+        }
+      ]
+    },
+    {
+      "id": "l05",
+      "text": "Kubu bakso komen empat, like-nya kosong!",
+      "takes": [
+        {
+          "file": "takes/l05-a.mp3",
+          "duration": 3.318
+        },
+        {
+          "file": "takes/l05-b.mp3",
+          "duration": 3.239
+        }
+      ]
+    },
+    {
+      "id": "l06",
+      "text": "Kompakan napa! Keju, pedes, mie bakso, ribut!",
+      "takes": [
+        {
+          "file": "takes/l06-a.mp3",
+          "duration": 4.676
+        },
+        {
+          "file": "takes/l06-b.mp3",
+          "duration": 4.754
+        }
+      ]
+    },
+    {
+      "id": "l07",
+      "text": "Bu, daun jeruk seikat! Segini doang?!",
+      "takes": [
+        {
+          "file": "takes/l07-a.mp3",
+          "duration": 3.239
+        },
+        {
+          "file": "takes/l07-b.mp3",
+          "duration": 3.004
+        }
+      ]
+    },
+    {
+      "id": "l08",
+      "text": "Modal gw tinggal receh. Ya udeh, rezeki!",
+      "takes": [
+        {
+          "file": "takes/l08-a.mp3",
+          "duration": 4.911
+        },
+        {
+          "file": "takes/l08-b.mp3",
+          "duration": 4.911
+        }
+      ]
+    },
+    {
+      "id": "l09",
+      "text": "Beras dicuci tiga kali. Kata Emak, biar pulen.",
+      "takes": [
+        {
+          "file": "takes/l09-a.mp3",
+          "duration": 4.206
+        },
+        {
+          "file": "takes/l09-b.mp3",
+          "duration": 4.127
+        }
+      ]
+    },
+    {
+      "id": "l10",
+      "text": "Nunggu nasi mateng... kayak nunggu like elu.",
+      "takes": [
+        {
+          "file": "takes/l10-a.mp3",
+          "duration": 3.631
+        },
+        {
+          "file": "takes/l10-b.mp3",
+          "duration": 3.553
+        }
+      ]
+    },
+    {
+      "id": "l11",
+      "text": "Daun jeruk diiris tipis... kok gw nangis?",
+      "takes": [
+        {
+          "file": "takes/l11-a.mp3",
+          "duration": 4.754
+        },
+        {
+          "file": "takes/l11-b.mp3",
+          "duration": 4.754
+        }
+      ]
+    },
+    {
+      "id": "l12",
+      "text": "Oh, itu bawangnya. Gw kirain terharu.",
+      "takes": [
+        {
+          "file": "takes/l12-a.mp3",
+          "duration": 3.709
+        },
+        {
+          "file": "takes/l12-b.mp3",
+          "duration": 3.631
+        }
+      ]
+    },
+    {
+      "id": "l13",
+      "text": "Bawang, serai, daun jeruk. Wangi euy!",
+      "takes": [
+        {
+          "file": "takes/l13-a.mp3",
+          "duration": 3.788
+        },
+        {
+          "file": "takes/l13-b.mp3",
+          "duration": 3.866
+        }
+      ]
+    },
+    {
+      "id": "l14",
+      "text": "Nasi masuk, aduk-aduk... jadi dah!",
+      "takes": [
+        {
+          "file": "takes/l14-a.mp3",
+          "duration": 3.474
+        },
+        {
+          "file": "takes/l14-b.mp3",
+          "duration": 3.553
+        }
+      ]
+    },
+    {
+      "id": "l15",
+      "text": "Tambah ayam geprek? Combo! Menu satu sama tiga!",
+      "takes": [
+        {
+          "file": "takes/l15-a.mp3",
+          "duration": 3.788
+        },
+        {
+          "file": "takes/l15-b.mp3",
+          "duration": 3.788
+        }
+      ]
+    },
+    {
+      "id": "l16",
+      "text": "Kubu sate ayam, jangan blok gw, bang!",
+      "takes": [
+        {
+          "file": "takes/l16-a.mp3",
+          "duration": 2.769
+        },
+        {
+          "file": "takes/l16-b.mp3",
+          "duration": 3.004
+        }
+      ]
+    },
+    {
+      "id": "l17",
+      "text": "Kubu nasgor... iye, sabar. Sumpah, sabar!",
+      "takes": [
+        {
+          "file": "takes/l17-a.mp3",
+          "duration": 4.833
+        },
+        {
+          "file": "takes/l17-b.mp3",
+          "duration": 5.068
+        }
+      ]
+    },
+    {
+      "id": "l18",
+      "text": "Menu ketiga resmi! Gerobak makin sesek!",
+      "takes": [
+        {
+          "file": "takes/l18-a.mp3",
+          "duration": 3.631
+        },
+        {
+          "file": "takes/l18-b.mp3",
+          "duration": 3.631
+        }
+      ]
+    },
+    {
+      "id": "l19",
+      "text": "Pelanggan delapan, sekarang sebelas. Hatur nuhun!",
+      "takes": [
+        {
+          "file": "takes/l19-a.mp3",
+          "duration": 3.709
+        },
+        {
+          "file": "takes/l19-b.mp3",
+          "duration": 3.709
+        }
+      ]
+    },
+    {
+      "id": "l20",
+      "text": "Besok menu keempat. Elu mau pesen ape?",
+      "takes": [
+        {
+          "file": "takes/l20-a.mp3",
+          "duration": 3.004
+        },
+        {
+          "file": "takes/l20-b.mp3",
+          "duration": 2.847
+        }
+      ]
+    },
+    {
+      "id": "l21",
+      "text": "Komen! Nyang paling banyak like, gw masak!",
+      "takes": [
+        {
+          "file": "takes/l21-a.mp3",
+          "duration": 3.239
+        },
+        {
+          "file": "takes/l21-b.mp3",
+          "duration": 3.318
+        }
+      ]
+    }
+  ]
+}

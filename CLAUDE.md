@@ -7,7 +7,7 @@ ingatan percakapan. Bahasa kerja dengan user: **Bahasa Indonesia**.
 
 1. `episodes/KONSEP.md`: konsep seri (sudah disetujui, jangan diubah tanpa izin user).
 2. `characters/mang-juned.md`: suara dan gaya bicara Mang Juned.
-3. HANDOFF episode terbaru: `episodes/dayN/HANDOFF.md` (sekarang: `episodes/day3/HANDOFF.md`).
+3. HANDOFF episode terbaru: `episodes/dayN/HANDOFF.md` (sekarang: `episodes/day4/HANDOFF.md`).
 4. Catatan produksi episode sebelumnya: `episodes/day2/README.md`.
 
 ## Aturan kerja
@@ -26,7 +26,7 @@ ingatan percakapan. Bahasa kerja dengan user: **Bahasa Indonesia**.
 |---|---|
 | Suara ElevenLabs | "Mang Juned (Warung Komen)", `voice_id: bwyCvXbDGcE93hF4UWld`, model `eleven_v4`. Teks TTS: tulis "gue" (bukan "gw") supaya tidak dieja; di layar tetap "gw". |
 | Instagram (Composio) | akun `instagram_mumper-tickle`, ig_user_id `39546597871650793` (@warungkomen). API **tidak** memberi username komentator; minta screenshot ke user. |
-| TikTok | @warungkomen, tidak tersambung; manual. Daftar komen dan @username dari screenshot user. |
+| TikTok | @warungkomen. Posting manual oleh user. Data publik (profil, video, komen + like + @username) bisa dibaca lewat Composio toolkit TikHub; lihat `episodes/day4/HANDOFF.md`. |
 | Threads | Belum tersambung ke Composio. |
 
 ## Produksi (ringkas; detail di `episodes/day2/README.md`)

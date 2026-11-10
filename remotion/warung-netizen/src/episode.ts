@@ -78,3 +78,13 @@ export const DAY3: Episode = {
   handles: { nazz: DAY2_TIKTOK.handles.nazz },
 };
 export const DAY3_TIKTOK: Episode = { ...DAY3 };
+
+// Day 4: NASI DAUN JERUK (winner @gord0nbleu_, IG, 4 likes). Full frame like Day 3.
+export const DAY4: Episode = {
+  ...DAY3,
+  day: 4,
+  pelangganAkhir: "11",
+  menu: ["Ayam geprek", "Mie ayam", "Nasi daun jeruk"],
+  handles: {},
+};
+export const DAY4_TIKTOK: Episode = { ...DAY4 };

@@ -1,0 +1,153 @@
+{
+  "duration": 65,
+  "assembly": "python3 pieces/warung-day4/build_voice.py",
+  "lines": [
+    {
+      "id": "l01",
+      "text": "Daun jeruk?! Buat nasi?! Elu serius?!",
+      "file": "l01.mp3",
+      "start": 0.2,
+      "after": 0.1
+    },
+    {
+      "id": "l02",
+      "text": "Day empat! Gw masak nasi daun jeruk!",
+      "file": "l02.mp3",
+      "start": 3.264,
+      "after": 0.1
+    },
+    {
+      "id": "l03",
+      "text": "Empat like doang, tapi menang! Buset dah!",
+      "file": "l03.mp3",
+      "start": 5.687,
+      "after": 0.1
+    },
+    {
+      "id": "l04",
+      "text": "TikTok rame komen, like-nya pada mudik!",
+      "file": "l04.mp3",
+      "start": 9.0,
+      "after": 0.1
+    },
+    {
+      "id": "l05",
+      "text": "Kubu bakso komen empat, like-nya kosong!",
+      "file": "l05.mp3",
+      "start": 11.566,
+      "after": 0.1
+    },
+    {
+      "id": "l06",
+      "text": "Kompakan napa! Keju, pedes, mie bakso, ribut!",
+      "file": "l06.mp3",
+      "start": 14.205,
+      "after": 0.1
+    },
+    {
+      "id": "l07",
+      "text": "Bu, daun jeruk seikat! Segini doang?!",
+      "file": "l07.mp3",
+      "start": 18.009,
+      "after": 0.1
+    },
+    {
+      "id": "l08",
+      "text": "Modal gue tinggal receh. Ya udeh, rezeki!",
+      "file": "l08.mp3",
+      "start": 20.623,
+      "after": 0.1
+    },
+    {
+      "id": "l09",
+      "text": "Beras dicuci tiga kali. Kata Emak, biar pulen.",
+      "file": "l09.mp3",
+      "start": 24.8,
+      "after": 0.1
+    },
+    {
+      "id": "l10",
+      "text": "Nunggu nasi mateng... kayak nunggu like elu.",
+      "file": "l10.mp3",
+      "start": 28.187,
+      "after": 0.1
+    },
+    {
+      "id": "l11",
+      "text": "Daun jeruk diiris tipis... kok gue nangis?",
+      "file": "l11.mp3",
+      "start": 31.09,
+      "after": 0.35
+    },
+    {
+      "id": "l12",
+      "text": "Oh, itu bawangnya. Gw kirain terharu.",
+      "file": "l12.mp3",
+      "start": 35.255,
+      "after": 0.1
+    },
+    {
+      "id": "l13",
+      "text": "Bawang, serai, daun jeruk. Wangi euy!",
+      "file": "l13.mp3",
+      "start": 38.209,
+      "after": 0.1
+    },
+    {
+      "id": "l14",
+      "text": "Nasi masuk, aduk-aduk... jadi dah!",
+      "file": "l14.mp3",
+      "start": 41.332,
+      "after": 0.3
+    },
+    {
+      "id": "l15",
+      "text": "Tambah ayam geprek? Combo! Menu satu sama tiga!",
+      "file": "l15.mp3",
+      "start": 44.4,
+      "after": 0.1
+    },
+    {
+      "id": "l16",
+      "text": "Kubu sate ayam, jangan blok gue, bang!",
+      "file": "l16.mp3",
+      "start": 47.414,
+      "after": 0.1
+    },
+    {
+      "id": "l17",
+      "text": "Kubu nasgor... iye, sabar. Sumpah, sabar!",
+      "file": "l17.mp3",
+      "start": 49.56,
+      "after": 0.3
+    },
+    {
+      "id": "l18",
+      "text": "Menu ketiga resmi! Gerobak makin sesek!",
+      "file": "l18.mp3",
+      "start": 53.6,
+      "after": 0.1
+    },
+    {
+      "id": "l19",
+      "text": "Pelanggan delapan, sekarang sebelas. Hatur nuhun!",
+      "file": "l19.mp3",
+      "start": 56.522,
+      "after": 0.1
+    },
+    {
+      "id": "l20",
+      "text": "Besok menu keempat. Elu mau pesen ape?",
+      "file": "l20.mp3",
+      "start": 59.437,
+      "after": 0.1
+    },
+    {
+      "id": "l21",
+      "text": "Komen! Nyang paling banyak like, gue masak!",
+      "file": "l21.mp3",
+      "start": 61.678,
+      "after": 0.1
+    }
+  ]
+}
