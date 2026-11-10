@@ -1,0 +1,21 @@
+{
+  "episode": 4,
+  "publication_authorized_by_user": true,
+  "publication_authorization": "Posting sekarang aja di IG dan tiktok, gpp sampai kamis votenya.",
+  "ig_account": "instagram_mumper-tickle",
+  "ig_user_id": "39546597871650793",
+  "video_source_commit": "73057c781d8f29cd09107bbadfdbc8e7b1929321",
+  "video_sha256": "899292cd7704e932e2ca62933b97dc6f94b9853f4bd1375fedec663a93f96e62",
+  "creation_id": "17892799104506392",
+  "media_id": "18160392748484391",
+  "permalink": "https://www.instagram.com/reel/DfkDr-YkejE/",
+  "published_at": "2026-11-10T13:53:12Z",
+  "published_at_wib": "2026-11-10T20:53:12+07:00",
+  "rule_comment_id": "18106081640633066",
+  "rule_comment_verified": true,
+  "ig_comment_pin": "manual by user",
+  "vote_deadline": "2026-11-12T17:00:00+07:00",
+  "tiktok_status": "manual_upload_by_user",
+  "tiktok_video_download": "https://backend.composio.dev/api/v3/sl/Q5Mt6cQ3_E",
+  "tiktok_cover_download": "https://backend.composio.dev/api/v3/sl/4lOJzDCxCG"
+}

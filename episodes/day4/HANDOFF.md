@@ -11,7 +11,7 @@ Ditulis Selasa 10 Nov 2026 malam. Baca `CLAUDE.md` dulu.
 - Audio: `mix.py` (musik + SFX sintetis), loudnorm −14 LUFS → `remotion/warung-netizen/public/day4/audio.wav`.
 - Remotion: `src/scenes/Day4Full.tsx`, `src/WarungDay4.tsx`, `DAY4`/`DAY4_TIKTOK` di `episode.ts`, `CoverDay4`. Full frame, tanpa subtitle berjalan. Frame pertama = Juned kaget pegang daun jeruk (bukan kartu teks).
 - Output: `instagram/day4-reel.mp4`, `tiktok/day4-tiktok.mp4`, cover `day4-cover.png/jpg`, caption dan komentar pin di masing-masing folder.
-- **Belum diposting.** Posting hanya kalau user minta.
+- **Instagram tayang** 10 Nov 2026 20.53 WIB: https://www.instagram.com/reel/DfkDr-YkejE/ (media 18160392748484391). Komentar aturan 18106081640633066 sudah terbit; pin manual. TikTok: unggah manual oleh user. Bukti: `publish-result.json`.
 
 ## Pemakaian data baru
 
