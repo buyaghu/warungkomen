@@ -26,7 +26,7 @@ ingatan percakapan. Bahasa kerja dengan user: **Bahasa Indonesia**.
 |---|---|
 | Suara ElevenLabs | "Mang Juned (Warung Komen)", `voice_id: bwyCvXbDGcE93hF4UWld`, model `eleven_v4`. Teks TTS: tulis "gue" (bukan "gw") supaya tidak dieja; di layar tetap "gw". |
 | Instagram (Composio) | akun `instagram_mumper-tickle`, ig_user_id `39546597871650793` (@warungkomen). API **tidak** memberi username komentator; minta screenshot ke user. |
-| TikTok | @warungkomen. Posting manual oleh user. Data publik (profil, video, komen + like + @username) bisa dibaca lewat Composio toolkit TikHub; lihat `episodes/day4/HANDOFF.md`. |
+| TikTok | @warungkomen. Tersambung ke Higgsfield (connector `c82d798a-ac38-423b-9293-7e8783c21493`, 10 Nov 2026): upload video lewat `media_upload` → `tiktok_prepare_publish`; user menyelesaikan form publish (widget) sendiri. Data publik (profil, video, komen + like + @username) bisa dibaca lewat Composio toolkit TikHub; lihat `episodes/day4/HANDOFF.md`. |
 | Threads | Belum tersambung ke Composio. |
 
 ## Produksi (ringkas; detail di `episodes/day2/README.md`)
