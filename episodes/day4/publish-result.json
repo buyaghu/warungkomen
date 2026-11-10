@@ -15,7 +15,10 @@
   "rule_comment_verified": true,
   "ig_comment_pin": "manual by user",
   "vote_deadline": "2026-11-12T17:00:00+07:00",
-  "tiktok_status": "manual_upload_by_user",
+  "tiktok_status": "published_by_user_via_higgsfield_widget",
   "tiktok_video_download": "https://backend.composio.dev/api/v3/sl/Q5Mt6cQ3_E",
-  "tiktok_cover_download": "https://backend.composio.dev/api/v3/sl/4lOJzDCxCG"
+  "tiktok_cover_download": "https://backend.composio.dev/api/v3/sl/4lOJzDCxCG",
+  "tiktok_method": "Higgsfield tiktok_prepare_publish; user submitted the publish form widget in a claude.ai chat (10 Nov 2026 malam)",
+  "tiktok_higgsfield_video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3IMpoVMrBDwzM1nTqLuka82rdA1/184458e6-23de-4bd8-a667-f1466577d9ac.mp4",
+  "tiktok_permalink": "belum tercatat (belum terindeks di pencarian TikHub; minta link ke user)"
 }
