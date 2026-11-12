@@ -17,7 +17,9 @@ Ditulis Kamis 12 Nov 2026 malam. Baca `CLAUDE.md` dulu.
 
 ## Posting
 
-Lihat `publish-result.json` (diisi setelah terbit).
+- **Instagram tayang** 12 Nov 2026 21.25 WIB: https://www.instagram.com/reel/DfpQ5ShnGys/ (media 18149627920568714). Komentar aturan 17999463360106269 terbit; pin manual.
+- **TikTok**: video sudah di Higgsfield, sesi publish `9c5de499-91b1-4648-bd99-68404ca3e678` (berlaku s.d. 23.26 WIB). User menyelesaikan form widget di claude.ai; pilih sampul `tiktok/day5-cover.jpg`. Komentar pin TikTok manual (`tiktok/day5-komentar-pin.txt`).
+- Bukti: `publish-result.json`.
 
 ## Untuk Day 6
 
