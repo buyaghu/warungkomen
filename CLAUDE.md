@@ -7,7 +7,7 @@ ingatan percakapan. Bahasa kerja dengan user: **Bahasa Indonesia**.
 
 1. `episodes/KONSEP.md`: konsep seri (sudah disetujui, jangan diubah tanpa izin user).
 2. `characters/mang-juned.md`: suara dan gaya bicara Mang Juned.
-3. HANDOFF episode terbaru: `episodes/dayN/HANDOFF.md` (sekarang: `episodes/day4/HANDOFF.md`).
+3. HANDOFF episode terbaru: `episodes/dayN/HANDOFF.md` (sekarang: `episodes/day5/HANDOFF.md`).
 4. Catatan produksi episode sebelumnya: `episodes/day2/README.md`.
 
 ## Aturan kerja

@@ -88,3 +88,13 @@ export const DAY4: Episode = {
   handles: {},
 };
 export const DAY4_TIKTOK: Episode = { ...DAY4 };
+
+// Day 5: BAKSO KEJU (winner @evelyn.chipi67, IG, 58 likes). PELANGGAN = real followers IG + TikTok (673).
+export const DAY5: Episode = {
+  ...DAY4,
+  day: 5,
+  pelangganAkhir: "673",
+  menu: ["Ayam geprek", "Mie ayam", "Nasi daun jeruk", "Bakso keju"],
+  handles: {},
+};
+export const DAY5_TIKTOK: Episode = { ...DAY5 };

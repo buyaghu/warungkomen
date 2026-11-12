@@ -1,0 +1,2048 @@
+[
+  {
+    "id": "l01",
+    "text": "Lima puluh delapan like?! Buset dah!",
+    "takes": [
+      {
+        "file": "takes/l01-a.mp3",
+        "duration": 3.239,
+        "heard": "58 LIKE BUSET DAH!",
+        "score": 0.881,
+        "trimmed_duration": 2.90775,
+        "words": [
+          {
+            "w": "58",
+            "t0": 0.0,
+            "t1": 0.62
+          },
+          {
+            "w": "LIKE",
+            "t0": 0.62,
+            "t1": 1.36
+          },
+          {
+            "w": "BUSET",
+            "t0": 1.36,
+            "t1": 2.5
+          },
+          {
+            "w": "DAH!",
+            "t0": 2.5,
+            "t1": 2.88
+          }
+        ]
+      },
+      {
+        "file": "takes/l01-b.mp3",
+        "duration": 3.239,
+        "heard": "58 like? BUSET DAH!",
+        "score": 0.881,
+        "trimmed_duration": 2.903,
+        "words": [
+          {
+            "w": "58",
+            "t0": 0.0,
+            "t1": 0.64
+          },
+          {
+            "w": "like?",
+            "t0": 0.64,
+            "t1": 1.38
+          },
+          {
+            "w": "BUSET",
+            "t0": 1.78,
+            "t1": 2.5
+          },
+          {
+            "w": "DAH!",
+            "t0": 2.5,
+            "t1": 2.88
+          }
+        ]
+      }
+    ],
+    "selected": 1
+  },
+  {
+    "id": "l02",
+    "text": "Kemaren gw bilang kompakan... beneran kompak!",
+    "takes": [
+      {
+        "file": "takes/l02-a.mp3",
+        "duration": 3.553,
+        "heard": "kemarin gue bilang kompak kan beneran kompak",
+        "score": 0.977,
+        "trimmed_duration": 3.3925625,
+        "words": [
+          {
+            "w": "kemarin",
+            "t0": 0.0,
+            "t1": 0.46
+          },
+          {
+            "w": "gue",
+            "t0": 0.46,
+            "t1": 0.62
+          },
+          {
+            "w": "bilang",
+            "t0": 0.62,
+            "t1": 0.86
+          },
+          {
+            "w": "kompak",
+            "t0": 0.86,
+            "t1": 1.5
+          },
+          {
+            "w": "kan",
+            "t0": 1.5,
+            "t1": 1.74
+          },
+          {
+            "w": "beneran",
+            "t0": 1.74,
+            "t1": 2.58
+          },
+          {
+            "w": "kompak",
+            "t0": 2.58,
+            "t1": 3.16
+          }
+        ]
+      },
+      {
+        "file": "takes/l02-b.mp3",
+        "duration": 3.631,
+        "heard": "kemarin gue bilang kompakan beneran kompak",
+        "score": 1.0,
+        "trimmed_duration": 3.4585625,
+        "words": [
+          {
+            "w": "kemarin",
+            "t0": 0.0,
+            "t1": 0.52
+          },
+          {
+            "w": "gue",
+            "t0": 0.52,
+            "t1": 0.68
+          },
+          {
+            "w": "bilang",
+            "t0": 0.68,
+            "t1": 0.94
+          },
+          {
+            "w": "kompakan",
+            "t0": 0.94,
+            "t1": 1.68
+          },
+          {
+            "w": "beneran",
+            "t0": 1.68,
+            "t1": 2.76
+          },
+          {
+            "w": "kompak",
+            "t0": 2.76,
+            "t1": 3.26
+          }
+        ]
+      }
+    ],
+    "selected": 1
+  },
+  {
+    "id": "l03",
+    "text": "Day lima! Gw masak bakso keju!",
+    "takes": [
+      {
+        "file": "takes/l03-a.mp3",
+        "duration": 2.847,
+        "heard": "DAI LIMA, GUE MASAK BAK SOKEJU",
+        "score": 0.931,
+        "trimmed_duration": 2.6625,
+        "words": [
+          {
+            "w": "DAI",
+            "t0": 0.0,
+            "t1": 0.34
+          },
+          {
+            "w": "LIMA,",
+            "t0": 0.34,
+            "t1": 0.72
+          },
+          {
+            "w": "GUE",
+            "t0": 0.96,
+            "t1": 1.32
+          },
+          {
+            "w": "MASAK",
+            "t0": 1.32,
+            "t1": 1.66
+          },
+          {
+            "w": "BAK",
+            "t0": 1.66,
+            "t1": 1.92
+          },
+          {
+            "w": "SOKEJU",
+            "t0": 1.92,
+            "t1": 2.52
+          }
+        ]
+      },
+      {
+        "file": "takes/l03-b.mp3",
+        "duration": 2.847,
+        "heard": "DAI LIMA, GUE MASAK BAK SOKEJU",
+        "score": 0.931,
+        "trimmed_duration": 2.67625,
+        "words": [
+          {
+            "w": "DAI",
+            "t0": 0.0,
+            "t1": 0.3
+          },
+          {
+            "w": "LIMA,",
+            "t0": 0.3,
+            "t1": 0.96
+          },
+          {
+            "w": "GUE",
+            "t0": 0.96,
+            "t1": 1.32
+          },
+          {
+            "w": "MASAK",
+            "t0": 1.32,
+            "t1": 1.68
+          },
+          {
+            "w": "BAK",
+            "t0": 1.68,
+            "t1": 1.92
+          },
+          {
+            "w": "SOKEJU",
+            "t0": 1.92,
+            "t1": 2.58
+          }
+        ]
+      }
+    ],
+    "selected": 0
+  },
+  {
+    "id": "l04",
+    "text": "Kubu minuman, empat belas like. Gede juga!",
+    "takes": [
+      {
+        "file": "takes/l04-a.mp3",
+        "duration": 3.631,
+        "heard": "Kubu Minuman, 14 like Gede juga",
+        "score": 0.868,
+        "trimmed_duration": 3.4195625,
+        "words": [
+          {
+            "w": "Kubu",
+            "t0": 0.0,
+            "t1": 0.3
+          },
+          {
+            "w": "Minuman,",
+            "t0": 0.3,
+            "t1": 0.7
+          },
+          {
+            "w": "14",
+            "t0": 1.1,
+            "t1": 1.54
+          },
+          {
+            "w": "like",
+            "t0": 1.54,
+            "t1": 1.92
+          },
+          {
+            "w": "Gede",
+            "t0": 1.92,
+            "t1": 2.68
+          },
+          {
+            "w": "juga",
+            "t0": 2.68,
+            "t1": 3.1
+          }
+        ]
+      },
+      {
+        "file": "takes/l04-b.mp3",
+        "duration": 3.631,
+        "heard": "Kubu Minuman 14 like Gede juga",
+        "score": 0.868,
+        "trimmed_duration": 3.4281875,
+        "words": [
+          {
+            "w": "Kubu",
+            "t0": 0.0,
+            "t1": 0.3
+          },
+          {
+            "w": "Minuman",
+            "t0": 0.3,
+            "t1": 0.68
+          },
+          {
+            "w": "14",
+            "t0": 0.68,
+            "t1": 1.3
+          },
+          {
+            "w": "like",
+            "t0": 1.3,
+            "t1": 1.9
+          },
+          {
+            "w": "Gede",
+            "t0": 1.9,
+            "t1": 2.68
+          },
+          {
+            "w": "juga",
+            "t0": 2.68,
+            "t1": 3.0
+          }
+        ]
+      }
+    ],
+    "selected": 0
+  },
+  {
+    "id": "l05",
+    "text": "Es teh, kopi, matcha... gerobak gw kaga ada kulkas! Gorengan, nasi kuning: antre dulu!",
+    "takes": [
+      {
+        "file": "takes/l05-a.mp3",
+        "duration": 7.628,
+        "heard": "Esteh, kopi, macah Grubak gue kagak ada kulkas Gorengan, nasi kuning Antre dulu",
+        "score": 0.948,
+        "trimmed_duration": 7.4543125,
+        "words": [
+          {
+            "w": "Esteh,",
+            "t0": 0.0,
+            "t1": 0.62
+          },
+          {
+            "w": "kopi,",
+            "t0": 0.82,
+            "t1": 1.4
+          },
+          {
+            "w": "macah",
+            "t0": 1.62,
+            "t1": 2.28
+          },
+          {
+            "w": "Grubak",
+            "t0": 2.28,
+            "t1": 3.0
+          },
+          {
+            "w": "gue",
+            "t0": 3.0,
+            "t1": 3.18
+          },
+          {
+            "w": "kagak",
+            "t0": 3.18,
+            "t1": 3.52
+          },
+          {
+            "w": "ada",
+            "t0": 3.52,
+            "t1": 3.58
+          },
+          {
+            "w": "kulkas",
+            "t0": 3.58,
+            "t1": 4.36
+          },
+          {
+            "w": "Gorengan,",
+            "t0": 4.36,
+            "t1": 5.34
+          },
+          {
+            "w": "nasi",
+            "t0": 5.56,
+            "t1": 5.78
+          },
+          {
+            "w": "kuning",
+            "t0": 5.78,
+            "t1": 6.16
+          },
+          {
+            "w": "Antre",
+            "t0": 6.16,
+            "t1": 6.86
+          },
+          {
+            "w": "dulu",
+            "t0": 6.86,
+            "t1": 7.12
+          }
+        ]
+      },
+      {
+        "file": "takes/l05-b.mp3",
+        "duration": 7.628,
+        "heard": "Esteh, kopi, macah Grobak gue kagak ada kulkas Gorengan, nasi kuning, antre dulu",
+        "score": 0.961,
+        "trimmed_duration": 7.458125,
+        "words": [
+          {
+            "w": "Esteh,",
+            "t0": 0.0,
+            "t1": 0.62
+          },
+          {
+            "w": "kopi,",
+            "t0": 0.86,
+            "t1": 1.44
+          },
+          {
+            "w": "macah",
+            "t0": 1.62,
+            "t1": 2.3
+          },
+          {
+            "w": "Grobak",
+            "t0": 2.3,
+            "t1": 3.0
+          },
+          {
+            "w": "gue",
+            "t0": 3.0,
+            "t1": 3.18
+          },
+          {
+            "w": "kagak",
+            "t0": 3.18,
+            "t1": 3.52
+          },
+          {
+            "w": "ada",
+            "t0": 3.52,
+            "t1": 3.6
+          },
+          {
+            "w": "kulkas",
+            "t0": 3.6,
+            "t1": 4.32
+          },
+          {
+            "w": "Gorengan,",
+            "t0": 4.32,
+            "t1": 5.36
+          },
+          {
+            "w": "nasi",
+            "t0": 5.54,
+            "t1": 5.8
+          },
+          {
+            "w": "kuning,",
+            "t0": 5.8,
+            "t1": 6.18
+          },
+          {
+            "w": "antre",
+            "t0": 6.42,
+            "t1": 6.84
+          },
+          {
+            "w": "dulu",
+            "t0": 6.84,
+            "t1": 7.12
+          }
+        ]
+      }
+    ],
+    "selected": 1
+  },
+  {
+    "id": "l06",
+    "text": "Daging digiling... tangan gw pegel, sumpah!",
+    "takes": [
+      {
+        "file": "takes/l06-a.mp3",
+        "duration": 4.206,
+        "heard": "Daging di giling, tangan gue pegal, sumpah!",
+        "score": 0.962,
+        "trimmed_duration": 4.01225,
+        "words": [
+          {
+            "w": "Daging",
+            "t0": 0.0,
+            "t1": 0.4
+          },
+          {
+            "w": "di",
+            "t0": 0.4,
+            "t1": 0.62
+          },
+          {
+            "w": "giling,",
+            "t0": 0.62,
+            "t1": 1.22
+          },
+          {
+            "w": "tangan",
+            "t0": 1.7,
+            "t1": 2.18
+          },
+          {
+            "w": "gue",
+            "t0": 2.18,
+            "t1": 2.3
+          },
+          {
+            "w": "pegal,",
+            "t0": 2.3,
+            "t1": 3.06
+          },
+          {
+            "w": "sumpah!",
+            "t0": 3.32,
+            "t1": 3.86
+          }
+        ]
+      },
+      {
+        "file": "takes/l06-b.mp3",
+        "duration": 4.206,
+        "heard": "Daging di giling, tangan gue pegal, sumpah!",
+        "score": 0.962,
+        "trimmed_duration": 3.9975,
+        "words": [
+          {
+            "w": "Daging",
+            "t0": 0.0,
+            "t1": 0.42
+          },
+          {
+            "w": "di",
+            "t0": 0.42,
+            "t1": 0.62
+          },
+          {
+            "w": "giling,",
+            "t0": 0.62,
+            "t1": 1.18
+          },
+          {
+            "w": "tangan",
+            "t0": 1.68,
+            "t1": 2.12
+          },
+          {
+            "w": "gue",
+            "t0": 2.12,
+            "t1": 2.26
+          },
+          {
+            "w": "pegal,",
+            "t0": 2.26,
+            "t1": 2.98
+          },
+          {
+            "w": "sumpah!",
+            "t0": 3.24,
+            "t1": 3.8
+          }
+        ]
+      }
+    ],
+    "selected": 1
+  },
+  {
+    "id": "l07",
+    "text": "Dibulet-buletin. Kok bentuknya kotak?",
+    "takes": [
+      {
+        "file": "takes/l07-a.mp3",
+        "duration": 3.082,
+        "heard": "Di bulak-bulak tin, kok bentuknya kok tak?",
+        "score": 0.849,
+        "trimmed_duration": 2.8153125,
+        "words": [
+          {
+            "w": "Di",
+            "t0": 0.0,
+            "t1": 0.16
+          },
+          {
+            "w": "bulak",
+            "t0": 0.16,
+            "t1": 0.46
+          },
+          {
+            "w": "-bulak",
+            "t0": 0.46,
+            "t1": 0.82
+          },
+          {
+            "w": "tin,",
+            "t0": 0.82,
+            "t1": 1.06
+          },
+          {
+            "w": "kok",
+            "t0": 1.36,
+            "t1": 1.8
+          },
+          {
+            "w": "bentuknya",
+            "t0": 1.8,
+            "t1": 2.3
+          },
+          {
+            "w": "kok",
+            "t0": 2.3,
+            "t1": 2.5
+          },
+          {
+            "w": "tak?",
+            "t0": 2.5,
+            "t1": 2.78
+          }
+        ]
+      },
+      {
+        "file": "takes/l07-b.mp3",
+        "duration": 3.082,
+        "heard": "Di bulat-bulat tin, kok bentuknya kok tak?",
+        "score": 0.877,
+        "trimmed_duration": 2.8279375,
+        "words": [
+          {
+            "w": "Di",
+            "t0": 0.0,
+            "t1": 0.16
+          },
+          {
+            "w": "bulat",
+            "t0": 0.16,
+            "t1": 0.46
+          },
+          {
+            "w": "-bulat",
+            "t0": 0.46,
+            "t1": 0.76
+          },
+          {
+            "w": "tin,",
+            "t0": 0.76,
+            "t1": 1.04
+          },
+          {
+            "w": "kok",
+            "t0": 1.54,
+            "t1": 1.82
+          },
+          {
+            "w": "bentuknya",
+            "t0": 1.82,
+            "t1": 2.3
+          },
+          {
+            "w": "kok",
+            "t0": 2.3,
+            "t1": 2.5
+          },
+          {
+            "w": "tak?",
+            "t0": 2.5,
+            "t1": 2.74
+          }
+        ]
+      }
+    ],
+    "selected": 1
+  },
+  {
+    "id": "l08",
+    "text": "Keju dimasukin tengahnya. Rahasia, jangan bilang-bilang!",
+    "takes": [
+      {
+        "file": "takes/l08-a.mp3",
+        "duration": 4.206,
+        "heard": "keju dimasukin tengahnya rahasia, jangan bilang-bilang",
+        "score": 1.0,
+        "trimmed_duration": 3.99825,
+        "words": [
+          {
+            "w": "keju",
+            "t0": 0.0,
+            "t1": 0.42
+          },
+          {
+            "w": "dimasukin",
+            "t0": 0.42,
+            "t1": 1.02
+          },
+          {
+            "w": "tengahnya",
+            "t0": 1.02,
+            "t1": 1.62
+          },
+          {
+            "w": "rahasia,",
+            "t0": 1.62,
+            "t1": 2.64
+          },
+          {
+            "w": "jangan",
+            "t0": 3.1,
+            "t1": 3.3
+          },
+          {
+            "w": "bilang",
+            "t0": 3.3,
+            "t1": 3.52
+          },
+          {
+            "w": "-bilang",
+            "t0": 3.52,
+            "t1": 3.96
+          }
+        ]
+      },
+      {
+        "file": "takes/l08-b.mp3",
+        "duration": 4.362,
+        "heard": "keju dimasukin tengahnya rahasia, jangan bilang-pilang",
+        "score": 0.981,
+        "trimmed_duration": 4.1455625,
+        "words": [
+          {
+            "w": "keju",
+            "t0": 0.0,
+            "t1": 0.42
+          },
+          {
+            "w": "dimasukin",
+            "t0": 0.42,
+            "t1": 1.08
+          },
+          {
+            "w": "tengahnya",
+            "t0": 1.08,
+            "t1": 1.72
+          },
+          {
+            "w": "rahasia,",
+            "t0": 1.72,
+            "t1": 2.78
+          },
+          {
+            "w": "jangan",
+            "t0": 3.22,
+            "t1": 3.38
+          },
+          {
+            "w": "bilang",
+            "t0": 3.38,
+            "t1": 3.62
+          },
+          {
+            "w": "-pilang",
+            "t0": 3.62,
+            "t1": 4.12
+          }
+        ]
+      }
+    ],
+    "selected": 0
+  },
+  {
+    "id": "l09",
+    "text": "Masuk air mendidih. Ayo ngapung, ngapung!",
+    "takes": [
+      {
+        "file": "takes/l09-a.mp3",
+        "duration": 3.396,
+        "heard": "Masuk air mendidih, ayo ngapung, ngapung!",
+        "score": 1.0,
+        "trimmed_duration": 3.21,
+        "words": [
+          {
+            "w": "Masuk",
+            "t0": 0.0,
+            "t1": 0.36
+          },
+          {
+            "w": "air",
+            "t0": 0.36,
+            "t1": 0.58
+          },
+          {
+            "w": "mendidih,",
+            "t0": 0.58,
+            "t1": 1.22
+          },
+          {
+            "w": "ayo",
+            "t0": 1.48,
+            "t1": 1.86
+          },
+          {
+            "w": "ngapung,",
+            "t0": 1.86,
+            "t1": 2.38
+          },
+          {
+            "w": "ngapung!",
+            "t0": 2.5,
+            "t1": 3.0
+          }
+        ]
+      },
+      {
+        "file": "takes/l09-b.mp3",
+        "duration": 3.318,
+        "heard": "Masuk air mendidih, ayo ngapung, ngapung!",
+        "score": 1.0,
+        "trimmed_duration": 3.1359375,
+        "words": [
+          {
+            "w": "Masuk",
+            "t0": 0.0,
+            "t1": 0.38
+          },
+          {
+            "w": "air",
+            "t0": 0.38,
+            "t1": 0.58
+          },
+          {
+            "w": "mendidih,",
+            "t0": 0.58,
+            "t1": 1.24
+          },
+          {
+            "w": "ayo",
+            "t0": 1.4,
+            "t1": 1.8
+          },
+          {
+            "w": "ngapung,",
+            "t0": 1.8,
+            "t1": 2.22
+          },
+          {
+            "w": "ngapung!",
+            "t0": 2.38,
+            "t1": 2.92
+          }
+        ]
+      }
+    ],
+    "selected": 1
+  },
+  {
+    "id": "l10",
+    "text": "Lah... kejunya kabur! Baksonya bolong!",
+    "takes": [
+      {
+        "file": "takes/l10-a.mp3",
+        "duration": 3.631,
+        "heard": "Lah! Kejunya kabur! Baksonya bolong!",
+        "score": 1.0,
+        "trimmed_duration": 3.3189375,
+        "words": [
+          {
+            "w": "Lah!",
+            "t0": 0.0,
+            "t1": 0.3
+          },
+          {
+            "w": "Kejunya",
+            "t0": 0.64,
+            "t1": 1.12
+          },
+          {
+            "w": "kabur!",
+            "t0": 1.12,
+            "t1": 1.7
+          },
+          {
+            "w": "Baksonya",
+            "t0": 2.04,
+            "t1": 2.52
+          },
+          {
+            "w": "bolong!",
+            "t0": 2.52,
+            "t1": 3.12
+          }
+        ]
+      },
+      {
+        "file": "takes/l10-b.mp3",
+        "duration": 3.631,
+        "heard": "Lah, kejunya kabur, baksonya bolong.",
+        "score": 1.0,
+        "trimmed_duration": 3.3564375,
+        "words": [
+          {
+            "w": "Lah,",
+            "t0": 0.0,
+            "t1": 0.34
+          },
+          {
+            "w": "kejunya",
+            "t0": 0.7,
+            "t1": 1.14
+          },
+          {
+            "w": "kabur,",
+            "t0": 1.14,
+            "t1": 1.82
+          },
+          {
+            "w": "baksonya",
+            "t0": 2.14,
+            "t1": 2.6
+          },
+          {
+            "w": "bolong.",
+            "t0": 2.6,
+            "t1": 3.22
+          }
+        ]
+      }
+    ],
+    "selected": 0
+  },
+  {
+    "id": "l11",
+    "text": "Gw lieur... coba lagi, namanya juga usaha!",
+    "takes": [
+      {
+        "file": "takes/l11-a.mp3",
+        "duration": 4.833,
+        "heard": "Gua leir... Coba lagi, namanya juga usaha.",
+        "score": 0.933,
+        "trimmed_duration": 4.3998125,
+        "words": [
+          {
+            "w": "Gua",
+            "t0": 0.0,
+            "t1": 1.02
+          },
+          {
+            "w": "leir...",
+            "t0": 1.02,
+            "t1": 2.18
+          },
+          {
+            "w": "Coba",
+            "t0": 2.18,
+            "t1": 2.5
+          },
+          {
+            "w": "lagi,",
+            "t0": 2.5,
+            "t1": 2.76
+          },
+          {
+            "w": "namanya",
+            "t0": 3.14,
+            "t1": 3.56
+          },
+          {
+            "w": "juga",
+            "t0": 3.56,
+            "t1": 3.72
+          },
+          {
+            "w": "usaha.",
+            "t0": 3.72,
+            "t1": 4.24
+          }
+        ]
+      },
+      {
+        "file": "takes/l11-b.mp3",
+        "duration": 4.833,
+        "heard": "Gua leir. Coba lagi. Namanya juga usaha.",
+        "score": 0.933,
+        "trimmed_duration": 4.7235625,
+        "words": [
+          {
+            "w": "Gua",
+            "t0": 0.0,
+            "t1": 1.0
+          },
+          {
+            "w": "leir.",
+            "t0": 1.0,
+            "t1": 1.78
+          },
+          {
+            "w": "Coba",
+            "t0": 2.16,
+            "t1": 2.5
+          },
+          {
+            "w": "lagi.",
+            "t0": 2.5,
+            "t1": 2.74
+          },
+          {
+            "w": "Namanya",
+            "t0": 3.16,
+            "t1": 3.56
+          },
+          {
+            "w": "juga",
+            "t0": 3.56,
+            "t1": 3.74
+          },
+          {
+            "w": "usaha.",
+            "t0": 3.74,
+            "t1": 4.24
+          }
+        ]
+      }
+    ],
+    "selected": 0
+  },
+  {
+    "id": "l12",
+    "text": "Nah! Ngapung semua. Rame euy!",
+    "takes": [
+      {
+        "file": "takes/l12-a.mp3",
+        "duration": 3.318,
+        "heard": "Nah, ngapung semua. Rame, ayy!",
+        "score": 0.923,
+        "trimmed_duration": 3.1561875,
+        "words": [
+          {
+            "w": "Nah,",
+            "t0": 0.0,
+            "t1": 0.3
+          },
+          {
+            "w": "ngapung",
+            "t0": 0.66,
+            "t1": 1.14
+          },
+          {
+            "w": "semua.",
+            "t0": 1.14,
+            "t1": 1.68
+          },
+          {
+            "w": "Rame,",
+            "t0": 2.04,
+            "t1": 2.64
+          },
+          {
+            "w": "ayy!",
+            "t0": 2.78,
+            "t1": 3.12
+          }
+        ]
+      },
+      {
+        "file": "takes/l12-b.mp3",
+        "duration": 3.318,
+        "heard": "Nah, ngapung semua. Rame, ayy!",
+        "score": 0.923,
+        "trimmed_duration": 3.143,
+        "words": [
+          {
+            "w": "Nah,",
+            "t0": 0.0,
+            "t1": 0.26
+          },
+          {
+            "w": "ngapung",
+            "t0": 0.64,
+            "t1": 1.14
+          },
+          {
+            "w": "semua.",
+            "t0": 1.14,
+            "t1": 1.66
+          },
+          {
+            "w": "Rame,",
+            "t0": 2.04,
+            "t1": 2.64
+          },
+          {
+            "w": "ayy!",
+            "t0": 2.8,
+            "t1": 3.12
+          }
+        ]
+      }
+    ],
+    "selected": 1
+  },
+  {
+    "id": "l13",
+    "text": "Dibelah... kejunya meleleh! Mangga, dicobain!",
+    "takes": [
+      {
+        "file": "takes/l13-a.mp3",
+        "duration": 3.971,
+        "heard": "Di belah, kejunya meleleh! Mangga, dicobain!",
+        "score": 0.987,
+        "trimmed_duration": 3.7668125,
+        "words": [
+          {
+            "w": "Di",
+            "t0": 0.0,
+            "t1": 0.16
+          },
+          {
+            "w": "belah,",
+            "t0": 0.16,
+            "t1": 0.72
+          },
+          {
+            "w": "kejunya",
+            "t0": 1.04,
+            "t1": 1.54
+          },
+          {
+            "w": "meleleh!",
+            "t0": 1.54,
+            "t1": 2.02
+          },
+          {
+            "w": "Mangga,",
+            "t0": 2.38,
+            "t1": 2.86
+          },
+          {
+            "w": "dicobain!",
+            "t0": 3.04,
+            "t1": 3.58
+          }
+        ]
+      },
+      {
+        "file": "takes/l13-b.mp3",
+        "duration": 4.049,
+        "heard": "Di belah, kejunya meleleh! Mangga, dicobain!",
+        "score": 0.987,
+        "trimmed_duration": 3.8715625,
+        "words": [
+          {
+            "w": "Di",
+            "t0": 0.0,
+            "t1": 0.18
+          },
+          {
+            "w": "belah,",
+            "t0": 0.18,
+            "t1": 0.7
+          },
+          {
+            "w": "kejunya",
+            "t0": 1.04,
+            "t1": 1.48
+          },
+          {
+            "w": "meleleh!",
+            "t0": 1.48,
+            "t1": 2.02
+          },
+          {
+            "w": "Mangga,",
+            "t0": 2.38,
+            "t1": 2.96
+          },
+          {
+            "w": "dicobain!",
+            "t0": 3.16,
+            "t1": 3.68
+          }
+        ]
+      }
+    ],
+    "selected": 0
+  },
+  {
+    "id": "l14",
+    "text": "Pelanggan gw sebelas... eh, dihitung bener, enam ratus tujuh puluh tiga?! Hatur nuhun!",
+    "takes": [
+      {
+        "file": "takes/l14-a.mp3",
+        "duration": 6.766,
+        "heard": "Pelanggan gue 11. Eh, di hitung bener 673. Hatur Nuhun.",
+        "score": 0.812,
+        "trimmed_duration": 6.5489375,
+        "words": [
+          {
+            "w": "Pelanggan",
+            "t0": 0.0,
+            "t1": 0.4
+          },
+          {
+            "w": "gue",
+            "t0": 0.4,
+            "t1": 0.6
+          },
+          {
+            "w": "11.",
+            "t0": 0.6,
+            "t1": 1.22
+          },
+          {
+            "w": "Eh,",
+            "t0": 1.78,
+            "t1": 1.98
+          },
+          {
+            "w": "di",
+            "t0": 2.28,
+            "t1": 2.36
+          },
+          {
+            "w": "hitung",
+            "t0": 2.36,
+            "t1": 2.6
+          },
+          {
+            "w": "bener",
+            "t0": 2.6,
+            "t1": 3.0
+          },
+          {
+            "w": "673.",
+            "t0": 3.0,
+            "t1": 4.72
+          },
+          {
+            "w": "Hatur",
+            "t0": 5.08,
+            "t1": 5.62
+          },
+          {
+            "w": "Nuhun.",
+            "t0": 5.62,
+            "t1": 6.28
+          }
+        ]
+      },
+      {
+        "file": "takes/l14-b.mp3",
+        "duration": 6.609,
+        "heard": "pelanggan gue 11 eh di hitung bener 673 haturnuhun",
+        "score": 0.803,
+        "trimmed_duration": 6.397,
+        "words": [
+          {
+            "w": "pelanggan",
+            "t0": 0.0,
+            "t1": 0.38
+          },
+          {
+            "w": "gue",
+            "t0": 0.38,
+            "t1": 0.54
+          },
+          {
+            "w": "11",
+            "t0": 0.54,
+            "t1": 1.08
+          },
+          {
+            "w": "eh",
+            "t0": 1.08,
+            "t1": 1.8
+          },
+          {
+            "w": "di",
+            "t0": 1.8,
+            "t1": 2.2
+          },
+          {
+            "w": "hitung",
+            "t0": 2.2,
+            "t1": 2.4
+          },
+          {
+            "w": "bener",
+            "t0": 2.4,
+            "t1": 2.82
+          },
+          {
+            "w": "673",
+            "t0": 2.82,
+            "t1": 4.62
+          },
+          {
+            "w": "haturnuhun",
+            "t0": 4.62,
+            "t1": 6.24
+          }
+        ]
+      }
+    ],
+    "selected": 0
+  },
+  {
+    "id": "l15",
+    "text": "Recehnya masuk toples. Tabungan cabang dua!",
+    "takes": [
+      {
+        "file": "takes/l15-a.mp3",
+        "duration": 3.396,
+        "heard": "Retehnya masuk topless. Tabungan cabang dua.",
+        "score": 0.964,
+        "trimmed_duration": 3.158,
+        "words": [
+          {
+            "w": "Retehnya",
+            "t0": 0.0,
+            "t1": 0.64
+          },
+          {
+            "w": "masuk",
+            "t0": 0.64,
+            "t1": 0.92
+          },
+          {
+            "w": "topless.",
+            "t0": 0.92,
+            "t1": 1.62
+          },
+          {
+            "w": "Tabungan",
+            "t0": 1.92,
+            "t1": 2.42
+          },
+          {
+            "w": "cabang",
+            "t0": 2.42,
+            "t1": 2.7
+          },
+          {
+            "w": "dua.",
+            "t0": 2.7,
+            "t1": 2.92
+          }
+        ]
+      },
+      {
+        "file": "takes/l15-b.mp3",
+        "duration": 3.239,
+        "heard": "Recehnya masuk toples, tabungan cabang dua!",
+        "score": 1.0,
+        "trimmed_duration": 3.010875,
+        "words": [
+          {
+            "w": "Recehnya",
+            "t0": 0.0,
+            "t1": 0.6
+          },
+          {
+            "w": "masuk",
+            "t0": 0.6,
+            "t1": 0.86
+          },
+          {
+            "w": "toples,",
+            "t0": 0.86,
+            "t1": 1.42
+          },
+          {
+            "w": "tabungan",
+            "t0": 1.92,
+            "t1": 2.34
+          },
+          {
+            "w": "cabang",
+            "t0": 2.34,
+            "t1": 2.62
+          },
+          {
+            "w": "dua!",
+            "t0": 2.62,
+            "t1": 2.8
+          }
+        ]
+      }
+    ],
+    "selected": 1
+  },
+  {
+    "id": "l16",
+    "text": "Tapi segini mah beli roda doang kaga cukup.",
+    "takes": [
+      {
+        "file": "takes/l16-a.mp3",
+        "duration": 3.396,
+        "heard": "Tapi, segini mah, beli rodah doang kagak cukup.",
+        "score": 0.977,
+        "trimmed_duration": 3.0708125,
+        "words": [
+          {
+            "w": "Tapi,",
+            "t0": 0.0,
+            "t1": 0.38
+          },
+          {
+            "w": "segini",
+            "t0": 0.6,
+            "t1": 1.0
+          },
+          {
+            "w": "mah,",
+            "t0": 1.0,
+            "t1": 1.2
+          },
+          {
+            "w": "beli",
+            "t0": 1.42,
+            "t1": 1.68
+          },
+          {
+            "w": "rodah",
+            "t0": 1.68,
+            "t1": 1.92
+          },
+          {
+            "w": "doang",
+            "t0": 1.92,
+            "t1": 2.26
+          },
+          {
+            "w": "kagak",
+            "t0": 2.26,
+            "t1": 2.56
+          },
+          {
+            "w": "cukup.",
+            "t0": 2.56,
+            "t1": 3.04
+          }
+        ]
+      },
+      {
+        "file": "takes/l16-b.mp3",
+        "duration": 3.474,
+        "heard": "Tapi, segini mah, beli roda doang kagak cukup.",
+        "score": 0.988,
+        "trimmed_duration": 3.1425625,
+        "words": [
+          {
+            "w": "Tapi,",
+            "t0": 0.0,
+            "t1": 0.38
+          },
+          {
+            "w": "segini",
+            "t0": 0.58,
+            "t1": 1.04
+          },
+          {
+            "w": "mah,",
+            "t0": 1.04,
+            "t1": 1.2
+          },
+          {
+            "w": "beli",
+            "t0": 1.4,
+            "t1": 1.68
+          },
+          {
+            "w": "roda",
+            "t0": 1.68,
+            "t1": 1.92
+          },
+          {
+            "w": "doang",
+            "t0": 1.92,
+            "t1": 2.28
+          },
+          {
+            "w": "kagak",
+            "t0": 2.28,
+            "t1": 2.58
+          },
+          {
+            "w": "cukup.",
+            "t0": 2.58,
+            "t1": 3.08
+          }
+        ]
+      }
+    ],
+    "selected": 1
+  },
+  {
+    "id": "l17",
+    "text": "Untung Babe Rojali, nyang jual gerobak, janji...",
+    "takes": [
+      {
+        "file": "takes/l17-a.mp3",
+        "duration": 4.049,
+        "heard": "Untung Babero Jali, yang jual gerobak, janji.",
+        "score": 0.965,
+        "trimmed_duration": 3.80825,
+        "words": [
+          {
+            "w": "Untung",
+            "t0": 0.0,
+            "t1": 0.5
+          },
+          {
+            "w": "Babero",
+            "t0": 0.5,
+            "t1": 0.86
+          },
+          {
+            "w": "Jali,",
+            "t0": 0.86,
+            "t1": 1.36
+          },
+          {
+            "w": "yang",
+            "t0": 1.48,
+            "t1": 1.9
+          },
+          {
+            "w": "jual",
+            "t0": 1.9,
+            "t1": 2.18
+          },
+          {
+            "w": "gerobak,",
+            "t0": 2.18,
+            "t1": 2.78
+          },
+          {
+            "w": "janji.",
+            "t0": 2.98,
+            "t1": 3.58
+          }
+        ]
+      },
+      {
+        "file": "takes/l17-b.mp3",
+        "duration": 4.049,
+        "heard": "Untung Babero Jali, yang jual gerobak, janji!",
+        "score": 0.965,
+        "trimmed_duration": 3.8576875,
+        "words": [
+          {
+            "w": "Untung",
+            "t0": 0.0,
+            "t1": 0.46
+          },
+          {
+            "w": "Babero",
+            "t0": 0.46,
+            "t1": 0.84
+          },
+          {
+            "w": "Jali,",
+            "t0": 0.84,
+            "t1": 1.34
+          },
+          {
+            "w": "yang",
+            "t0": 1.5,
+            "t1": 1.88
+          },
+          {
+            "w": "jual",
+            "t0": 1.88,
+            "t1": 2.18
+          },
+          {
+            "w": "gerobak,",
+            "t0": 2.18,
+            "t1": 2.8
+          },
+          {
+            "w": "janji!",
+            "t0": 3.04,
+            "t1": 3.64
+          }
+        ]
+      }
+    ],
+    "selected": 0
+  },
+  {
+    "id": "l18",
+    "text": "Pelanggan tembus seribu, gerobak kedua dikasih! Nyicil, sih.",
+    "takes": [
+      {
+        "file": "takes/l18-a.mp3",
+        "duration": 4.598,
+        "heard": "pelanggan tembus ribu, groba kedua dikasih, nyicil sih.",
+        "score": 0.963,
+        "trimmed_duration": 4.365625,
+        "words": [
+          {
+            "w": "pelanggan",
+            "t0": 0.0,
+            "t1": 0.44
+          },
+          {
+            "w": "tembus",
+            "t0": 0.44,
+            "t1": 0.86
+          },
+          {
+            "w": "ribu,",
+            "t0": 0.86,
+            "t1": 1.48
+          },
+          {
+            "w": "groba",
+            "t0": 1.48,
+            "t1": 1.92
+          },
+          {
+            "w": "kedua",
+            "t0": 1.92,
+            "t1": 2.3
+          },
+          {
+            "w": "dikasih,",
+            "t0": 2.3,
+            "t1": 3.04
+          },
+          {
+            "w": "nyicil",
+            "t0": 3.18,
+            "t1": 3.9
+          },
+          {
+            "w": "sih.",
+            "t0": 3.9,
+            "t1": 4.12
+          }
+        ]
+      },
+      {
+        "file": "takes/l18-b.mp3",
+        "duration": 4.598,
+        "heard": "pelanggan tembus ribu, groba kedua dikasih. Nyecil sih.",
+        "score": 0.944,
+        "trimmed_duration": 4.3920625,
+        "words": [
+          {
+            "w": "pelanggan",
+            "t0": 0.0,
+            "t1": 0.44
+          },
+          {
+            "w": "tembus",
+            "t0": 0.44,
+            "t1": 0.86
+          },
+          {
+            "w": "ribu,",
+            "t0": 0.86,
+            "t1": 1.46
+          },
+          {
+            "w": "groba",
+            "t0": 1.46,
+            "t1": 1.86
+          },
+          {
+            "w": "kedua",
+            "t0": 1.86,
+            "t1": 2.24
+          },
+          {
+            "w": "dikasih.",
+            "t0": 2.24,
+            "t1": 2.98
+          },
+          {
+            "w": "Nyecil",
+            "t0": 3.16,
+            "t1": 3.84
+          },
+          {
+            "w": "sih.",
+            "t0": 3.84,
+            "t1": 4.12
+          }
+        ]
+      }
+    ],
+    "selected": 0
+  },
+  {
+    "id": "l19",
+    "text": "Kurang tiga ratus dua puluh tujuh lagi!",
+    "takes": [
+      {
+        "file": "takes/l19-a.mp3",
+        "duration": 2.586,
+        "heard": "Kurang 327 lagi",
+        "score": 0.571,
+        "trimmed_duration": 2.3199375,
+        "words": [
+          {
+            "w": "Kurang",
+            "t0": 0.0,
+            "t1": 0.3
+          },
+          {
+            "w": "327",
+            "t0": 0.3,
+            "t1": 1.58
+          },
+          {
+            "w": "lagi",
+            "t0": 1.58,
+            "t1": 2.06
+          }
+        ]
+      }
+    ],
+    "selected": 0
+  },
+  {
+    "id": "l20",
+    "text": "Follow dong, biar gw buka cabang dua!",
+    "takes": [
+      {
+        "file": "takes/l20-a.mp3",
+        "duration": 2.691,
+        "heard": "Follow dong, biar gue buka cabang dua!",
+        "score": 1.0,
+        "trimmed_duration": 2.476,
+        "words": [
+          {
+            "w": "Follow",
+            "t0": 0.0,
+            "t1": 0.22
+          },
+          {
+            "w": "dong,",
+            "t0": 0.22,
+            "t1": 0.56
+          },
+          {
+            "w": "biar",
+            "t0": 0.92,
+            "t1": 1.16
+          },
+          {
+            "w": "gue",
+            "t0": 1.16,
+            "t1": 1.3
+          },
+          {
+            "w": "buka",
+            "t0": 1.3,
+            "t1": 1.56
+          },
+          {
+            "w": "cabang",
+            "t0": 1.56,
+            "t1": 1.86
+          },
+          {
+            "w": "dua!",
+            "t0": 1.86,
+            "t1": 2.14
+          }
+        ]
+      },
+      {
+        "file": "takes/l20-b.mp3",
+        "duration": 2.691,
+        "heard": "Follow dong, biar gue buka cabang dua!",
+        "score": 1.0,
+        "trimmed_duration": 2.45775,
+        "words": [
+          {
+            "w": "Follow",
+            "t0": 0.0,
+            "t1": 0.2
+          },
+          {
+            "w": "dong,",
+            "t0": 0.2,
+            "t1": 0.56
+          },
+          {
+            "w": "biar",
+            "t0": 0.88,
+            "t1": 1.16
+          },
+          {
+            "w": "gue",
+            "t0": 1.16,
+            "t1": 1.3
+          },
+          {
+            "w": "buka",
+            "t0": 1.3,
+            "t1": 1.54
+          },
+          {
+            "w": "cabang",
+            "t0": 1.54,
+            "t1": 1.84
+          },
+          {
+            "w": "dua!",
+            "t0": 1.84,
+            "t1": 2.08
+          }
+        ]
+      }
+    ],
+    "selected": 1
+  },
+  {
+    "id": "l21",
+    "text": "Menu keempat resmi! Besok menu kelima, elu mau ape?",
+    "takes": [
+      {
+        "file": "takes/l21-a.mp3",
+        "duration": 4.127,
+        "heard": "Menu keempat resmi. Besok menu kelima. Lu mau apa ya?",
+        "score": 0.939,
+        "trimmed_duration": 3.9220625,
+        "words": [
+          {
+            "w": "Menu",
+            "t0": 0.0,
+            "t1": 0.2
+          },
+          {
+            "w": "keempat",
+            "t0": 0.2,
+            "t1": 0.7
+          },
+          {
+            "w": "resmi.",
+            "t0": 0.7,
+            "t1": 1.3
+          },
+          {
+            "w": "Besok",
+            "t0": 1.58,
+            "t1": 2.1
+          },
+          {
+            "w": "menu",
+            "t0": 2.1,
+            "t1": 2.36
+          },
+          {
+            "w": "kelima.",
+            "t0": 2.36,
+            "t1": 2.94
+          },
+          {
+            "w": "Lu",
+            "t0": 3.1,
+            "t1": 3.28
+          },
+          {
+            "w": "mau",
+            "t0": 3.28,
+            "t1": 3.44
+          },
+          {
+            "w": "apa",
+            "t0": 3.44,
+            "t1": 3.7
+          },
+          {
+            "w": "ya?",
+            "t0": 3.7,
+            "t1": 3.86
+          }
+        ]
+      },
+      {
+        "file": "takes/l21-b.mp3",
+        "duration": 4.206,
+        "heard": "Menu keempat resmi. Besok menu kelima. Lu mau apa ya?",
+        "score": 0.939,
+        "trimmed_duration": 4.0064375,
+        "words": [
+          {
+            "w": "Menu",
+            "t0": 0.0,
+            "t1": 0.2
+          },
+          {
+            "w": "keempat",
+            "t0": 0.2,
+            "t1": 0.72
+          },
+          {
+            "w": "resmi.",
+            "t0": 0.72,
+            "t1": 1.28
+          },
+          {
+            "w": "Besok",
+            "t0": 1.68,
+            "t1": 2.12
+          },
+          {
+            "w": "menu",
+            "t0": 2.12,
+            "t1": 2.34
+          },
+          {
+            "w": "kelima.",
+            "t0": 2.34,
+            "t1": 2.92
+          },
+          {
+            "w": "Lu",
+            "t0": 3.1,
+            "t1": 3.3
+          },
+          {
+            "w": "mau",
+            "t0": 3.3,
+            "t1": 3.44
+          },
+          {
+            "w": "apa",
+            "t0": 3.44,
+            "t1": 3.76
+          },
+          {
+            "w": "ya?",
+            "t0": 3.76,
+            "t1": 3.94
+          }
+        ]
+      }
+    ],
+    "selected": 0
+  },
+  {
+    "id": "l22",
+    "text": "Komen! Nyang paling banyak like, gw masak!",
+    "takes": [
+      {
+        "file": "takes/l22-a.mp3",
+        "duration": 3.396,
+        "heard": "komen, yang paling banyak like gue masak",
+        "score": 0.987,
+        "trimmed_duration": 3.1393125,
+        "words": [
+          {
+            "w": "komen,",
+            "t0": 0.0,
+            "t1": 0.36
+          },
+          {
+            "w": "yang",
+            "t0": 0.78,
+            "t1": 1.14
+          },
+          {
+            "w": "paling",
+            "t0": 1.14,
+            "t1": 1.46
+          },
+          {
+            "w": "banyak",
+            "t0": 1.46,
+            "t1": 1.7
+          },
+          {
+            "w": "like",
+            "t0": 1.7,
+            "t1": 2.08
+          },
+          {
+            "w": "gue",
+            "t0": 2.08,
+            "t1": 2.54
+          },
+          {
+            "w": "masak",
+            "t0": 2.54,
+            "t1": 3.0
+          }
+        ]
+      },
+      {
+        "file": "takes/l22-b.mp3",
+        "duration": 3.318,
+        "heard": "komen, yang paling banyak like, gue masak",
+        "score": 0.987,
+        "trimmed_duration": 2.940125,
+        "words": [
+          {
+            "w": "komen,",
+            "t0": 0.0,
+            "t1": 0.3
+          },
+          {
+            "w": "yang",
+            "t0": 0.66,
+            "t1": 1.04
+          },
+          {
+            "w": "paling",
+            "t0": 1.04,
+            "t1": 1.34
+          },
+          {
+            "w": "banyak",
+            "t0": 1.34,
+            "t1": 1.64
+          },
+          {
+            "w": "like,",
+            "t0": 1.64,
+            "t1": 2.0
+          },
+          {
+            "w": "gue",
+            "t0": 2.22,
+            "t1": 2.48
+          },
+          {
+            "w": "masak",
+            "t0": 2.48,
+            "t1": 2.92
+          }
+        ]
+      }
+    ],
+    "selected": 1
+  }
+]

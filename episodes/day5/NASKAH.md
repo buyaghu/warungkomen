@@ -1,10 +1,10 @@
-# Day 5 — Bakso keju (DRAF, menunggu persetujuan user)
+# Day 5 — Bakso keju (DISETUJUI user 12 Nov 2026: "Lanjut produksi dan posting sekarang aja")
 
 Format mengikuti `episodes/day4/NASKAH.md`. Gambar penuh, karakter besar, tanpa subtitle berjalan. TTS menulis "gue"; di layar "gw".
 
 - Pemenang: @evelyn.chipi67 (IG) "Bakso keju", **58 like** (rekor; Day 4 cuma 4 like). Kubu bakso akhirnya kompak.
 - Menu: [Ayam geprek, Mie ayam, Nasi daun jeruk, Bakso keju]. CABANG 1/100.
-- **Baru (wajib mulai Day 5):** papan "MENUJU CABANG 2: 673/1.000 PENGIKUT" (angka nyata 12 Nov: IG 31 + TikTok 642) + ajakan follow.
+- **PELANGGAN = total pengikut IG + TikTok (disetujui 12 Nov).** Angka nyata 12 Nov 21.15 WIB: IG 31 + TikTok 642 = **673**. Papan digabung: PELANGGAN 673 / 1.000 → CABANG 2. Angka cerita lama (11) jadi lelucon "ngitung pake jari".
 - **Dana cabang 2 (A+B, disetujui user 12 Nov):** toples MODAL terisi receh dari pelanggan, tapi kagak cukup; Babe Rojali (juragan gerobak bekas, tokoh baru) janji kasih gerobak kedua kalau pengikut tembus 1.000, bayarnya nyicil dari omzet.
 - Target ±60 detik, 22 baris. Bumbu Sunda: euy, lieur, hatur nuhun.
 
@@ -38,25 +38,25 @@ Visual: gilingan engkol; bakso kotak bikin Juned bingung; keju dimasukkan sambil
 ## 40–48 dtk — Sajian dan toples MODAL
 
 13. Dibelah... kejunya meleleh! Mangga, dicobain!
-14. Pelanggan sebelas, sekarang empat belas. Hatur nuhun!
+14. Pelanggan gw sebelas... eh, dihitung bener, enam ratus tujuh puluh tiga?! Hatur nuhun!
 15. Recehnya masuk toples. Tabungan cabang dua!
 
-Visual: close-up bakso dibelah, keju molor panjang. Mangkok disodorkan ke kamera. PELANGGAN 11 → 14 (angka cerita). Koin berjatuhan ke toples MODAL (Day 4: 3 koin → sekarang segenggam). Juned peluk toples.
+Visual: close-up bakso dibelah, keju molor panjang. Mangkok disodorkan ke kamera. Juned hitung pakai jari (11), lalu papan PELANGGAN berputar ke 673. Koin berjatuhan ke toples MODAL (Day 4: 3 koin → sekarang segenggam). Juned peluk toples.
 
 ## 48–62 dtk — Babe Rojali, cabang 2 dan ajakan
 
 16. Tapi segini mah beli roda doang kaga cukup.
 17. Untung Babe Rojali, nyang jual gerobak, janji...
-18. Pengikut tembus seribu, gerobak kedua dikasih! Nyicil, sih.
-19. Sekarang enam ratus tujuh puluh tiga. Kurang dikit!
+18. Pelanggan tembus seribu, gerobak kedua dikasih! Nyicil, sih.
+19. Kurang tiga ratus dua puluh tujuh lagi!
 20. Follow dong, biar gw buka cabang dua!
 21. Menu keempat resmi! Besok menu kelima, elu mau ape?
 22. Komen! Nyang paling banyak like, gw masak!
 
-Visual: Juned intip toples lalu lirik gerobak bekas di lapak Babe Rojali (bapak berkumis, peci, kaos kutang + sarung, jempol ke atas; tokoh baru, gaya sama dengan karakter lain). Gerobak kedua berpita merah dengan label "CABANG 2". Papan progres MENUJU CABANG 2: 673/1.000 PENGIKUT, bar terisi 67%. MenuBoard 1–4 + "5. ???". Kartu akhir ADU LIKE: MENU KE-5, tahan ±2 dtk.
+Visual: Juned intip toples lalu lirik gerobak bekas di lapak Babe Rojali (bapak berkumis, peci, kaos kutang + sarung, jempol ke atas; tokoh baru, gaya sama dengan karakter lain). Gerobak kedua berpita merah dengan label "CABANG 2". Papan PELANGGAN 673 / 1.000 → CABANG 2, bar terisi 67%. MenuBoard 1–4 + "5. ???". Kartu akhir ADU LIKE: MENU KE-5, tahan ±2 dtk.
 
-## Keputusan (butuh user)
+## Keputusan (dicatat)
 
-- Angka pelanggan cerita 11 → 14?
-- Jadwal tayang Day 5 dan batas voting Day 6 (usulan: tayang Jumat 13 Nov, batas Sabtu 14 Nov 2026, 17.00 WIB).
-- Catatan durasi: Day 4 21 baris jadi 65 dtk. Kalau take kepanjangan, kandidat potong: baris 7 dan 16.
+- Pelanggan = total pengikut asli (673), bukan angka cerita.
+- Tayang Kamis 12 Nov 2026 malam (langsung). Voting Day 6 ditutup **Sabtu 14 Nov 2026, 17.00 WIB**.
+- Catatan durasi: kandidat potong kalau kepanjangan: baris 7 dan 16.

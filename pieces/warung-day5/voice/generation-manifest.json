@@ -1,0 +1,311 @@
+{
+  "flow_id": "x6rw4s1om62VxZ1nJ6rU",
+  "voice_id": "bwyCvXbDGcE93hF4UWld",
+  "model_id": "eleven_v4",
+  "lines": [
+    {
+      "id": "l01",
+      "text": "Lima puluh delapan like?! Buset dah!",
+      "takes": [
+        {
+          "file": "takes/l01-a.mp3",
+          "duration": 3.239
+        },
+        {
+          "file": "takes/l01-b.mp3",
+          "duration": 3.239
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "text": "Kemaren gw bilang kompakan... beneran kompak!",
+      "takes": [
+        {
+          "file": "takes/l02-a.mp3",
+          "duration": 3.553
+        },
+        {
+          "file": "takes/l02-b.mp3",
+          "duration": 3.631
+        }
+      ]
+    },
+    {
+      "id": "l03",
+      "text": "Day lima! Gw masak bakso keju!",
+      "takes": [
+        {
+          "file": "takes/l03-a.mp3",
+          "duration": 2.847
+        },
+        {
+          "file": "takes/l03-b.mp3",
+          "duration": 2.847
+        }
+      ]
+    },
+    {
+      "id": "l04",
+      "text": "Kubu minuman, empat belas like. Gede juga!",
+      "takes": [
+        {
+          "file": "takes/l04-a.mp3",
+          "duration": 3.631
+        },
+        {
+          "file": "takes/l04-b.mp3",
+          "duration": 3.631
+        }
+      ]
+    },
+    {
+      "id": "l05",
+      "text": "Es teh, kopi, matcha... gerobak gw kaga ada kulkas! Gorengan, nasi kuning: antre dulu!",
+      "takes": [
+        {
+          "file": "takes/l05-a.mp3",
+          "duration": 7.628
+        },
+        {
+          "file": "takes/l05-b.mp3",
+          "duration": 7.628
+        }
+      ]
+    },
+    {
+      "id": "l06",
+      "text": "Daging digiling... tangan gw pegel, sumpah!",
+      "takes": [
+        {
+          "file": "takes/l06-a.mp3",
+          "duration": 4.206
+        },
+        {
+          "file": "takes/l06-b.mp3",
+          "duration": 4.206
+        }
+      ]
+    },
+    {
+      "id": "l07",
+      "text": "Dibulet-buletin. Kok bentuknya kotak?",
+      "takes": [
+        {
+          "file": "takes/l07-a.mp3",
+          "duration": 3.082
+        },
+        {
+          "file": "takes/l07-b.mp3",
+          "duration": 3.082
+        }
+      ]
+    },
+    {
+      "id": "l08",
+      "text": "Keju dimasukin tengahnya. Rahasia, jangan bilang-bilang!",
+      "takes": [
+        {
+          "file": "takes/l08-a.mp3",
+          "duration": 4.206
+        },
+        {
+          "file": "takes/l08-b.mp3",
+          "duration": 4.362
+        }
+      ]
+    },
+    {
+      "id": "l09",
+      "text": "Masuk air mendidih. Ayo ngapung, ngapung!",
+      "takes": [
+        {
+          "file": "takes/l09-a.mp3",
+          "duration": 3.396
+        },
+        {
+          "file": "takes/l09-b.mp3",
+          "duration": 3.318
+        }
+      ]
+    },
+    {
+      "id": "l10",
+      "text": "Lah... kejunya kabur! Baksonya bolong!",
+      "takes": [
+        {
+          "file": "takes/l10-a.mp3",
+          "duration": 3.631
+        },
+        {
+          "file": "takes/l10-b.mp3",
+          "duration": 3.631
+        }
+      ]
+    },
+    {
+      "id": "l11",
+      "text": "Gw lieur... coba lagi, namanya juga usaha!",
+      "takes": [
+        {
+          "file": "takes/l11-a.mp3",
+          "duration": 4.833
+        },
+        {
+          "file": "takes/l11-b.mp3",
+          "duration": 4.833
+        }
+      ]
+    },
+    {
+      "id": "l12",
+      "text": "Nah! Ngapung semua. Rame euy!",
+      "takes": [
+        {
+          "file": "takes/l12-a.mp3",
+          "duration": 3.318
+        },
+        {
+          "file": "takes/l12-b.mp3",
+          "duration": 3.318
+        }
+      ]
+    },
+    {
+      "id": "l13",
+      "text": "Dibelah... kejunya meleleh! Mangga, dicobain!",
+      "takes": [
+        {
+          "file": "takes/l13-a.mp3",
+          "duration": 3.971
+        },
+        {
+          "file": "takes/l13-b.mp3",
+          "duration": 4.049
+        }
+      ]
+    },
+    {
+      "id": "l14",
+      "text": "Pelanggan gw sebelas... eh, dihitung bener, enam ratus tujuh puluh tiga?! Hatur nuhun!",
+      "takes": [
+        {
+          "file": "takes/l14-a.mp3",
+          "duration": 6.766
+        },
+        {
+          "file": "takes/l14-b.mp3",
+          "duration": 6.609
+        }
+      ]
+    },
+    {
+      "id": "l15",
+      "text": "Recehnya masuk toples. Tabungan cabang dua!",
+      "takes": [
+        {
+          "file": "takes/l15-a.mp3",
+          "duration": 3.396
+        },
+        {
+          "file": "takes/l15-b.mp3",
+          "duration": 3.239
+        }
+      ]
+    },
+    {
+      "id": "l16",
+      "text": "Tapi segini mah beli roda doang kaga cukup.",
+      "takes": [
+        {
+          "file": "takes/l16-a.mp3",
+          "duration": 3.396
+        },
+        {
+          "file": "takes/l16-b.mp3",
+          "duration": 3.474
+        }
+      ]
+    },
+    {
+      "id": "l17",
+      "text": "Untung Babe Rojali, nyang jual gerobak, janji...",
+      "takes": [
+        {
+          "file": "takes/l17-a.mp3",
+          "duration": 4.049
+        },
+        {
+          "file": "takes/l17-b.mp3",
+          "duration": 4.049
+        }
+      ]
+    },
+    {
+      "id": "l18",
+      "text": "Pelanggan tembus seribu, gerobak kedua dikasih! Nyicil, sih.",
+      "takes": [
+        {
+          "file": "takes/l18-a.mp3",
+          "duration": 4.598
+        },
+        {
+          "file": "takes/l18-b.mp3",
+          "duration": 4.598
+        }
+      ]
+    },
+    {
+      "id": "l19",
+      "text": "Kurang tiga ratus dua puluh tujuh lagi!",
+      "takes": [
+        {
+          "file": "takes/l19-a.mp3",
+          "duration": 2.586
+        }
+      ]
+    },
+    {
+      "id": "l20",
+      "text": "Follow dong, biar gw buka cabang dua!",
+      "takes": [
+        {
+          "file": "takes/l20-a.mp3",
+          "duration": 2.691
+        },
+        {
+          "file": "takes/l20-b.mp3",
+          "duration": 2.691
+        }
+      ]
+    },
+    {
+      "id": "l21",
+      "text": "Menu keempat resmi! Besok menu kelima, elu mau ape?",
+      "takes": [
+        {
+          "file": "takes/l21-a.mp3",
+          "duration": 4.127
+        },
+        {
+          "file": "takes/l21-b.mp3",
+          "duration": 4.206
+        }
+      ]
+    },
+    {
+      "id": "l22",
+      "text": "Komen! Nyang paling banyak like, gw masak!",
+      "takes": [
+        {
+          "file": "takes/l22-a.mp3",
+          "duration": 3.396
+        },
+        {
+          "file": "takes/l22-b.mp3",
+          "duration": 3.318
+        }
+      ]
+    }
+  ]
+}

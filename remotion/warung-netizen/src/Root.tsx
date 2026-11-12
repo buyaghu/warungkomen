@@ -1,11 +1,13 @@
 import { Composition, Folder, Still } from "remotion";
 import { WarungDay1, DURATION_S } from "./WarungDay1";
-import { DAY1, DAY1_TIKTOK, DAY2, DAY2_TIKTOK, DAY3, DAY3_TIKTOK, DAY4, DAY4_TIKTOK, EpisodeSchema } from "./episode";
+import { DAY1, DAY1_TIKTOK, DAY2, DAY2_TIKTOK, DAY3, DAY3_TIKTOK, DAY4, DAY4_TIKTOK, DAY5, DAY5_TIKTOK, EpisodeSchema } from "./episode";
 import { WarungDay2, DURATION2_S } from "./WarungDay2";
 import { WarungDay3, DURATION3_S } from "./WarungDay3";
 import { CoverDay3 } from "./CoverDay3";
 import { CoverDay4 } from "./CoverDay4";
 import { WarungDay4, DURATION4_S } from "./WarungDay4";
+import { WarungDay5, DURATION5_S } from "./WarungDay5";
+import { CoverDay5 } from "./CoverDay5";
 import { FPS, H, W } from "./lib";
 import { Avatar, CoverSchema, HighlightCover } from "./Branding";
 
@@ -55,8 +57,11 @@ export const RemotionRoot = () => (
     <Composition id="WarungDay3TikTok" component={WarungDay3} width={W} height={H} fps={FPS} durationInFrames={Math.round(DURATION3_S * FPS)} schema={EpisodeSchema} defaultProps={DAY3_TIKTOK} />
     <Composition id="WarungDay4" component={WarungDay4} width={W} height={H} fps={FPS} durationInFrames={Math.round(DURATION4_S * FPS)} schema={EpisodeSchema} defaultProps={DAY4} />
     <Composition id="WarungDay4TikTok" component={WarungDay4} width={W} height={H} fps={FPS} durationInFrames={Math.round(DURATION4_S * FPS)} schema={EpisodeSchema} defaultProps={DAY4_TIKTOK} />
+    <Composition id="WarungDay5" component={WarungDay5} width={W} height={H} fps={FPS} durationInFrames={Math.round(DURATION5_S * FPS)} schema={EpisodeSchema} defaultProps={DAY5} />
+    <Composition id="WarungDay5TikTok" component={WarungDay5} width={W} height={H} fps={FPS} durationInFrames={Math.round(DURATION5_S * FPS)} schema={EpisodeSchema} defaultProps={DAY5_TIKTOK} />
     <Still id="CoverDay3" component={CoverDay3} width={W} height={H} />
     <Still id="CoverDay4" component={CoverDay4} width={W} height={H} />
+    <Still id="CoverDay5" component={CoverDay5} width={W} height={H} />
     <Folder name="Instagram">
       <Still id="Avatar" component={Avatar} width={1080} height={1080} />
       <Still id="CoverMenu" component={HighlightCover} width={1080} height={1920} schema={CoverSchema} defaultProps={{ label: "DAFTAR MENU", icon: "menu" as const, bg: "#ff6a2b" }} />

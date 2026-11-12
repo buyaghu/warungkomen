@@ -1,0 +1,162 @@
+[
+  {
+    "id": "l01",
+    "source": "takes/l01-b.mp3",
+    "heard": "58 like? BUSET DAH!",
+    "score": 0.881,
+    "speed": 1.156931,
+    "duration": 2.5239
+  },
+  {
+    "id": "l02",
+    "source": "takes/l02-b.mp3",
+    "heard": "kemarin gue bilang kompakan beneran kompak",
+    "score": 1.0,
+    "speed": 1.156931,
+    "duration": 3.0023
+  },
+  {
+    "id": "l03",
+    "source": "takes/l03-a.mp3",
+    "heard": "DAI LIMA, GUE MASAK BAK SOKEJU",
+    "score": 0.931,
+    "speed": 1.156931,
+    "duration": 2.3116
+  },
+  {
+    "id": "l04",
+    "source": "takes/l04-a.mp3",
+    "heard": "Kubu Minuman, 14 like Gede juga",
+    "score": 0.868,
+    "speed": 1.222212,
+    "duration": 2.8147
+  },
+  {
+    "id": "l05",
+    "source": "takes/l05-b.mp3",
+    "heard": "Esteh, kopi, macah Grobak gue kagak ada kulkas Gorengan, nasi kuning, antre dulu",
+    "score": 0.961,
+    "speed": 1.222212,
+    "duration": 6.1141
+  },
+  {
+    "id": "l06",
+    "source": "takes/l06-b.mp3",
+    "heard": "Daging di giling, tangan gue pegal, sumpah!",
+    "score": 0.962,
+    "speed": 1.21176,
+    "duration": 3.3108
+  },
+  {
+    "id": "l08",
+    "source": "takes/l08-a.mp3",
+    "heard": "keju dimasukin tengahnya rahasia, jangan bilang-bilang",
+    "score": 1.0,
+    "speed": 1.21176,
+    "duration": 3.3059
+  },
+  {
+    "id": "l09",
+    "source": "takes/l09-b.mp3",
+    "heard": "Masuk air mendidih, ayo ngapung, ngapung!",
+    "score": 1.0,
+    "speed": 1.21176,
+    "duration": 2.5879
+  },
+  {
+    "id": "l10",
+    "source": "takes/l10-a.mp3",
+    "heard": "Lah! Kejunya kabur! Baksonya bolong!",
+    "score": 1.0,
+    "speed": 1.21176,
+    "duration": 2.7433
+  },
+  {
+    "id": "l11",
+    "source": "takes/l11-a.mp3",
+    "heard": "Gua leir... Coba lagi, namanya juga usaha.",
+    "score": 0.933,
+    "speed": 1.21176,
+    "duration": 3.6308
+  },
+  {
+    "id": "l12",
+    "source": "takes/l12-b.mp3",
+    "heard": "Nah, ngapung semua. Rame, ayy!",
+    "score": 0.923,
+    "speed": 1.21176,
+    "duration": 2.5899
+  },
+  {
+    "id": "l13",
+    "source": "takes/l13-a.mp3",
+    "heard": "Di belah, kejunya meleleh! Mangga, dicobain!",
+    "score": 0.987,
+    "speed": 1.22826,
+    "duration": 3.0735
+  },
+  {
+    "id": "l14",
+    "source": "takes/l14-a.mp3",
+    "heard": "Pelanggan gue 11. Eh, di hitung bener 673. Hatur Nuhun.",
+    "score": 0.812,
+    "speed": 1.22826,
+    "duration": 5.3282
+  },
+  {
+    "id": "l15",
+    "source": "takes/l15-b.mp3",
+    "heard": "Recehnya masuk toples, tabungan cabang dua!",
+    "score": 1.0,
+    "speed": 1.22826,
+    "duration": 2.4599
+  },
+  {
+    "id": "l17",
+    "source": "takes/l17-a.mp3",
+    "heard": "Untung Babero Jali, yang jual gerobak, janji.",
+    "score": 0.965,
+    "speed": 1.246148,
+    "duration": 3.0651
+  },
+  {
+    "id": "l18",
+    "source": "takes/l18-a.mp3",
+    "heard": "pelanggan tembus ribu, groba kedua dikasih, nyicil sih.",
+    "score": 0.963,
+    "speed": 1.246148,
+    "duration": 3.5084
+  },
+  {
+    "id": "l19",
+    "source": "takes/l19-a.mp3",
+    "heard": "Kurang 327 lagi",
+    "score": 0.571,
+    "speed": 1.246148,
+    "duration": 1.8652
+  },
+  {
+    "id": "l20",
+    "source": "takes/l20-b.mp3",
+    "heard": "Follow dong, biar gue buka cabang dua!",
+    "score": 1.0,
+    "speed": 1.246148,
+    "duration": 2.0042
+  },
+  {
+    "id": "l21",
+    "source": "takes/l21-a.mp3",
+    "heard": "Menu keempat resmi. Besok menu kelima. Lu mau apa ya?",
+    "score": 0.939,
+    "speed": 1.246148,
+    "duration": 3.154
+  },
+  {
+    "id": "l22",
+    "source": "takes/l22-b.mp3",
+    "heard": "komen, yang paling banyak like, gue masak",
+    "score": 0.987,
+    "speed": 1.246148,
+    "duration": 2.3521
+  }
+]

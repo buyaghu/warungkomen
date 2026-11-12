@@ -9,7 +9,7 @@
   - Day 2: 1. Ayam geprek.
   - Day 3: 2. (pemenang voting Day 2), dan seterusnya.
 - **Papan gerobak tetap "WARUNG KOMEN"**, bukan nama menu. Menu ditulis di papan kapur di sebelah gerobak.
-- **Pelanggan dan cabang tumbuh pelan-pelan.** Angka di papan PELANGGAN naik tiap episode. Cabang ke-2
+- **Pelanggan = pengikut.** Sejak Day 5 (disetujui user 12 Nov 2026) angka PELANGGAN di papan = total pengikut nyata IG + TikTok saat produksi ("Follow = jadi pelanggan" di bio). Day 1–4 masih angka cerita (1, 5, 8, 11). Cabang tumbuh pelan-pelan. Cabang ke-2
   menjadi momen besar: lihat bagian "Cabang 2" di bawah (target 1.000 pengikut, lalu voting lokasi).
 - Di Remotion, daftar menu adalah prop episode: `menu` di `src/episode.ts`. Untuk Day N, salin daftar
   Day N−1 dan tambah satu item.
@@ -17,7 +17,7 @@
 ## Cabang 2 (disetujui user, 10 Nov 2026)
 
 - **Pemicu:** total pengikut IG + TikTok @warungkomen tembus **1.000**. Angka awal saat disetujui: 644 (TikTok 620 + IG 24).
-- **Mulai Day 5:** tampilkan papan progres "MENUJU CABANG 2: n/1.000 PENGIKUT" di setiap episode, dengan angka nyata saat produksi
+- **Mulai Day 5:** tampilkan papan "PELANGGAN n / 1.000 → CABANG 2" di setiap episode, dengan angka nyata saat produksi
   (IG: Composio `INSTAGRAM_GET_USER_INFO`; TikTok: TikHub `TIK_HUB_TIKTOK_APP_V3_GET_USER_PROFILE`). Jadikan ajakan follow.
 - **Saat tembus 1.000:** buka voting netizen untuk lokasi dan nama cabang 2, dengan aturan yang sama seperti voting menu
   (satu komen, like terbanyak di IG + TikTok). Episode berikutnya: Mang Juned membuka cabang 2 di lokasi pemenang; layar menjadi CABANG 2/100.

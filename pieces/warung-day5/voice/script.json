@@ -1,0 +1,146 @@
+{
+  "duration": 67,
+  "assembly": "python3 pieces/warung-day5/build_voice.py",
+  "lines": [
+    {
+      "id": "l01",
+      "text": "Lima puluh delapan like?! Buset dah!",
+      "file": "l01.mp3",
+      "start": 0.2,
+      "after": 0.1
+    },
+    {
+      "id": "l02",
+      "text": "Kemaren gue bilang kompakan... beneran kompak!",
+      "file": "l02.mp3",
+      "start": 2.824,
+      "after": 0.1
+    },
+    {
+      "id": "l03",
+      "text": "Day lima! Gue masak bakso keju!",
+      "file": "l03.mp3",
+      "start": 5.926,
+      "after": 0.1
+    },
+    {
+      "id": "l04",
+      "text": "Kubu minuman, empat belas like. Gede juga!",
+      "file": "l04.mp3",
+      "start": 8.5,
+      "after": 0.1
+    },
+    {
+      "id": "l05",
+      "text": "Es teh, kopi, matcha... gerobak gue kaga ada kulkas! Gorengan, nasi kuning: antre dulu!",
+      "file": "l05.mp3",
+      "start": 11.415,
+      "after": 0.1
+    },
+    {
+      "id": "l06",
+      "text": "Daging digiling... tangan gue pegel, sumpah!",
+      "file": "l06.mp3",
+      "start": 17.8,
+      "after": 0.1
+    },
+    {
+      "id": "l08",
+      "text": "Keju dimasukin tengahnya. Rahasia, jangan bilang-bilang!",
+      "file": "l08.mp3",
+      "start": 21.211,
+      "after": 0.1
+    },
+    {
+      "id": "l09",
+      "text": "Masuk air mendidih. Ayo ngapung, ngapung!",
+      "file": "l09.mp3",
+      "start": 24.617,
+      "after": 0.1
+    },
+    {
+      "id": "l10",
+      "text": "Lah... kejunya kabur! Baksonya bolong!",
+      "file": "l10.mp3",
+      "start": 27.305,
+      "after": 0.35
+    },
+    {
+      "id": "l11",
+      "text": "Gue lieur... coba lagi, namanya juga usaha!",
+      "file": "l11.mp3",
+      "start": 30.398,
+      "after": 0.3
+    },
+    {
+      "id": "l12",
+      "text": "Nah! Ngapung semua. Rame euy!",
+      "file": "l12.mp3",
+      "start": 34.329,
+      "after": 0.1
+    },
+    {
+      "id": "l13",
+      "text": "Dibelah... kejunya meleleh! Mangga, dicobain!",
+      "file": "l13.mp3",
+      "start": 37.2,
+      "after": 0.25
+    },
+    {
+      "id": "l14",
+      "text": "Pelanggan gue sebelas... eh, dihitung bener, enam ratus tujuh puluh tiga?! Hatur nuhun!",
+      "file": "l14.mp3",
+      "start": 40.523,
+      "after": 0.1
+    },
+    {
+      "id": "l15",
+      "text": "Recehnya masuk toples. Tabungan cabang dua!",
+      "file": "l15.mp3",
+      "start": 45.952,
+      "after": 0.1
+    },
+    {
+      "id": "l17",
+      "text": "Untung Babe Rojali, nyang jual gerobak, janji...",
+      "file": "l17.mp3",
+      "start": 48.7,
+      "after": 0.2
+    },
+    {
+      "id": "l18",
+      "text": "Pelanggan tembus seribu, gerobak kedua dikasih! Nyicil, sih.",
+      "file": "l18.mp3",
+      "start": 51.965,
+      "after": 0.1
+    },
+    {
+      "id": "l19",
+      "text": "Kurang tiga ratus dua puluh tujuh lagi!",
+      "file": "l19.mp3",
+      "start": 55.574,
+      "after": 0.1
+    },
+    {
+      "id": "l20",
+      "text": "Follow dong, biar gue buka cabang dua!",
+      "file": "l20.mp3",
+      "start": 57.539,
+      "after": 0.1
+    },
+    {
+      "id": "l21",
+      "text": "Menu keempat resmi! Besok menu kelima, elu mau ape?",
+      "file": "l21.mp3",
+      "start": 59.643,
+      "after": 0.1
+    },
+    {
+      "id": "l22",
+      "text": "Komen! Nyang paling banyak like, gue masak!",
+      "file": "l22.mp3",
+      "start": 62.897,
+      "after": 0.1
+    }
+  ]
+}
