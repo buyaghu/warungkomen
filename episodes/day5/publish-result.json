@@ -14,9 +14,10 @@
   "rule_comment_id": "17999463360106269",
   "ig_comment_pin": "manual by user",
   "vote_deadline": "2026-11-14T17:00:00+07:00",
-  "tiktok_status": "prepared; waiting for user to submit Higgsfield publish-form widget in a claude.ai chat",
+  "tiktok_status": "published_by_user_via_higgsfield_widget",
   "tiktok_higgsfield_video": "https://d2ol7oe51mr4n9.cloudfront.net/user_3IMpoVMrBDwzM1nTqLuka82rdA1/8d951bda-654f-4a61-a0d7-69be916aaaec.mp4",
   "tiktok_publish_session_id": "9c5de499-91b1-4648-bd99-68404ca3e678",
-  "tiktok_publish_session_expires_at": "2026-11-12T16:26:05Z",
-  "tiktok_cover": "tiktok/day5-cover.jpg (pilih di form, atau Edit sampul di app)"
+  "tiktok_cover": "tiktok/day5-cover.jpg (pilih di form, atau Edit sampul di app)",
+  "tiktok_permalink": "https://vt.tiktok.com/ZSp92rxrm/",
+  "tiktok_aweme_id": "7707292622959693108"
 }

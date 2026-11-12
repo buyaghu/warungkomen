@@ -18,11 +18,11 @@ Ditulis Kamis 12 Nov 2026 malam. Baca `CLAUDE.md` dulu.
 ## Posting
 
 - **Instagram tayang** 12 Nov 2026 21.25 WIB: https://www.instagram.com/reel/DfpQ5ShnGys/ (media 18149627920568714). Komentar aturan 17999463360106269 terbit; pin manual.
-- **TikTok**: video sudah di Higgsfield, sesi publish `9c5de499-91b1-4648-bd99-68404ca3e678` (berlaku s.d. 23.26 WIB). User menyelesaikan form widget di claude.ai; pilih sampul `tiktok/day5-cover.jpg`. Komentar pin TikTok manual (`tiktok/day5-komentar-pin.txt`).
+- **TikTok tayang** (diposting user lewat widget Higgsfield, 12 Nov malam): https://vt.tiktok.com/ZSp92rxrm/ (aweme `7707292622959693108`, pakai ini untuk `FETCH_VIDEO_COMMENTS` saat hitung voting Day 6). Komentar pin manual.
 - Bukti: `publish-result.json`.
 
 ## Untuk Day 6
 
 - Ambil angka pengikut nyata saat produksi untuk papan PELANGGAN n / 1.000 (IG: Composio `INSTAGRAM_GET_USER_INFO`; TikTok: TikHub `TIK_HUB_TIKTOK_APP_V3_GET_USER_PROFILE`).
 - Toples MODAL terus terisi pelan-pelan; Babe Rojali boleh muncul sebentar.
-- Day 5 TikTok: cari aweme_id lewat `TIK_HUB_TIKTOK_APP_V3_FETCH_VIDEO_SEARCH_RESULT` (keyword `warungkomen`, region `ID`).
+- Voting Day 6: IG media `18149627920568714`, TikTok aweme `7707292622959693108`. Batas Sabtu 14 Nov 2026 17.00 WIB.
