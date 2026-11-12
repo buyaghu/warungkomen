@@ -2,7 +2,7 @@
 
 Format mengikuti `episodes/day4/NASKAH.md`. Gambar penuh, karakter besar, tanpa subtitle berjalan. TTS menulis "gue"; di layar "gw".
 
-- Pemenang: IG "Bakso keju", **58 like** (rekor; Day 4 cuma 4 like). Kubu bakso akhirnya kompak.
+- Pemenang: @evelyn.chipi67 (IG) "Bakso keju", **58 like** (rekor; Day 4 cuma 4 like). Kubu bakso akhirnya kompak.
 - Menu: [Ayam geprek, Mie ayam, Nasi daun jeruk, Bakso keju]. CABANG 1/100.
 - **Baru (wajib mulai Day 5):** papan "MENUJU CABANG 2: 673/1.000 PENGIKUT" (angka nyata 12 Nov: IG 31 + TikTok 642) + ajakan follow.
 - **Dana cabang 2 (A+B, disetujui user 12 Nov):** toples MODAL terisi receh dari pelanggan, tapi kagak cukup; Babe Rojali (juragan gerobak bekas, tokoh baru) janji kasih gerobak kedua kalau pengikut tembus 1.000, bayarnya nyicil dari omzet.
@@ -14,7 +14,7 @@ Format mengikuti `episodes/day4/NASKAH.md`. Gambar penuh, karakter besar, tanpa 
 2. Kemaren gw bilang kompakan... beneran kompak!
 3. Day lima! Gw masak bakso keju!
 
-Visual: frame pertama Juned melongo, sendok sayur jatuh. Kartu komentar @(pemenang) · 58 LIKE · IG. Kubu bakso (tiga pelanggan Day 4) kini berdiri satu barisan, papan sama: BAKSO KEJU.
+Visual: frame pertama Juned melongo, sendok sayur jatuh. Kartu komentar @evelyn.chipi67 · 58 LIKE · IG. Kubu bakso (tiga pelanggan Day 4) kini berdiri satu barisan, papan sama: BAKSO KEJU.
 
 ## 10–20 dtk — Runner-up
 
@@ -57,7 +57,6 @@ Visual: Juned intip toples lalu lirik gerobak bekas di lapak Babe Rojali (bapak 
 
 ## Keputusan (butuh user)
 
-- Username pemenang IG "Bakso keju" 58 like (API tidak memberi; butuh screenshot).
 - Angka pelanggan cerita 11 → 14?
 - Jadwal tayang Day 5 dan batas voting Day 6 (usulan: tayang Jumat 13 Nov, batas Sabtu 14 Nov 2026, 17.00 WIB).
 - Catatan durasi: Day 4 21 baris jadi 65 dtk. Kalau take kepanjangan, kandidat potong: baris 7 dan 16.
