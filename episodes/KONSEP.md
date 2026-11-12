@@ -22,3 +22,10 @@
 - **Saat tembus 1.000:** buka voting netizen untuk lokasi dan nama cabang 2, dengan aturan yang sama seperti voting menu
   (satu komen, like terbanyak di IG + TikTok). Episode berikutnya: Mang Juned membuka cabang 2 di lokasi pemenang; layar menjadi CABANG 2/100.
 - Voting menu harian tetap berjalan seperti biasa.
+
+### Dana cabang 2 (disetujui user, 12 Nov 2026: opsi A+B)
+
+- **Toples MODAL (tabungan omzet):** tiap episode receh dari pelanggan masuk toples MODAL dan terlihat bertambah pelan-pelan (angka cerita, seperti PELANGGAN). Isinya tidak pernah cukup untuk gerobak kedua.
+- **Babe Rojali:** juragan gerobak bekas, tempat Juned beli gerobak pertama. Janji: kalau pengikut tembus 1.000, gerobak kedua dikasih dan dibayar nyicil dari omzet (isi toples). Inilah alasan cerita target 1.000 pengikut.
+- Saat tembus 1.000: Babe Rojali menyerahkan gerobak kedua, Juned mengosongkan toples untuk cicilan pertama dan menambah halaman di buku bon.
+- Jangan dibingkai sebagai donasi atau investasi sungguhan dari penonton; follow cukup "bantu Juned dapet gerobak".
